@@ -6,7 +6,7 @@ but also **distance** and **similarity** codefficients which describe ressemblan
 
 This duality between object and descriptor associations is described as
 Q and R analyses in Legendre and Legendre (2012) on Ecological
-ressemblance [^Legendre]
+ressemblance[^Legendre].
 
 ---
 [^Legendre] Legendre, P., & Legendre, L. (2012). Numerical
