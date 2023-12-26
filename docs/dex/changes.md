@@ -1,5 +1,1 @@
-* 2023-12-26 10:20:51Z [Distances vs dissimilarities](../4)
-* 2023-12-26 10:25:48Z [Similarity and distance](../3)
-* 2023-12-25 21:36:51Z [Statistical association](../2)
-* 2023-12-25 20:48:24Z [Sample content node](../1)
-* 2023-12-25 11:46:02Z [Sorry, planned but not yet available](../0)
+* 2023-12-26 06:46:40Z [Eloise](../1)
