@@ -11,16 +11,17 @@ identical object are at a distance of 0.[^Dissimilarities]
 When having normalized coefficients that range in $[0, 1]$, we can get
 corresponding coefficients.
 
-$$D = 1 - S,     D = \sqrt(1 - S),         D = sqrt(1 - S^2)$$
-
-$$S = 1 - D,     S = \sqrt(1 - D),         S = sqrt(1 - D^2)$$
+$$D = 1 - S, \quad D = \sqrt(1 - S), \quad D = \sqrt(1
+- S^2)$$[^Equation]
 
 See Section 7.3 and 7.4 in Legender and Legender (2012)[^Legendre] for an
 exhaustive review of coefficients.
 
 [^Legendre]: Legendre, P., & Legendre, L. (2012). Numerical
 ecology. Elsevier. 
+
 [^Dissimilarities]: *Distance* and *Dissimilarities* are often used interchangeably,
 although they can mean different [things](../4).
 
+[^Equation]: Or inversely from D to S
 
