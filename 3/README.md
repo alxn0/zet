@@ -20,7 +20,7 @@ exhaustive review of coefficients.
 ecology. Elsevier. 
 
 [^Dissimilarities]: *Distance* and *Dissimilarities* are often used interchangeably,
-although they can mean different [things](../4).
+although they can mean different [things](/4).
 
 [^Equation]: Or inversely from D to S
 
