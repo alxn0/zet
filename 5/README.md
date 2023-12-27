@@ -6,13 +6,12 @@ Considering the extensive number of algorithm, multiple taxonomy have
 been proposed and to my knowledge, Ezugwu and al. (2022)
 provides the most recent and complete one [^ref1].
 
-Here further discussion on:
-- Feature selection (TODO)
+**Further discussion on**:
 - The clustering process (TODO)
 - Common clustering algorithms (TODO)
 - Validation approach (TODO)
 
-References on clustering analysis:
+**References on clustering analysis**:
 - A comprehensive survey of clustering algorithms[^ref1]
 - Data Clustering: Algorithm and Applications[^ref2]
 - Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
