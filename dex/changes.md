@@ -1,4 +1,5 @@
 * 2023-12-27 14:11:18Z [Clustering](../5)
+* 2023-12-27 14:20:17Z [Clustering process](../6)
 * 2023-12-26 10:53:18Z [Similarity and distance](../3)
 * 2023-12-26 10:20:51Z [Distances vs dissimilarities](../4)
 * 2023-12-25 21:36:51Z [Statistical association](../2)
