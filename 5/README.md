@@ -7,7 +7,7 @@ been proposed and to my knowledge, Ezugwu and al. (2022)
 provides the most recent and complete one [^ref1].
 
 **Further discussion on**:
-- [The clustering process](./5)
+- [The clustering process](./6)
 - Common clustering algorithms (TODO)
 - Validation approach (TODO)
 
