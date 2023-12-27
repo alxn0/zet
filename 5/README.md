@@ -13,12 +13,12 @@ Here further discussion on:
 - Validation approach (TODO)
 
 References on clustering analysis:
-    - A comprehensive survey of clustering algorithms[^ref1]
-    - Data Clustering: Algorithm and Applications[^ref2]
-    - Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
-      and k-means methods)[^ref3]
-    - Chapter 8 of Data mining: Concepts and Techniques (Dated, but detailed
-      presentation of algorithms)[^ref4]
+- A comprehensive survey of clustering algorithms[^ref1]
+- Data Clustering: Algorithm and Applications[^ref2]
+- Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
+  and k-means methods)[^ref3]
+- Chapter 8 of Data mining: Concepts and Techniques (Dated, but detailed
+  presentation of algorithms)[^ref4]
 
 
 
