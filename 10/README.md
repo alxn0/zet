@@ -56,4 +56,4 @@ Lengendre and Legendre (2012)[^ref1].
 [^ref2]: Xiong, H., Li Z. (2014). Clustering Validation Measures. In Aggarwal, C. C. (ed.), Reddy C. K.. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC.
 [^info1]: Points that are in between clusters.
 [^info2]: Clusters that are close to each others,
-[^info3]: Number of points in clusters. Test uneven cluster sizeé
+[^info3]: Number of points in clusters. Test uneven cluster size
