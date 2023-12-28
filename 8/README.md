@@ -28,3 +28,4 @@ Stuff that I may want to read again.
   rules](https://news.ycombinator.com/item?id=36189583)
 - [Introduction to Algorithms: A Creative Approach by Udi
   Manber](https://news.ycombinator.com/item?id=36096305)
+- [How big is youtube](https://news.ycombinator.com/item?id=38739563)
