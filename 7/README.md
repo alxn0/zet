@@ -4,7 +4,8 @@ Here's a quick categorial overview of some of the mostly used *traditional* clus
 methods.
 
 Most of this information is taken from Xu and Tian (2015)[^ref1] and
-Ezugwu and al. (2022)[^ref2] 
+Ezugwu and al. (2022)[^ref2]. See those paper for an extensive review of
+methods.
 
 1. **Hierarchical-based clustering**
 
