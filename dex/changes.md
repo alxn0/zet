@@ -1,3 +1,4 @@
+* 2023-12-28 16:29:38Z [Phytotherapy ressources](../14)
 * 2023-12-28 16:26:08Z [What is the Zettlekasten method](../1)
 * 2023-12-28 16:22:51Z [Awesome dev and analysis CLI tools](../13)
 * 2023-12-28 15:33:00Z [CS/Stats useful learning materials](../12)
@@ -5,7 +6,7 @@
 * 2023-12-28 14:41:00Z [Hackernews Bookmarks](../8)
 * 2023-12-28 12:46:48Z [Clustering validity based on internal criteria](../10)
 * 2023-12-28 12:46:31Z [Clustering validation](../9)
-* 2023-12-28 16:29:38Z [Phytotherapy ressources](../14)
+* 2023-12-28 16:30:42Z [Artisanal breadmaking steps](../15)
 * 2023-12-28 10:21:08Z [Traditional clustering algorithms](../7)
 * 2023-12-27 16:14:14Z [Clustering](../5)
 * 2023-12-27 14:23:47Z [Clustering process](../6)
