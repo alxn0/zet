@@ -18,19 +18,16 @@ The Pearson correlation between original distance and cophenetic
 distances. Can be used to assess the validity of the dendrogram.
 
 Consider that:
-- $x(i, j)$ is the original distance between objects $i$ and $j$
+- $d(i, j)$ is the original distance between objects $i$ and $j$
 - $t(i, j)$ is the cophenetic distance between the same objects
-- $\bar{x}$ is is the average of $x(i, j)$
+- $\bar{d}$ is is the average of $d(i, j)$
 - $\bar{t}$ is the average of $t(i, j)$
 
 The cophenetic correlation between these distances (excluding the
 diagonal) is:
 
-$$c = \sum{i\<j}x(i, j) - \bar{x}$$
 
-$$\sum_{i \lt j}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-
-$$ c = \frac{\sum_{i \lt j} (x(i,j) - \bar{x}) (t(i,j) - \bar{t})}{\sqrt{\sum_{i<0}(x(i,j)-\bar{x})^2 \sum_{i<0}(t(i,j)-\bar{t})^2}} $$
+$$ c = \frac{\sum_{i \lt j} (d(i,j) - \bar{xd) (t(i,j) - \bar{t})}{\sqrt{\sum_{i \lt j}(d(i,j)-\bar{d})^2 \sum_{i \lt j}(t(i,j)-\bar{t})^2}} $$
 
 ### Interpretation
 Cophenetic correlations range in -1 and +1, and it is expected to be positive if we compare distances (original and cophenetic), and negative if we compare distances with similarities. A value of 1 means a perfect correspondance between original ressemblance and cophenetic distances, and 0s means no correspondance at all.
