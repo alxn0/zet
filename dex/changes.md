@@ -1,6 +1,6 @@
 * 2023-12-29 14:54:44Z [Clustering with semimetric distances](../17)
 * 2023-12-29 14:47:48Z [What about metric distances and space?](../16)
-* 2023-12-29 15:09:38Z [Tree, forest and dendrogram](../18)
+* 2023-12-29 15:12:07Z [Tree, forest and dendrogram](../18)
 * 2023-12-29 08:59:15Z [Similarity and distance](../3)
 * 2023-12-28 16:30:42Z [Artisanal breadmaking steps](../15)
 * 2023-12-28 16:29:38Z [Phytotherapy ressources](../14)
