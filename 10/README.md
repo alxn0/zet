@@ -29,7 +29,7 @@ scheme:
 - **Davies-Bouldin index**: Use the average similarities between
   clusters, were similarities are the ration of within- and between
   cluster distances.
-- **Hubert Γ statistics**: Evalute the difference between clustering
+- [**Hubert Γ statistics**](../22): Evalute the difference between clustering
   solutions by counting disagreements between partitions. Can be used to
   evaluate a *single clustering scheme* either by comparing to a {0, 1}
   matrix, or one simulated from a monte carlo procedure to test the
