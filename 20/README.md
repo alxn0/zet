@@ -13,6 +13,6 @@ the empirical $q$ is smaller (or greater) than $p$ proportion (normaly
 
 **Here are notes on methods used to compare partitions**:
 
-- Rand index
+- [Rand index](../21)
 - Mutual Information Score
 - Hubert's and the normalized T statistics 
