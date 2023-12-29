@@ -28,6 +28,8 @@ diagonal) is:
 
 $$c = \sum{i\<j}x(i, j) - \bar{x}$$
 
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
 $$ c = \frac{\sum_{i\<j} (x(i,j) - \bar{x}) (t(i,j) - \bar{t})}{\sqrt{\sum_{i\<j}(x(i,j)-\bar{x})^2 \sum_{i\<j}(t(i,j)-\bar{t})^2}} $$
 
 ### Interpretation
