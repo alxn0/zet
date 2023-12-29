@@ -23,6 +23,7 @@ which is the number of pairwise objects parition similarly divided by the total 
 This give the proportions of similar partitioning between the two solution.
 
 **Adjusted Rand**
+
 Corrected-for-chance version, the relationships between the two partitions is compare to that of a 
 partitions picked at random, i.e., a random model. Different random models can be used depending on the partition algorithm.
 
