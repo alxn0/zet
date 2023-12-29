@@ -13,7 +13,7 @@ The name derives from two ancient greek words, [δένδρον](https://en.wikti
 <p align="center" width="100%">
   <img src="./dendrogram.svg" alt="Some dendrogram" />
 </p>
-*Image source
-[wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)*
+
+*Image source [wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)*
 
 
