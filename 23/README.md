@@ -4,13 +4,13 @@
 In clustering, the cophenetic distance is the *distance treshold* at which two objects while be fused in a same cluster. 
 In a [dendrogram](../18), it is the height (if the lengths of the branch are representative of the distance) at which objects/clusters are merged.
 
-[dendrogram](./dendrogram.png)
+![dendrogram](./dendrogram.png)
 
 In this example, the cophenetic distance between 212 and 214 is $\approx$ 0.4, while 432 and 431 $\approx$ 0.5. 
 
 A cophenetic matrix is a $n$ by $n$ square matrix where the elements represent the cophenetic distance between the objects.
 
-[matrix](./matrix.png)
+![matrix](./cophenetic_matrix.png)
 
 ## Correlation
 ### Definition
