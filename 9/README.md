@@ -13,8 +13,8 @@ following questions:
 - Is the cluster results best fits the underlying data?
 
 Here are categories of **Validation measures**:
-1. Internal criteria
-2. External criteria
+1. [Internal criteria](../10)
+2. [External criteria](../20)
 3. Relative criteria
 
 Here are good references on clustering validation methods:
