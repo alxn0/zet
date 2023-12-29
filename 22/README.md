@@ -32,8 +32,9 @@ where $\mu_X, \mu_Y, \sigma_X$ and $\sigma_Y$ are the means and variance of X an
 
 In this framework, we can compare different [[ressemblance]] matrix and/or clustering results by defining:
 
-$$ Y_{binary} = \begin{cases} 1,\ if\ i\ and\ j\ belongs\ to\ different\ clusters \\
-                              0,\ if\ i\ and\ j\ are\ in\ the\ same\ cluster
+$$ Y_{binary} = \begin{cases} 
+                        1,\ if\ i\ and\ j\ belongs\ to\ different\ clusters \\
+                        0,\ if\ i\ and\ j\ are\ in\ the\ same\ cluster
                 \end{cases} $$
 
 

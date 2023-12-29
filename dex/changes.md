@@ -2,7 +2,7 @@
 * 2023-12-29 19:07:21Z [External criteria for clustering validation](../20)
 * 2023-12-29 19:06:38Z [Statistical association](../2)
 * 2023-12-29 18:31:02Z [Align images with wordwrap in markdown](../19)
-* 2023-12-29 21:02:19Z [Hubert' gamma statistic](../22)
+* 2023-12-29 21:02:55Z [Hubert' gamma statistic](../22)
 * 2023-12-29 15:19:03Z [Tree, forest and dendrogram](../18)
 * 2023-12-29 14:54:44Z [Clustering with semimetric distances](../17)
 * 2023-12-29 14:47:48Z [What about metric distances and space?](../16)
