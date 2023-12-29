@@ -11,5 +11,10 @@ representation.
 The name derives from two ancient greek words, [δένδρον](https://en.wiktionary.org/wiki/%CE%B4%CE%AD%CE%BD%CE%B4%CF%81%CE%BF%CE%BD#Ancient_Greek "wikt:δένδρον")(*déndron*), meaning "tree", and [γράμμα](https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1#Ancient_Greek "wikt:γράμμα")(*grámma*), meaning "drawing, mathematical figure".
 
 ![FIGURE](./dendrogram.svg)
-*Source
+*Image source
 [wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)*
+
+<p align="center" width="100%">
+  <img src="./dendrogram.svg" alt="Some dendrogram" />
+</p>
+
