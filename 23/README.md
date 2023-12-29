@@ -38,6 +38,14 @@ with distances in the original spaces. Departure from the diagonal indicate dist
 In clustering analysis, they can be used to compare original and
 cophenetic distances. In this context, we called them sheppard-like diagram.
 
+![Shepard-like](./shepard_like_diagram.png)
+
+Shepard-like diagram of the cophenetic distances compared to the original distances. These three represent hierarchical agglomerative clustering 
+with (a) single linkage, (b) intermediate linkage with a proportion of 0.5 and (c) complete linkage methods. The diagonale is a visual references. 
+This illustrate well the space-contraction effect of single linkage, the space-conservation of intermediate linkage and the space-dilatation effect of 
+complete linkage; the cophenetic distances are equal or smaller for single linkage, and equal or larger for complete linkage. 
+Taken from Legendre and Legender (2012) p. 414 [^ref2]
+
 ### Relation to the mantel test
 This matrix correlation is an application of the *standardized mantel test*, which can also be useful to:
 	- compare two distance/similarity matrix of the same type of data
