@@ -26,7 +26,7 @@ Consider that:
 The cophenetic correlation between these distances (excluding the
 diagonal) is:
 
-$$ c = \frac {\sum_{i\<j} [x(i,j) - \bar{x}][t(i,j) - \bar{t}]}{\sqrt{\sum_{i\<j}[x(i,j)-\bar{x}]^2 \sum_{i\<j}[t(i,j)-\bar{t}]^2}} $$
+$$ c = \frac {\sum_{i\<j} (x(i,j) - \bar{x}) (t(i,j) - \bar{t})} {\sqrt{\sum_{i\<j}(x(i,j)-\bar{x})^2 \sum_{i\<j}(t(i,j)-\bar{t})^2}} $$
 
 ### Interpretation
 Cophenetic correlations range in -1 and +1, and it is expected to be positive if we compare distances (original and cophenetic), and negative if we compare distances with similarities. A value of 1 means a perfect correspondance between original ressemblance and cophenetic distances, and 0s means no correspondance at all.
