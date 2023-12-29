@@ -35,7 +35,7 @@ the metric properties of an extensive list of distance and similarity
 coefficients. 
 
 Related note:
-- Clustering analysis in semimetric space (**TODO**)
+- [Clustering analysis in semimetric space](../16)
 - Dimensionnality reduction in semimetric space (**TODO**)
 
 [^info1]: In Euclidean space, it means that two sides of a triangle is necessarily equal to or larger than the third side.
