@@ -26,6 +26,8 @@ Consider that:
 The cophenetic correlation between these distances (excluding the
 diagonal) is:
 
+$$ c = \frac{\sum_{i\<j} (x(i,j) - \bar{x})}{x} $$
+
 $$ c = \frac{\sum_{i\<j} (x(i,j) - \bar{x}) (t(i,j) - \bar{t})}{\sqrt{\sum_{i\<j}(x(i,j)-\bar{x})^2 \sum_{i\<j}(t(i,j)-\bar{t})^2}} $$
 
 ### Interpretation
