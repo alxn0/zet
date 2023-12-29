@@ -20,26 +20,27 @@ than testing the whole partition structure (i.e., the partition tree).
 
 The general idea is to measure the correlation between two ressamblance matrix of the same shape:
 
-$$ \Gamma = \frac{1}{m} \sum_{i = 1}^{n - 1} \sum_{j = i+1}^{n} X(i,j)Y(i,j)$$
+$$ \Gamma = \frac{1}{m} \sum_{i = 1}^{n - 1} \sum_{j = i+1}^{n} X(i,j)Y(i,j) $$
+
 where $m$ is the total number of possible pairs in X (or Y), being $m = n(n-1)/2$.
 
 There is a normalized (or adjusted) version:
 
-$$ \hat{\Gamma} = \frac{1}{m} \sum_{i = 1}^{n - 1} \sum_{j = i+1}^{n} (X(i,j) - \mu_X)(Y(i,j)-\mu_Y)\ /\ \sigma_X \sigma_Y$$
+$$ \hat{\Gamma} = \frac{1}{m} \sum_{i = 1}^{n - 1} \sum_{j = i+1}^{n} (X(i,j) - \mu_X)(Y(i,j)-\mu_Y)\ /\ \sigma_X \sigma_Y $$
 
-where $\mu_X, \mu_Y, \sigma_X$ and $\sigma_Y$ are the means and variance of X and Y. It is the [[pearson_correlation|Pearson's correlation]] coefficient between the elements of X and Y.
+where $\mu_X, \mu_Y, \sigma_X$ and $\sigma_Y$ are the means and variance of X and Y. It is the Pearson's correlation coefficient between the elements of X and Y.
 
 In this framework, we can compare different [[ressemblance]] matrix and/or clustering results by defining:
 
 $$ Y_{binary} = \begin{cases} 1\ if\ i\ and\ j\ belongs\ to\ different\ clusters \\ 0,\ if\ i\ and\ j\ are\ in\ the\ same\ cluster
-\end{cases}$$
+\end{cases} $$
 
 
 ## Usage
 
 **External validity**:
 - This can be applied to compare the clustering result $C$ with an external solution $P$. First we create two binary matrices, which correpond to the objects being in the same groups (1) or different (0).
-- It can also be used to compare the original [[ressemblance]] matrix ($S$ or $D$) with a binary matric of an external solution $P$.
+- It can also be used to compare the original ressemblance matrix ($S$ or $D$) with a binary matric of an external solution $P$.
 
 **Internal validity**
 - Validate a given clustering at K cluster by comparing the ressamblance matrix with a binary matrix such as $Y_{binary}$.
