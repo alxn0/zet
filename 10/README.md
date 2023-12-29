@@ -47,7 +47,7 @@ subclusters[^info2], skewer distributions[^info3] and arbitratry shapes.
 - **Cluster Validation Indeb based on Nearest Neighbors (CVNN)** performed well in all six aspects.
 
 When using a hierarchical clustering algorithm, the hierarchy can be
-evaluated using the **Cophenetic coefficient**. Can be used to test the
+evaluated using the [**Cophenetic correlation coefficient**](../23). Can be used to test the
 random hypothesis, but also observed how specific hierarchical algorithm
 biais pairwise connections toward smaller or larger distances (see
 Lengendre and Legendre (2012)[^ref1].
