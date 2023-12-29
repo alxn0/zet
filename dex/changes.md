@@ -1,4 +1,5 @@
 * 2023-12-29 08:57:26Z [What about metric distances and space?](../16)
+* 2023-12-29 08:59:15Z [Similarity and distance](../3)
 * 2023-12-28 16:30:42Z [Artisanal breadmaking steps](../15)
 * 2023-12-28 16:29:38Z [Phytotherapy ressources](../14)
 * 2023-12-28 16:26:08Z [What is the Zettlekasten method](../1)
@@ -11,7 +12,6 @@
 * 2023-12-28 10:21:08Z [Traditional clustering algorithms](../7)
 * 2023-12-27 16:14:14Z [Clustering](../5)
 * 2023-12-27 14:23:47Z [Clustering process](../6)
-* 2023-12-27 14:21:22Z [Similarity and distance](../3)
 * 2023-12-26 10:20:51Z [Distances vs dissimilarities](../4)
 * 2023-12-25 21:36:51Z [Statistical association](../2)
 * 2023-12-25 11:46:02Z [Sorry, planned but not yet available](../0)
