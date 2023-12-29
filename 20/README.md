@@ -15,4 +15,4 @@ the empirical $q$ is smaller (or greater) than $p$ proportion (normaly
 
 - [Rand index](../21)
 - Mutual Information Score
-- Hubert's and the normalized T statistics 
+- [Hubert's and the normalized $\gamma$ statistics](../22)
