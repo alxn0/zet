@@ -34,7 +34,7 @@ In chapter 7 of Legendre and Legendre (2012), Table 7.1 and 7.2 provides
 the metric properties of an extensive list of distance and similarity
 coefficients. 
 
-Related note:
+Related notes:
 - [Clustering analysis in semimetric space](../16)
 - Dimensionnality reduction in semimetric space (**TODO**)
 

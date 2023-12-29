@@ -1,5 +1,5 @@
 * 2023-12-29 14:41:24Z [Clustering with semimetric distances](../17)
-* 2023-12-29 14:42:00Z [What about metric distances and space?](../16)
+* 2023-12-29 14:42:23Z [What about metric distances and space?](../16)
 * 2023-12-29 08:59:15Z [Similarity and distance](../3)
 * 2023-12-28 16:30:42Z [Artisanal breadmaking steps](../15)
 * 2023-12-28 16:29:38Z [Phytotherapy ressources](../14)
