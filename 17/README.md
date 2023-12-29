@@ -12,7 +12,7 @@ validated](https://stats.stackexchange.com/questions/13873/does-a-distance-have-
 
 Same observation with *k-mean* which expect quared Euclidean distances. 
 
-Alternatively, k-medoids relies on data points for *centers*, yet it look to actual
+Alternatively, *k-medoids* relies on data points for *centers*, yet it look to actual
 data points for medoids, and minimize distance from these real
 observations. Therefor, they can work with arbitrary distance measures,
 and are more suited to k-means. They try to identify the *nearest
@@ -30,17 +30,18 @@ be coherent regions and the notions of **compactness** and
 **separation** may not aling with the behaviors of distance measure.
 
 Alternatively, algorithms based on **nearest neighbors** such has some 
-hierarchical (e.g., single linkage), density-based (e.g., DBSCAN) 
-or afinnity-based algorithms works well with semimetric distances.
+hierarchical (e.g., single linkage) or density-based algorithms (e.g., DBSCAN) 
 
-Another approach is to relies on graph-based approach (e.g., spectral
+Another approach is to relies on **graph-based** approach (e.g., spectral
 clustering), were similarities are analyzed as graphs. Graphs can 
 handle semimetric similarities, but also non-metric ones. 
 
-A common approach is to transform or scale non-metric distances into
+A last workaround is to **transform or scale** non-metric distances into
 metric ones before applying clustering algorithm.
 
-Some methods suited for semimetric distance:
+---
+
+Some other methods especially suited for semimetric distance:
 
 - [relational k-means](https://arxiv.org/abs/1304.6899)
 - [relational
