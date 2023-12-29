@@ -4,7 +4,7 @@ Used to compare different *partitions* of the same object.
 It simply consider all pairs of objects and determine for each 
 pairs whether they are placed or not in the same group.
 
-**Simple Rand**
+## Simple Rand
 
 We create a 2x2 contigency matrix which compares objects partitioning from 2 data clustering procedure.
 
@@ -22,7 +22,7 @@ $$ Rand = \frac{a + d}{a + b + c + d} $$
 which is the number of pairwise objects parition similarly divided by the total number of pairs. 
 This give the proportions of similar partitioning between the two solution.
 
-**Adjusted Rand**
+## Adjusted Rand
 
 Corrected-for-chance version, the relationships between the two partitions is compare to that of a 
 partitions picked at random, i.e., a random model. Different random models can be used depending on the partition algorithm.
