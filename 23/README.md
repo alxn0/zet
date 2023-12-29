@@ -26,9 +26,6 @@ Consider that:
 The cophenetic correlation between these distances (excluding the
 diagonal) is:
 
-
-$$ c = \frac{\sum_{i \lt j} (d(i,j) - \bar{x}) (t(i,j) - \bar{t})}{y} $$
-
 $$ c = \frac{\sum_{i \lt j} (d(i,j) - \bar{x}) (t(i,j) - \bar{t})}{\sqrt{\sum_{i \lt j}(d(i,j)-\bar{d})^2 \sum_{i \lt j}(t(i,j)-\bar{t})^2}} $$
 
 ### Interpretation
@@ -49,7 +46,7 @@ This matrix correlation is an application of the *standardized mantel test*, whi
 See p.412 of Legendre and Legendre (2014)[^ref2]
 
 ### Consideration
- We can use non metric correlation (e.g., Kendall's tau or Spearman's rho) if we are interested in the geometric structure of the dendrogram instead of the actual length of the branch.
+ We can use non metric correlation (e.g., Kendall's $\tau$ or Spearman's $\rho$) if we are interested in the geometric structure of the dendrogram instead of the actual length of the branch.
 - A cophenetic correlation cannot be tested for significance as cophenetic distances are not independant from the original ressemblance.
 - Alternatively, the comparison of the same clustering applied to *different data sets* about the same objects can be statisticaly compared in terms of significance.
 
