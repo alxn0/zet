@@ -26,8 +26,11 @@ over the distances between objects and their group centroid[^ref2]
 $$ ch = \frac{B(k)}  {W(k)} * \frac{n-k}{k-1} $$
 
 Where
-$$ B(k) = \frac{1}{n} \sum_{i, j = 1}^{n}\ d(x_i, x_j)^2 - W(k) $$
+
+$$ B(k) = \frac{1}{n} \sum_{i, j = 1}^{n} d(x_i, x_j)^2 - W(k) $$
+
 and
+
 $$ W(k) = \sum_{h = 1}^{k}\ \frac{1}{|C_h|} \sum_{x_i, x_j \in C_h} d(x_i, x_j)^2 $$
 
 In simple terms, $W(k)$ is the average of the sum of the square distances between objects in same groups. On the other hand, $B(k)$ is the sum of square distances between all objects in different clusters, calculated here as the sum of squares between all objects minum the sum of square distances between objects of same clusters (i.e., $W(k)$).
@@ -45,7 +48,7 @@ Explanation from chatGPT (unverified):
 
 ## Interpretation
 
-** Lower values indicate better fits
+**Lower values indicate better fits**
 
 ## Considerations
 
