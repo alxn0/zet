@@ -9,6 +9,7 @@ The silhouette coefficient is used to assess the extent that clustering procedur
 The silhouette coefficient for a single object is:
 
 $$ s = \frac{b - a}{\max(a, b)} $$
+
 where $a$ is the the mean distance between a sample and all other points in the same class, and $b$ is the mean distance between a sample and all other points in the *next nearest cluster*, a.k.a. the *neighbour cluster*.
 
 This statistic range in \[-1, 1\], where positive values means better belonging to its own cluster, and negative values is a point closer to neighbor cluster.
