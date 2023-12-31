@@ -1,3 +1,5 @@
+* 2023-12-31 12:24:06Z [Calinski Harabasz index](../24)
+* 2023-12-29 22:44:25Z [Clustering](../5)
 * 2023-12-29 22:28:51Z [Clustering validity based on internal criteria](../10)
 * 2023-12-29 22:22:10Z [Clustering validation](../9)
 * 2023-12-29 22:11:14Z [External criteria for clustering validation](../20)
@@ -6,7 +8,6 @@
 * 2023-12-29 21:02:55Z [Hubert' gamma statistic](../22)
 * 2023-12-29 19:07:36Z [Simple and adjusted Rand indices](../21)
 * 2023-12-29 19:06:38Z [Statistical association](../2)
-* 2023-12-29 22:44:25Z [Clustering](../5)
 * 2023-12-29 18:31:02Z [Align images with wordwrap in markdown](../19)
 * 2023-12-29 15:19:03Z [Tree, forest and dendrogram](../18)
 * 2023-12-29 14:54:44Z [Clustering with semimetric distances](../17)
