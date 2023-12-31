@@ -22,13 +22,13 @@ criteria:
 Here are some coefficients that I used to evaluate a single clustering
 scheme:
 
-- **Calinski-Harabasz index**: Based on the average between-
+- [**Calinski-Harabasz index**](../24): Based on the average between-
   (separation) and within-cluster (compactness) sum of squares.
 - **Silhouette index**: Calculate for each object the ratio between 
   the mean distance o all other object of its cluster, and the minimum distance 
   with the closest cluster. Can be used to assess how object belong 
   to their own cluster.
-- **Davies-Bouldin index**: Use the average similarities between
+- [**Davies-Bouldin index**](../25): Use the average similarities between
   clusters, were similarities are the ration of within- and between
   cluster distances.
 - [**Hubert Γ statistics**](../22): Evalute the difference between clustering
@@ -42,9 +42,9 @@ Xiong and Li (2014)[^ref1] compared 12 internal measures on the impact of
 monotonicity, noise[^info1], uneven density and
 subclusters[^info2], skewer distributions[^info3] and arbitratry shapes.
 
-- **Calinski-Harabasz** could not handle  noise, skewed distribution
+- [**Calinski-Harabasz**](../24) could not handle  noise, skewed distribution
   and arbitrary shapes.
-- **Average Silhouette** and **Davies-Bouldin** could not handle subclusters and
+- **Average Silhouette** and [**Davies-Bouldin**](../25) could not handle subclusters and
   arbitrary shape.
 - **Cluster Validation Indeb based on Nearest Neighbors (CVNN)** performed well in all six aspects.
 
