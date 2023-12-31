@@ -60,14 +60,16 @@ Lengendre and Legendre (2012)[^ref2].
 
 The idea is to compare the robustness of the solution with sample
 randomness. It can be assessed using bootstrapping as
-proposed by Fand and Wang (2012)[^ref3] or through crossvalidation
-as proposed by Wan (2010) [^ref4]
+proposed by Jain asnd Moreau (1987)[^ref5] and Fand and Wang (2012)[^ref3], or through crossvalidation
+as proposed by Wan (2010) [^ref4]. 
 
 
 [^ref1]: Xiong, H., Li Z. (2014). Clustering Validation Measures. In Aggarwal, C. C. (ed.), Reddy C. K.. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC.
 [^ref2]: Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
 [^ref3]: Fang, Y., & Wang, J. (2012). Selection of the number of clusters via the bootstrap method. Computational Statistics & Data Analysis, 56(3), 468–477. https://doi.org/10.1016/j.csda.2011.09.003
 [^ref4]: Wang, J. (2010). Consistent selection of the number of clusters via crossvalidation. Biometrika, 97(4), 893–904. [https://doi.org/10.1093/biomet/asq061](https://doi.org/10.1093/biomet/asq061)
+[^ref5]: Jain, A. K., & Moreau, J. V. (1987). Bootstrap technique in cluster analysis. Pattern Recognition, 20(5), 547–568. [https://doi.org/10.1016/0031-3203(87)90081-1](https://doi.org/10.1016/0031-3203(87)90081-1)
+
 [^info1]: Points that are in between clusters.
 [^info2]: Clusters that are close to each others,
 [^info3]: Number of points in clusters. Test uneven cluster size
