@@ -15,7 +15,8 @@ following questions:
 Here are categories of **Validation measures**:
 1. [Internal criteria](../10)
 2. [External criteria](../20)
-3. Relative criteria
+3. [Relative criteria](../27)
+
 
 Here are good references on clustering validation methods:
     - Halkidi and al., (2001)[^ref1] (Dated but well explained)
