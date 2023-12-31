@@ -14,8 +14,8 @@ where $a$ is the the mean distance between a sample and all other points in the 
 
 This statistic range in \[-1, 1\], where positive values means better belonging to its own cluster, and negative values is a point closer to neighbor cluster.
 
-Can also be average by cluster, providing a fit values for each ones, or
-for the whole dataset, providing a general clustering fit values.
+Can also be **average by cluster**, providing a fit values for each ones, or
+**average for all objects**, providing a general clustering fit values.
 
 ## Interpretation
 

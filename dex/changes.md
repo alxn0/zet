@@ -2,7 +2,7 @@
 * 2023-12-31 12:48:54Z [Clustering](../5)
 * 2023-12-31 12:43:13Z [Davies Boulding Index](../25)
 * 2023-12-31 12:30:33Z [Calinski Harabasz index](../24)
-* 2023-12-31 13:01:00Z [Silhouette coefficient](../26)
+* 2023-12-31 13:01:57Z [Silhouette coefficient](../26)
 * 2023-12-29 22:22:10Z [Clustering validation](../9)
 * 2023-12-29 22:11:14Z [External criteria for clustering validation](../20)
 * 2023-12-29 22:03:47Z [Hackernews Bookmarks](../8)
