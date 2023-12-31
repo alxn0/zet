@@ -33,7 +33,7 @@ computation[^ref2]
 
 ## Interpretation
 
-** Lower values means better fit
+**Lower values means better fit**
 
 ## Considerations
 
