@@ -17,7 +17,8 @@ provides the most recent and complete one [^ref1].
   field)[^ref6]
 - A comprehensive survey of clustering algorithms (advantages and
   limitations of methods)[^ref2]
-- Data Clustering: Algorithm and Applications[^ref3]
+- Data Clustering: Algorithm and Applications (Good textbook from a ML
+  perspective)[^ref3]
 - Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
   and k-means methods)[^ref4]
 - Chapter 8 of Data mining: Concepts and Techniques (Dated, but detailed
