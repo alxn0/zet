@@ -17,6 +17,8 @@ provides the most recent and complete one [^ref1].
   field)[^ref6]
 - A comprehensive survey of clustering algorithms (advantages and
   limitations of methods)[^ref2]
+- Data Cluster: 50 years beyond K-means (General and historical
+  perspective on clustering)[^ref7]
 - Data Clustering: Algorithm and Applications (Good textbook from a ML
   perspective)[^ref3]
 - Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
@@ -26,9 +28,10 @@ provides the most recent and complete one [^ref1].
 
 [^info1]: The *clustering* or *splitting* of the objects can be refered to various term such as *typologie*, *classification*, *categorization*, *grouping*, *aggregation*.
 [^ref1]: Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. [https://doi.org/10.1016/j.engappai.2022.104743](https://doi.org/10.1016/j.engappai.2022.104743)
-[^ref2]: Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. https://doi.org/10.1007/s40745-015-0040-1
+[^ref2]: Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. [https://doi.org/10.1007/s40745-015-0040-1](https://doi.org/10.1007/s40745-015-0040-1)
 [^ref3]: Aggarwal, C. K. (ed. ), Charu C. (ed. ); Reddy. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC. 
 [^ref4]: Legendre, Pierre, and Louis Legendre. (2012). In Numerical Ecology. 3rd ed. Vol. 24. Amsterdam: Elsevier.
 [^ref5]: Jiawei Han, J. P., Micheline Kamber. (2006). Data Mining: Concepts and Techniques (2nd ed.). Morgan Kaufmann.
 [^ref6]: Hennig, R., Christian; Meila, Marina; Murtagh, Fionn; Rocci. (2016). Handbook of cluster analysis. CRC Press, a Chapman & Hall book. libgen.li/file.php?md5=e155e6244900d98d4c9cbf151544af32
+[^ref7]: Jain, A. K. (2010). Data clustering: 50 years beyond K-means. Pattern Recognition Letters, 31(8), 651–666. [https://doi.org/10.1016/j.patrec.2009.09.011](https://doi.org/10.1016/j.patrec.2009.09.011)
 
