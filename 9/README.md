@@ -20,9 +20,9 @@ Here are categories of **Validation measures**:
 
 Here are good references on clustering validation methods:
 
-    - Halkidi and al., (2001)[^ref1] (Dated but well explained)
-    - Xiong and Li (2014) (Extensive reviews with comparison analysis)
-    - Hennig (2014)[^ref3] (Case study on finding bee species) 
+- Halkidi and al., (2001)[^ref1] (Dated but well explained)
+- Xiong and Li (2014) (Extensive reviews with comparison analysis)
+- Hennig (2014)[^ref3] (Case study on finding bee species) 
 
 [^ref1]: Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001). On clustering validation techniques. Journal of Intelligent Information Systems, 17(2–3), [107–145. https://doi.org/10.1023/A:1012801612483](https://doi.org/10.1023/A:1012801612483)
 [^ref2]: Xiong, H., Li Z. (2014). Clustering Validation Measures. In Aggarwal, C. C. (ed.), Reddy C. K.. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC.
