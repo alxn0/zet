@@ -24,7 +24,7 @@ scheme:
 
 - [**Calinski-Harabasz index**](../24): Based on the average between-
   (separation) and within-cluster (compactness) sum of squares.
-- **Silhouette index**: Calculate for each object the ratio between 
+- [**Silhouette index**](../26): Calculate for each object the ratio between 
   the mean distance o all other object of its cluster, and the minimum distance 
   with the closest cluster. Can be used to assess how object belong 
   to their own cluster.
@@ -44,7 +44,7 @@ subclusters[^info2], skewer distributions[^info3] and arbitratry shapes.
 
 - [**Calinski-Harabasz**](../24) could not handle  noise, skewed distribution
   and arbitrary shapes.
-- **Average Silhouette** and [**Davies-Bouldin**](../25) could not handle subclusters and
+- [**Average Silhouette**](../26) and [**Davies-Bouldin**](../25) could not handle subclusters and
   arbitrary shape.
 - **Cluster Validation Indeb based on Nearest Neighbors (CVNN)** performed well in all six aspects.
 
