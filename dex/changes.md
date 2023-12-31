@@ -1,4 +1,5 @@
 * 2023-12-31 12:30:33Z [Calinski Harabasz index](../24)
+* 2023-12-31 12:42:52Z [Davies Boulding Index](../25)
 * 2023-12-29 22:44:25Z [Clustering](../5)
 * 2023-12-29 22:28:51Z [Clustering validity based on internal criteria](../10)
 * 2023-12-29 22:22:10Z [Clustering validation](../9)
