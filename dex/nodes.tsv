@@ -16,17 +16,18 @@
 15	2023-12-28 16:30:42Z	Artisanal breadmaking steps
 16	2023-12-29 14:47:48Z	What about metric distances and space?
 17	2023-12-29 14:54:44Z	Clustering with semimetric distances
-18	2023-12-29 15:19:03Z	Tree, forest and dendrogram
+18	2024-01-02 11:07:13Z	Tree, forest and dendrogram
 19	2023-12-29 18:31:02Z	Align images with wordwrap in markdown
 20	2023-12-29 22:11:14Z	External criteria for clustering validation
 21	2023-12-29 19:07:36Z	Simple and adjusted Rand indices
 22	2023-12-29 21:02:55Z	Hubert' gamma statistic
-23	2023-12-29 22:02:01Z	Cophenetic distances and correlation
+23	2024-01-02 12:06:40Z	Cophenetic distances and correlation
 24	2023-12-31 12:30:33Z	Calinski Harabasz index
 25	2023-12-31 12:43:13Z	Davies Boulding Index
 26	2023-12-31 13:01:57Z	Silhouette coefficient
 27	2023-12-31 13:39:51Z	Relative criteria for clustering internal validation
 28	2024-01-02 11:00:39Z	Objects linkage hierarchical clustering
 29	2024-01-02 10:58:39Z	Single-linkage clustering
-30	2024-01-02 10:59:37Z	Complete-linkage clustering
+30	2024-01-02 12:09:13Z	Complete-linkage clustering
 31	2024-01-02 11:02:46Z	Intermediate-linkage clustering
+32	2024-01-02 12:10:17Z	Hierarchical agglomerative clustering
