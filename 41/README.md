@@ -94,20 +94,22 @@ summary(some_data)
 
 Escape special characters with `\`
 
-Basic markdown provides escapes for these characters:
+Characters that can be escaped:
 
-\\   backslash  
-\`   backtick  
-\*   asterisk  
-\_   underscore  
-\{\}  curly braces  
-\[\]  square brackets  
-\(\)  parentheses  
-\#   hash mark  
-\+   plus sign  
-\-   minus sign (hyphen)  
-\.   dot  
-\!   exclamation mark  
+| Symbol | name             |
+|--------|------------------|
+| \\     | backslase        |
+| \`     | backtick         |
+| \*     | asterisk         |
+| \_     | underscore       |
+| \{\}   | curly braces     |
+| \[\]   | square brackets  |
+| \(\)   | parentheses      |
+| \#     | hash mark        |
+| \+     | plus sign        |
+| \-     | hyphen           |
+| \.     | dot              |
+| \!     | exclamation mark |
 
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
