@@ -40,9 +40,22 @@ And a second header in setext
 Start line witn `>` followed by **space**
 
 ```
+Simple blockquote
 > So, where’s the Cannes Film Festival being held this year?
 Christina Aguilera
+
+Multiple paragraphs quotes
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+Wizard of oz
+
+Nested quotes
+> Why quoting?
+>> Because its fun!
 ```
+
+
 
 ## Horizontal rules
 
