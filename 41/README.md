@@ -13,7 +13,7 @@ more spaces at the end of the previous line.
 
 ## Headers
 
-Can be either in *Setext* (`==` and `--`) and *atx* format (one or multiple `#`). 
+Can be either in *Setext* (`==` and `--`) and *atx* format (one or multiple `#`).  
 There's 2 levels of setext and 6 of atx.
 
 ```

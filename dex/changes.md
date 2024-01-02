@@ -5,7 +5,7 @@
 * 2024-01-02 14:34:46Z [Clustering with semimetric distances](../17)
 * 2024-01-02 14:32:42Z [Hierarchical agglomerative clustering](../32)
 * 2024-01-02 14:11:13Z [Ward's minimum variance clustering](../39)
-* 2024-01-02 17:47:13Z [Basic markdown cheatsheet](../41)
+* 2024-01-02 17:47:54Z [Basic markdown cheatsheet](../41)
 * 2024-01-02 12:37:58Z [Average hierarchical clustering](../34)
 * 2024-01-02 12:34:39Z [Complete-linkage clustering](../30)
 * 2024-01-02 12:34:31Z [Weighted centroid clustering](../38)
