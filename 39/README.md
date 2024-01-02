@@ -12,7 +12,9 @@ $$e_{k}^2 = \sum_{i = 1}^{n_k} \sum_{j = 1}^{p} [y_{ij}^k - m_{j}^{k}]^2$$
 where $y_{ij}^k$ is the value of descriptor $y\_j$  for an object $i$ member of group $k$ and $m_j^k$  is the mean value of descriptor $j$ over all members of group $k$ .  The squared error $e_k^2$ is used as a measure of the *tightness* of a cluster.
 
 Consequently, the ward algorithm tries to minimize the following criterion:
+
 $$ E_k^2 = \sum_{k = 1}^K e_k^2 $$
+
 where $E_k^2$ is the sum of squared errors over all $K$ clusters. In ANOVA terminology, the ward algorithm minimize the total *within-group sum-of-squares*.
 
 **Consideration**
