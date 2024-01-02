@@ -1,12 +1,12 @@
-# Some specifications of commonMark and GitHub flavored markdown
+# Some specifications of commonMark 
 
 - [ ] What is CommonMark
-- [ ] GHF as a strict superset of commonmark
-- [ ] Main differences
+- [ ] Main differences from basic markdown
+- [ ] GitHub Flavored Markdown as a strict superset
 
 **Ressources**
 
-<https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github>
+
 <https://github.github.com/gfm/>
 
 <!--
