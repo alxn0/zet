@@ -1,8 +1,6 @@
 # Clustering with semimetric distances
 
-**Hierarchical clustering**
-
-From [cross
+Discussion on *hierarchical methods* on [cross
 validated](https://stats.stackexchange.com/questions/13873/does-a-distance-have-to-be-a-metric-for-an-hierarchical-clustering-to-be-valid): 
 
 > *Single*, *complete* and *average* methods need only positive and

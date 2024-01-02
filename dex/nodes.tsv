@@ -3,7 +3,7 @@
 2	2023-12-29 19:06:38Z	Statistical association
 3	2023-12-29 08:59:15Z	Similarity and distance
 4	2023-12-26 10:20:51Z	Distances vs dissimilarities
-5	2023-12-31 12:48:54Z	Clustering
+5	2024-01-02 14:33:09Z	Clustering
 6	2023-12-27 14:23:47Z	Clustering process
 7	2023-12-28 10:21:08Z	Traditional clustering algorithms
 8	2023-12-29 22:03:47Z	Hackernews Bookmarks
@@ -15,7 +15,7 @@
 14	2023-12-28 16:29:38Z	Phytotherapy ressources
 15	2023-12-28 16:30:42Z	Artisanal breadmaking steps
 16	2023-12-29 14:47:48Z	What about metric distances and space?
-17	2023-12-29 14:54:44Z	Clustering with semimetric distances
+17	2024-01-02 14:34:46Z	Clustering with semimetric distances
 18	2024-01-02 11:07:13Z	Tree, forest and dendrogram
 19	2023-12-29 18:31:02Z	Align images with wordwrap in markdown
 20	2023-12-29 22:11:14Z	External criteria for clustering validation
@@ -30,11 +30,11 @@
 29	2024-01-02 10:58:39Z	Single-linkage clustering
 30	2024-01-02 12:34:39Z	Complete-linkage clustering
 31	2024-01-02 12:34:06Z	Intermediate-linkage clustering
-32	2024-01-02 12:43:32Z	Hierarchical agglomerative clustering
+32	2024-01-02 14:32:42Z	Hierarchical agglomerative clustering
 33	2024-01-02 12:12:59Z	Representations of hierarchical clustering solutions
 34	2024-01-02 12:37:58Z	Average hierarchical clustering
 35	2024-01-02 12:22:59Z	Unweighted arithmetic average clustering
 36	2024-01-02 12:29:41Z	Weighted arithmetic average clustering
 37	2024-01-02 12:28:49Z	Unweighted centroid clustering
 38	2024-01-02 12:34:31Z	Weighted centroid clustering
-39	2024-01-02 12:43:21Z	Ward's minimum variance clustering
+39	2024-01-02 14:11:13Z	Ward's minimum variance clustering
