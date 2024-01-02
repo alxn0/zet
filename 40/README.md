@@ -14,7 +14,7 @@ Here's cheatsheats of variants I use:
 - [Commonmark]
 - [GitHub flavored markdown]
 
-** Additionnal ressources**
+**Additionnal ressources**
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
 + [https://www.markdowntoolbox.com/](https://www.markdowntoolbox.com/)
 * 
