@@ -34,7 +34,7 @@ And a second header in setext
 |---------------------------|------------------------|----------------------------------|-------------------------------|
 | Bold                      | `** **` or `__ __`     | `I like **bold** __text__`       | I like **bold** **text**      |
 | Italic                    | `* *` or `_ _`         | `I like *italic* _text_`         | I like *italic* *text*        |
-| Bold and italic\[^info1\] | `*** ***` or `___ ___` | `*** This is super important***` | ***This is super important*** |
+| Bold and italic [^info1]  | `*** ***` or `___ ___` | `*** This is super important***` | ***This is super important*** |
 
 ## Blockquotes
 
