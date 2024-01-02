@@ -21,7 +21,7 @@
 20	2023-12-29 22:11:14Z	External criteria for clustering validation
 21	2023-12-29 19:07:36Z	Simple and adjusted Rand indices
 22	2023-12-29 21:02:55Z	Hubert' gamma statistic
-23	2024-01-02 12:15:25Z	Cophenetic distances, cophenetic correlations and sheppard-like
+23	2024-01-02 12:17:22Z	Cophenetic distances, cophenetic correlations and sheppard-like
 24	2023-12-31 12:30:33Z	Calinski Harabasz index
 25	2023-12-31 12:43:13Z	Davies Boulding Index
 26	2023-12-31 13:01:57Z	Silhouette coefficient
@@ -30,5 +30,6 @@
 29	2024-01-02 10:58:39Z	Single-linkage clustering
 30	2024-01-02 12:09:13Z	Complete-linkage clustering
 31	2024-01-02 11:02:46Z	Intermediate-linkage clustering
-32	2024-01-02 12:10:17Z	Hierarchical agglomerative clustering
+32	2024-01-02 12:17:46Z	Hierarchical agglomerative clustering
 33	2024-01-02 12:12:59Z	Representations of hierarchical clustering solutions
+35	2024-01-02 12:22:59Z	Unweighted arithmetic average clustering
