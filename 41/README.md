@@ -96,18 +96,18 @@ Escape special characters with `\`
 
 Basic markdown provides escapes for these characters:
 
-\\   backslash
-\`   backtick
-\*   asterisk
-\_   underscore
-\{\}  curly braces
-\[\]  square brackets
-\(\)  parentheses
-\#   hash mark
-\+   plus sign
-\-   minus sign (hyphen)
-\.   dot
-\!   exclamation mark
+\\   backslash  
+\`   backtick  
+\*   asterisk  
+\_   underscore  
+\{\}  curly braces  
+\[\]  square brackets  
+\(\)  parentheses  
+\#   hash mark  
+\+   plus sign  
+\-   minus sign (hyphen)  
+\.   dot  
+\!   exclamation mark  
 
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
