@@ -1,4 +1,5 @@
-# Cophenetic distances and correlation
+# Cophenetic distances, cophenetic correlations and sheppard-like
+diagram
 
 ## Distance
 In clustering, the cophenetic distance is the *distance treshold* at which two objects while be fused in a same cluster. 
@@ -31,7 +32,7 @@ $$ c = \frac{\sum_{i \lt j} (d(i,j) - \bar{x}) (t(i,j) - \bar{t})}{\sqrt{\sum_{i
 ### Interpretation
 Cophenetic correlations range in -1 and +1, and it is expected to be positive if we compare distances (original and cophenetic), and negative if we compare distances with similarities. A value of 1 means a perfect correspondance between original ressemblance and cophenetic distances, and 0s means no correspondance at all.
 
-### Sheppard-like diagram
+## Sheppard-like diagram
 Sheppard diagrams are scatterplot comparing two set of distances for the
 same objects[^ref1]. They are used to compare distances in a reduced space
 with distances in the original spaces. Departure from the diagonal indicate distortion in reduced space. 
