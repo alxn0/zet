@@ -80,7 +80,7 @@ Link use `[text](URL)` while image use `![text](image URL)`
 
 ## Code
 
-Inline code :rightarros: enclosed by single backticks `` ` ``
+Inline code :rightarros: enclosed by single backticks `` ` ``. 
 Code blocks are enclose with 3 backticks, as in the example below.
 
 ```
