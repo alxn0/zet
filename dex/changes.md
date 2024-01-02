@@ -1,6 +1,6 @@
 * 2024-01-02 17:48:34Z [Basic markdown cheatsheet](../41)
 * 2024-01-02 17:29:00Z [Markdown markup language](../40)
-* 2024-01-02 20:45:05Z [Some specifications of commonMark and GitHub flavored markdown](../42)
+* 2024-01-02 20:45:23Z [Some specifications of commonMark and GitHub flavored markdown](../42)
 * 2024-01-02 14:37:56Z [Clustering](../5)
 * 2024-01-02 14:37:43Z [Similarity and distance](../3)
 * 2024-01-02 14:37:11Z [What about metric distances and metric space?](../16)

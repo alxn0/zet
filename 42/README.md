@@ -1,8 +1,8 @@
 # Some specifications of commonMark and GitHub flavored markdown
 
--[ ] What is CommonMark
--[ ] GHF as a strict superset of commonmark
--[ ] Main differences
+- [ ] What is CommonMark
+- [ ] GHF as a strict superset of commonmark
+- [ ] Main differences
 
 **Ressources**
 
