@@ -11,10 +11,10 @@ by one ore more blank lines.
 
 ## Headers
 
-Can be either in *Setext* and *atx* format:
+Can be either in *Setext* (`==` and `--`) and *atx* format (one or multiple `#`). 
+There's 2 levels of setext and 6 of atx.
 
 ```
-
 # This is a first header in atx
 
 This is a first header in Setext
@@ -24,7 +24,6 @@ This is a first header in Setext
 
 And a second header in setext
 -----------------------------
-
 ```
 
 ## Emphasis
@@ -90,4 +89,4 @@ Escape special characters with `\`
 
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
-[^info2]: Not specified in Gruber 2004 specification
+[^info1]: Not specified in Gruber 2004 specification
