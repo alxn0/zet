@@ -1,18 +1,13 @@
 # Some specifications of commonMark and GitHub flavored markdown
 
--[] What is CommonMark
--[] GHF as a strict superset of commonmark
--[] Main differences
+-[ ] What is CommonMark
+-[ ] GHF as a strict superset of commonmark
+-[ ] Main differences
 
 **Ressources**
 
 <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github>
 <https://github.github.com/gfm/>
-
-| Line block
-| Does it work?
-| 61 some street
-| Some city
 
 ---
 
