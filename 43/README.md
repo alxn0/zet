@@ -1,3 +1,3 @@
-# Markdown HTML/CSS Hacks
+# GitHub advanced formating
 
 ***TODO***
