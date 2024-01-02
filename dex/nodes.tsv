@@ -32,6 +32,7 @@
 31	2024-01-02 11:02:46Z	Intermediate-linkage clustering
 32	2024-01-02 12:17:46Z	Hierarchical agglomerative clustering
 33	2024-01-02 12:12:59Z	Representations of hierarchical clustering solutions
+34	2024-01-02 12:33:26Z	Average hierarchical clustering
 35	2024-01-02 12:22:59Z	Unweighted arithmetic average clustering
 36	2024-01-02 12:29:41Z	Weighted arithmetic average clustering
 37	2024-01-02 12:28:49Z	Unweighted centroid clustering
