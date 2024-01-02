@@ -14,8 +14,9 @@ with little usage of HTML and CSS.
 
 Here's cheatsheats on those :
 - [Basic syntax](../41)
-- [Commonmark and GitHub flavored markdown](../42)
-- [HTML/CSS hacks](../43)
+- [Commonmark and GitHub Flavored Markdown](../42)
+- [GitHub advanced formating](../43)
+- [HTML/CSS hacks](../44)
 
 **Additionnal ressources**
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
