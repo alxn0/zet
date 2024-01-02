@@ -4,7 +4,10 @@ lso called Weighted **Pair-Group Method using Arithmetic averages (WPGMA)**. It 
 
 **Computation**
 
-The distance between objects is defined as:	$$ d(u, v) = (dist(s, v) + dist(t, v))/2$$ 
+The distance between objects is defined as:
+
+$$ d(u, v) = (dist(s, v) + dist(t, v))/2 $$ 
+
 where cluster $u$ is form from the fusion of $s$ and $t$ and v is another cluster.
 
 As for the [unweighted version](../35), the distance matrix is updated at each step with the 
