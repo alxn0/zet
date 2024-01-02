@@ -80,8 +80,14 @@ Link use `[text](URL)` while image use `![text](image URL)`
 
 ## Code
 
-Inline code :rightarros: enclosed by single backticks ` \` `
+Inline code :rightarros: enclosed by single backticks ` \\` `
 Code blocks are enclose with 3 backticks.
+
+```
+# Here some R code
+some_data <- read.csv("./data.csv")
+summary(some_data)
+```
 
 ## Special characters
 
