@@ -6,10 +6,14 @@ Considering the extensive number of algorithm, multiple taxonomy have
 been proposed and to my knowledge, Ezugwu and al. (2022)
 provides the most recent and complete one [^ref1].
 
-**Further discussion on**:
+**General discussion on**:
 - [The clustering process](../6)
 - [Common clustering algorithms](../7)
-- Validation approach
+- [Validation approach](..9)
+
+**Notes on specific topics**:
+- [Clustering on semimetric distance](../17)
+- [Hierarchical agglomerative clustering](../32)
 
 **References on clustering analysis**:
 - A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects (recent and extensive taxonomy)[^ref1]
