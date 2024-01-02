@@ -16,8 +16,8 @@ with little usage of HTML and CSS. Here are some note/cheatsheet on
 those :
 
 - [Basic syntax](../41)
-- [Commonmark and GitHub Flavored Markdown](../42)
-- [GitHub advanced formating](../43)
+- [Commonmark](../42)
+- [GitHub Flavored Markdown and advanced formating](../43)
 - [HTML/CSS hacks](../44)
 
 **Additionnal ressources**
