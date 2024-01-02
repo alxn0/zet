@@ -6,8 +6,10 @@ For what I know, it seems to be implemented in most flavors.
 
 ## Paragraphs
 
-A paragraph are consecutive lines of text. Paragraphs are separated
-by one ore more blank lines.
+A paragraph are consecutive lines of text.  
+Paragraphs are separated by one ore more blank lines.  
+Line breaks, meaning a sentence on a new line, is done by adding 2 or
+more spaces at the end of the previous line.
 
 ## Headers
 
@@ -80,7 +82,7 @@ Link use `[text](URL)` while image use `![text](image URL)`
 
 ## Code
 
-Inline code :rightarros: enclosed by single backticks `` ` ``. 
+Inline code :rightarros: enclosed by single backticks `` ` ``.  
 Code blocks are enclose with 3 backticks, as in the example below.
 
 ```
