@@ -1,4 +1,4 @@
-# What about metric distances and space?
+# What about metric distances and metric space?
 
 For any distance coefficient, we consider it to be **metric** if it follows
 the following properties:
