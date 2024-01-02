@@ -9,7 +9,7 @@ John Gruber canonical specification[^ref1] contains many ambiguities,
 and it seems to have generated various markdown specific syntax and
 parsers.
 
-In my specific, I mainly use CommonMark[^ref3] and GitHub Flavored Markdown[^ref4],
+I mainly use CommonMark[^ref3] and GitHub Flavored Markdown[^ref4],
 with little usage of HTML and CSS.
 
 Here's cheatsheats on those :
