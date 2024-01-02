@@ -8,7 +8,7 @@ provides the most recent and complete one [^ref1].
 
 **General discussion on**:
 - [The clustering process](../6)
-- [Common clustering algorithms](../7)
+- [Traditional clustering algorithms](../7)
 - [Validation approach](..9)
 
 **Notes on specific topics**:
