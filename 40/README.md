@@ -9,10 +9,12 @@ John Gruber canonical specification[^ref1] contains many ambiguities,
 and it seems to have generated various markdown specific syntax and
 parsers.
 
-I mainly use CommonMark[^ref3] and GitHub Flavored Markdown[^ref4],
-with little usage of HTML and CSS.
+To explore the multiple variations, try <https://babelmark.github.io/>
 
-Here's cheatsheats on those :
+I mainly use CommonMark[^ref3] and GitHub Flavored Markdown[^ref4],
+with little usage of HTML and CSS. Here are some note/cheatsheet on
+those :
+
 - [Basic syntax](../41)
 - [Commonmark and GitHub Flavored Markdown](../42)
 - [GitHub advanced formating](../43)
