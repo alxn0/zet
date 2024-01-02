@@ -30,15 +30,16 @@ And a second header in setext
 
 ## Emphasis
 
-| Style           | Syntax                 | Example                          | Output                        |
-|-----------------|------------------------|----------------------------------|-------------------------------|
-| Bold            | `** **` or `__ __`     | `I like **bold** __text__`       | I like **bold** **text**      |
-| Italic          | `* *` or `_ _`         | `I like *italic* _text_`         | I like *italic* *text*        |
-| Bold and italic[^info1] | `*** ***` or `___ ___` | `*** This is super important***` | ***This is super important*** |
+| Style                     | Syntax                 | Example                          | Output                        |
+|---------------------------|------------------------|----------------------------------|-------------------------------|
+| Bold                      | `** **` or `__ __`     | `I like **bold** __text__`       | I like **bold** **text**      |
+| Italic                    | `* *` or `_ _`         | `I like *italic* _text_`         | I like *italic* *text*        |
+| Bold and italic\[^info1\] | `*** ***` or `___ ___` | `*** This is super important***` | ***This is super important*** |
 
 ## Blockquotes
 
-Start line witn `>` followed by **space**
+Start line witn `>` followed by **space**.  
+Blockquotes can included other 
 
 ```
 Simple blockquote
@@ -56,8 +57,6 @@ Nested quotes
 >> Because its fun!
 ```
 
-
-
 ## Horizontal rules
 
 Use three or more hyphens `---`, asterisks `***`, or underscores `___`
@@ -72,17 +71,17 @@ List can be nested with indentation
 ```
 - Unordered Item
     1. Sub ordered item
-    2. More sub items
+    2. Another sub ordered items
 - Second unordered items
 ```
 
 ## Links and images
 
-Link use `[text](URL)` while image use `![text](image URL)`
+Link use `[text](path)` while image use `![text](image path)`
 
 ## Code
 
-Inline code :rightarros: enclosed by single backticks `` ` ``.  
+Inline code are enclosed by single backticks `` ` `` [^info2].  
 Code blocks are enclose with 3 backticks, as in the example below.
 
 ```
@@ -95,6 +94,23 @@ summary(some_data)
 
 Escape special characters with `\`
 
+Basic markdown provides escapes for these characters:
+
+\\   backslash
+\`   backtick
+\*   asterisk
+\_   underscore
+\{\}  curly braces
+\[\]  square brackets
+\(\)  parentheses
+\#   hash mark
+\+   plus sign
+\-   minus sign (hyphen)
+\.   dot
+\!   exclamation mark
+
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
 [^info1]: Not specified in Gruber 2004 specification
+[^info2]: To enclosed a backticks within inline code like in this
+    sentence, you need 2 backticks separation.
