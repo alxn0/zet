@@ -11,7 +11,7 @@
 * 2024-01-02 11:07:13Z [Tree, forest and dendrogram](../18)
 * 2024-01-02 11:00:39Z [Objects linkage hierarchical clustering](../28)
 * 2024-01-02 10:58:39Z [Single-linkage clustering](../29)
-* 2024-01-02 12:42:05Z [Ward's minimum variance clustering](../39)
+* 2024-01-02 12:43:21Z [Ward's minimum variance clustering](../39)
 * 2023-12-31 13:42:29Z [Clustering validation](../9)
 * 2023-12-31 13:39:51Z [Relative criteria for clustering internal validation](../27)
 * 2023-12-31 13:02:34Z [Clustering validity based on internal criteria](../10)
