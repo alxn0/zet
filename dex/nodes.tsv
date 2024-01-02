@@ -28,7 +28,7 @@
 27	2023-12-31 13:39:51Z	Relative criteria for clustering internal validation
 28	2024-01-02 11:00:39Z	Objects linkage hierarchical clustering
 29	2024-01-02 10:58:39Z	Single-linkage clustering
-30	2024-01-02 12:34:39Z	Complete-linkage clustering
+30	2024-01-02 20:52:12Z	Complete-linkage clustering
 31	2024-01-02 12:34:06Z	Intermediate-linkage clustering
 32	2024-01-02 14:32:42Z	Hierarchical agglomerative clustering
 33	2024-01-02 12:12:59Z	Representations of hierarchical clustering solutions
@@ -38,7 +38,7 @@
 37	2024-01-02 12:28:49Z	Unweighted centroid clustering
 38	2024-01-02 12:34:31Z	Weighted centroid clustering
 39	2024-01-02 14:11:13Z	Ward's minimum variance clustering
-40	2024-01-02 20:51:21Z	Markdown markup language
+40	2024-01-02 20:52:21Z	Markdown markup language
 41	2024-01-02 20:46:10Z	Basic markdown cheatsheet
 42	2024-01-02 20:45:59Z	Some specifications of commonMark and GitHub flavored markdown
 43	2024-01-02 20:51:58Z	Markdown HTML/CSS Hacks
