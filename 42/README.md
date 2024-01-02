@@ -3,6 +3,7 @@
 - [ ] What is CommonMark
 - [ ] GHF as a strict superset of commonmark
 - [ ] Main differences
+- [ ] Mathjax
 
 **Ressources**
 
