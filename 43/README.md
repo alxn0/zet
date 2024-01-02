@@ -1,7 +1,11 @@
-# GitHub advanced formating
+# GitHub Flavored markdown and advanced formating
 
 ***TODO***
 
+- [ ] Footnotes
+- [ ] Tables
+- [ ] Strikethroughs
+- [ ] Task list
 - [ ] Mathematical expressions
 - [ ] Collapsed sections
 - [ ] Highlights code block
