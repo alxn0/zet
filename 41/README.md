@@ -1,4 +1,4 @@
-# Basic markdown cheatsheet
+# Basic markdown
 
 Basic markdown is essentially the syntax defined by John Gruber in
 2004 in collaboration with Aaron Swartz[^ref1], based on previous formating used in
