@@ -6,10 +6,56 @@
 
 **Ressources**
 
-The 
+## CommonMark
+CommonMark[^ref1] is an attempt to create a strongly defined and highly
+compatible version of markdown.
 
-<https://github.github.com/gfm/>
+It was developpend by a group of developper who wanted to create an
+unambiguous specification of the language, as the original ambiguity of Gruber
+specification[^ref2] generated multiple implementations, and mostly
+confusion for the users. 
 
+To address these inconsistencies, CommonMark was developed as a standard specification 
+of Markdown that aimed to be compatible with Gruber's original 
+vision, but also being unanbiguous so that behavior is predictable across different
+platforms.
+
+There is implementations of CommonMark in doznes of programming
+language[^ref3] and various sites, mainly GitHub, GitLab and Stack
+Exchange.
+
+Still, the specification is *highly technical*, intended for
+implementation, and is confusing for simple usage[^ref4].
+
+Below are some of the main differences between Gruber's original Markdown 
+and CommonMark with syntax examples, trying to present
+them in an understandable manner
+
+## Blank Lines Before Blocks
+In original Markdown, you could often start a block-level element immediately
+after a paragraph, whereas CommonMark typically requires a blank line before
+block-level elements like lists and code blocks.
+
+**Gruber's Markdown Example**:
+```
+    Text
+    - List item 1
+    - List item 2
+```
+
+**CommonMark Example**:
+```
+    Text
+
+    - List item 1
+    - List item 2
+```
+
+[^ref1]: <https://commonmark.org/>
+[^ref2]: <https://daringfireball.net/projects/markdown/syntax>
+[^ref3]:
+    <https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations>
+[^ref4]: <https://spec.commonmark.org/>
 <!--
 
 **Kind of technical and documentation is complicated**
