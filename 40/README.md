@@ -19,6 +19,7 @@ those :
 - [Commonmark](../42)
 - [GitHub Flavored Markdown and advanced formating](../43)
 - [HTML/CSS hacks](../44)
+- [Cheatsheet](../45)
 
 **Additionnal ressources**
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
