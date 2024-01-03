@@ -4,6 +4,9 @@ Basic markdown is essentially the syntax defined by John Gruber in 2004
 [^ref1] which borrows from Aaron Swartz atx structured text format [^ref2]. 
 For what I know, it seems to be implemented in most flavors.
 
+The complete specificatio can be found at
+<https://daringfireball.net/projects/markdown/syntax#html>
+
 ## Paragraphs
 
 A paragraph are consecutive lines of text.  
@@ -111,8 +114,54 @@ Characters that can be escaped:
 | \.     | dot              |
 | \!     | exclamation mark |
 
+## Automatic links
+
+Simply surroung URLs and email adressess with `< >`
+
+```
+<perdu.com>
+<myself@somewhere.com>
+```
+
+## inline HTML
+
+As markdown is designed to *write* in a web format, it is converted HTML language [^info3].
+Consequently, we can use HTML tags within a `md` document to format
+syntax that is not defined in markdown.
+
+**Block-level tags**
+Block-level HTML elements (e.g. `<div>`, `<table>`, `<p>`) must be separated from content by blank lines, 
+and the start and end tags should not be indented with tabs or spaces. 
+
+Markdown syntax **is not processed** and cannot be used within block-level
+tags
+
+**Span-level tags**
+
+Span-level HTML tags (e.g. `<span>`, `<cite>`, or `<del>`) can be used anywhere, 
+and even replace markdown syntax (e.g., `<img>` instead of `![image
+name]` format).
+
+Markdown syntax **is processed** and **can be used** within span-level tags
+
+## Automatic escaping
+
+In HTML, `<` are used to start tags and `&` to specify entities.
+
+To avoid complicating things, `<` will be treated as `&lt;` and `&` as
+`&amp;` automaticaly. 
+
+Yet, `<` will be treated as it when begining html tags, and `&TAG;` generate the entities.
+
+```
+&copy; is a copyrights
+<p> is a tag
+```
+
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
 [^info1]: Not specified in Gruber 2004 specification
 [^info2]: To enclosed a backticks within inline code like in this
     sentence, you need 2 backticks separation.
+[^info3]: Although some *flavors* can be now converted to format other
+    than HTML
