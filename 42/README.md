@@ -4,8 +4,6 @@
 - [ ] Main differences from basic markdown
 - [ ] GitHub Flavored Markdown as a strict superset
 
-**Ressources**
-
 ## CommonMark
 CommonMark[^ref1] is an attempt to create a strongly defined and highly
 compatible version of markdown.
@@ -27,9 +25,50 @@ Exchange.
 Still, the specification is *highly technical*, intended for
 implementation, and is confusing for simple usage[^ref4].
 
-Below are some of the main differences between Gruber's original Markdown 
-and CommonMark with syntax examples, trying to present
-them in an understandable manner
+Below are general definitions and some of the main differences between 
+Gruber's original Markdown and CommonMark with syntax examples, trying to present
+them in an understandable manner.
+
+## Block and inlines
+
+Apart from the notion of **characters** (i.e., Unicode Code poin) and **lines** 
+(i.e., a sequence of zero or more characters), mardown document are
+represented as a sequence of **blocks** with **inlines**.
+
+**Blocks** represent the *structure* of the document, they can be seen
+as a sequence of aggregated information.
+
+Blocks are divided in:
+
+1. **Container blocks**: Which can contains other blocks:
+    - Lists (i.e., list of list)
+    - List items
+    - Block quotes
+2. **Leaf blocks**: which contains inlines
+    - Thematic breaks (i.e., horizontal lines)
+    - Headings
+    - Code blocks
+    - Html blocks
+    - Linked reference
+    - Paragraphs
+    - Blank lines
+
+In comparison, **inline** contains *content*. They include:
+- Code span
+- Emphasis
+- Links
+- Images
+- Autolinks
+- Raw HTML
+- Hard and soft line breaks
+- Textual contents
+
+From a user perspective, this conceptualization of markdown document does not change how we write
+markdown, but help to think about the syntax *organizing* syntax into
+broader categories.
+
+Mostly, it help understand the following changes, as they are express in
+those concepts.
 
 ## Blank Lines Before Blocks
 In original Markdown, you could often start a block-level element immediately
@@ -51,6 +90,17 @@ block-level elements like lists and code blocks.
     - List item 2
 ```
 
+## Indented Code Blocks:
+Original Markdown allows for indented code blocks with less strict rules,
+while CommonMark requires a code block to be indented by exactly four spaces
+or one tab.
+  
+  - Gruber's Markdown: Code block beginning with at least 4 spaces or
+    1 tab
+  - CommonMark: Must have precisely four spaces or one tab.
+
+
+
 [^ref1]: <https://commonmark.org/>
 [^ref2]: <https://daringfireball.net/projects/markdown/syntax>
 [^ref3]:
@@ -58,42 +108,6 @@ block-level elements like lists and code blocks.
 [^ref4]: <https://spec.commonmark.org/>
 <!--
 
-**Kind of technical and documentation is complicated**
-
-Here's a summary/simplification by GPT-4 turbo
-
-## Questions
-"What are the main differences between basic markdown (as define by John Grueber) and commonmark markdown flavors. Provides a detailed list of the differences with markdown syntax example. Be thorough, but in the same time understandable by a human. Do not simply state the specifications."
-
-## Answer
-Markdown, originally created by John Gruber, is a markup language that
-allows for easy-to-read and easy-to-write plain text format that is converted
-into structurally valid HTML. However, as Markdown became popular, it was
-interpreted and implemented differently by various applications and
-services, leading to inconsistencies. To address these inconsistencies,
-CommonMark was developed as a standard, unambiguous specification of
-Markdown that aimed to be compatible with Gruber's original vision but also
-clearly specified so that behavior is predictable across different
-platforms.
-
-Below are some of the main differences between original Markdown (as defined
-by John Gruber) and CommonMark with syntax examples, making sure to present
-them in an understandable manner:
-
-1. Blank Lines Before Blocks:
-In original Markdown, you could often start a block-level element immediately
-after a paragraph, whereas CommonMark typically requires a blank line before
-block-level elements like lists and code blocks.
-  • Gruber's Markdown Example:
-    Text
-    - List item 1
-    - List item 2
-
-  • CommonMark Example:
-    Text
-
-    - List item 1
-    - List item 2
 
 2. Indented Code Blocks:
 Original Markdown allows for indented code blocks with less strict rules,
