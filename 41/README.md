@@ -12,11 +12,11 @@ found on John Gruber web page[^ref3]
 A paragraph are consecutive lines of text.  
 Paragraphs are separated by one ore more blank lines.  
 
-**Line breaks or soft break**: meaning a sentence on a new line; is done by adding 2 or 
+**Hard line breaks**: meaning a new sentence on a new line; is done by adding 2 or 
 more spaces at the end of the previous line.
 
-**New paragraph** or **hard brake**: meaning two paragraphs with a space
-in between; is done by adding an empty lines in between
+**New paragraph** are done by adding an empty lines in between two
+paragraphs.
 
 ## Headers
 
