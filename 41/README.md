@@ -161,7 +161,7 @@ Yet, `<` will be treated as it when begining html tags, and `&TAG;` generate the
 
 [^ref1]: See Aaron Swartz [ATX formatting](http://www.aaronsw.com/2002/atx/intro)
 [^ref2]: <https://en.wikipedia.org/wiki/Markdown#History>
-[^ref2]: <https://daringfireball.net/projects/markdown/>
+[^ref3]: <https://daringfireball.net/projects/markdown/>
 [^info1]: Not specified in Gruber 2004 specification, but often
     considered as part of the basic format.
 [^info2]: To enclosed a backticks within inline code like in this
