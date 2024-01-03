@@ -160,7 +160,8 @@ Yet, `<` will be treated as it when begining html tags, and `&TAG;` generate the
 
 [^ref1]: https://daringfireball.net/projects/markdown/basics
 [^ref2]: http://www.aaronsw.com/2002/atx/intro
-[^info1]: Not specified in Gruber 2004 specification
+[^info1]: Not specified in Gruber 2004 specification, but often
+    considered as part of the basic format.
 [^info2]: To enclosed a backticks within inline code like in this
     sentence, you need 2 backticks separation.
 [^info3]: Although some *flavors* can be now converted to format other
