@@ -1,11 +1,11 @@
 # Basic markdown cheatsheet
 
-Basic markdown is essentially the syntax defined by John Gruber in 2004
-[^ref1] which borrows from Aaron Swartz atx structured text format [^ref2]. 
-For what I know, it seems to be implemented in most flavors.
+Basic markdown is essentially the syntax defined by John Gruber in
+2004 in collaboration with Aaron Swartz[^ref1], based on previous formating used in
+emails and usenet[^ref2]. For what I know, it seems to be implemented in most flavors.
 
-The complete specificatio can be found at
-<https://daringfireball.net/projects/markdown/syntax#html>
+An introduction of the syntax and the complete specification can be
+found on John Gruber web page[^ref3]
 
 ## Paragraphs
 
@@ -100,6 +100,7 @@ Escape special characters with `\`
 Characters that can be escaped:
 
 | Symbol | name             |
+<https://daringfireball.net/projects/markdown/syntax#html>
 |--------|------------------|
 | \\     | backslase        |
 | \`     | backtick         |
@@ -158,8 +159,9 @@ Yet, `<` will be treated as it when begining html tags, and `&TAG;` generate the
 <p> is a tag
 ```
 
-[^ref1]: https://daringfireball.net/projects/markdown/basics
-[^ref2]: http://www.aaronsw.com/2002/atx/intro
+[^ref1]: See Aaron Swartz [ATX formatting](http://www.aaronsw.com/2002/atx/intro)
+[^ref2]: <https://en.wikipedia.org/wiki/Markdown#History>
+[^ref2]: <https://daringfireball.net/projects/markdown/>
 [^info1]: Not specified in Gruber 2004 specification, but often
     considered as part of the basic format.
 [^info2]: To enclosed a backticks within inline code like in this
