@@ -80,6 +80,10 @@ block-level elements like lists and code blocks.
     Text
     - List item 1
     - List item 2
+
+    sometext
+    some header
+    -----------
 ```
 
 **CommonMark Example**:
@@ -88,73 +92,73 @@ block-level elements like lists and code blocks.
 
     - List item 1
     - List item 2
+
+    some text
+
+    some header
+    -----------
 ```
 
 ## Indented Code Blocks:
-Original Markdown allows for indented code blocks with less strict rules,
-while CommonMark requires a code block to be indented by exactly four spaces
-or one tab.
-  
-  - Gruber's Markdown: Code block beginning with at least 4 spaces or
-    1 tab
-  - CommonMark: Must have precisely four spaces or one tab.
+Original Markdown allows for indented code blocks **at least 4 spaces or a tab**,
+while CommonMark requires a code block to be indented by **exactly four spaces
+or one tab**.
 
 
+## Fenced Code Blocks
+Code blocks can also be delimited by three backticks `` \`\`\` `` or three
+tild `` ~~~ ``
+
+
+## Escaped characters
+
+Any ASCII punctuation may be backlashed escaped.
+
+```
+\!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
+```
+
+## Lazy Continuation Lines:
+Gruber's Markdown allows list continuations with less indentation, whereas
+CommonMark requires that continuation lines in lists be aligned with the
+text of the list item they are a part of.
+
+```
+Gruber's Markdown Example:
+ - List item
+ continuation of list item without alignment
+
+CommonMark Example:
+- List item
+  continuation of list item must be aligned
+```
+
+## HTML blocks
+
+In some respect, CommonMark is less restrictive here.
+
+Gruber markdown:
+
+- HTML block need to be preceded by a blank line
+- Does not allow the start tag to be indented
+- requires a matching end tag, also not indented
+
+CommonMark:
+
+- HTML blocks continue until they are closed by their appropriate end condition, 
+  or the last line of the document or other container block.
+- **No blank line inside HTML block**
+
+## 
 
 [^ref1]: <https://commonmark.org/>
 [^ref2]: <https://daringfireball.net/projects/markdown/syntax>
 [^ref3]:
     <https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations>
 [^ref4]: <https://spec.commonmark.org/>
-<!--
 
 
-2. Indented Code Blocks:
-Original Markdown allows for indented code blocks with less strict rules,
-while CommonMark requires a code block to be indented by exactly four spaces
-or one tab.
-  • Gruber's Markdown: Code block beginning with any number of spaces might
-  work.
-  • CommonMark: Must have precisely four spaces or one tab.
-3. ATX Headers Without Closing Punctuation:
-CommonMark allows ATX-style headers ( #  for headings) without closing  # ,
-whereas the original Markdown does not define a strict rule here. You may
-find inconsistent interpretations in various Markdown processors.
-  • Gruber's Markdown: The closing  #  are optional, but not specified.
-  • CommonMark Example:
-    # Heading 1
-    ## Heading 2 ##
-
-Both of the above are considered valid in CommonMark.
-4. Setext Headers:
-Original Markdown’s Setext headers (underlined using  =  for h1 and  -  for
-h2) must be preceded by a blank line in CommonMark.
-  • Gruber's Markdown: May not require a blank line before Setext headers.
-  • CommonMark: Requires a blank line.
-5. Link Definitions:
-In CommonMark, link definitions cannot interrupt a paragraph, while in
-Gruber's Markdown, they might be allowed to.
-  • Gruber's Markdown: Might allow the following:
-    This is a paragraph with a [link][id].
-    [id]: http://example.com "Title"
-
-  • CommonMark: Requires the definition to be separate from the paragraph:
-    This is a paragraph with a [link][id].
-
-    [id]: http://example.com "Title"
-
-6. Lazy Continuation Lines:
-Gruber's Markdown allows list continuations with less indentation, whereas
-CommonMark requires that continuation lines in lists be aligned with the
-text of the list item they are a part of.
-  • Gruber's Markdown Example:
-    - List item
-    continuation of list item without alignment
-
-  • CommonMark Example:
-    - List item
-      continuation of list item must be aligned
-
+<!-- 
 7. HTML Blocks:
 The rules for parsing inline HTML are loosely defined in Gruber's Markdown
 but are more strict in CommonMark. CommonMark clearly specifies which HTML
@@ -185,11 +189,5 @@ have different standards for what constitutes a valid thematic break.
 
 
 
-These differences illustrate the need that CommonMark addressed: to create a
-consistent specification across different Markdown processors, making it
-easier for users to predict how their Markdown files will be rendered. It's
-important to note that not all implementations of Markdown adhere strictly
-to the original specification or to CommonMark, so actual behavior can still
-vary, especially in less popular or older Markdown processors.
 
 -->
