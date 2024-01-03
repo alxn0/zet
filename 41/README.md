@@ -11,8 +11,12 @@ found on John Gruber web page[^ref3]
 
 A paragraph are consecutive lines of text.  
 Paragraphs are separated by one ore more blank lines.  
-Line breaks, meaning a sentence on a new line, is done by adding 2 or
+
+**Line breaks or soft break**: meaning a sentence on a new line; is done by adding 2 or 
 more spaces at the end of the previous line.
+
+**New paragraph** or **hard brake**: meaning two paragraphs with a space
+in between; is done by adding an empty lines in between
 
 ## Headers
 
@@ -29,6 +33,8 @@ This is a first header in Setext
 
 And a second header in setext
 -----------------------------
+
+### ATX header may be (optionnaly) enclosed ###
 ```
 
 ## Emphasis
@@ -85,7 +91,9 @@ Link use `[text](path)` while image use `![text](image path)`
 ## Code
 
 Inline code are enclosed by single backticks `` ` `` [^info2].  
-Code blocks are enclose with 3 backticks, as in the example below.
+
+Code blocks are produced by indenting lines by at least 4 spaces or
+a tab.
 
 ```
 # Here some R code
