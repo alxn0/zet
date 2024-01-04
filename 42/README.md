@@ -1,116 +1,80 @@
 # Some specifications of commonMark 
 
-- [ ] What is CommonMark
-- [ ] Main differences from basic markdown
-- [ ] GitHub Flavored Markdown as a strict superset
-
-## CommonMark
-CommonMark[^ref1] is an attempt to create a strongly defined and highly
-compatible version of markdown.
-
-It was developpend by a group of developper who wanted to create an
-unambiguous specification of the language, as the original ambiguity of Gruber
-specification[^ref2] generated multiple implementations, and mostly
-confusion for the users. 
-
-To address these inconsistencies, CommonMark was developed as a standard specification 
-of Markdown that aimed to be compatible with Gruber's original 
-vision, but also being unanbiguous so that behavior is predictable across different
-platforms.
+CommonMark[^ref1] provides a strictly defined specification for Markdown syntax
+that aims to resolve ambiguities and inconsistencies that existed in John
+Gruber's original Markdown implementation[^ref2]. 
 
 There is implementations of CommonMark in doznes of programming
 language[^ref3] and various sites, mainly GitHub, GitLab and Stack
 Exchange.
 
-Still, the specification is *highly technical*, intended for
-implementation, and is confusing for simple usage[^ref4].
+Some of the main differences or more strictly defined syntax include:
 
-Below are general definitions and some of the main differences between 
-Gruber's original Markdown and CommonMark with syntax examples, trying to present
-them in an understandable manner.
+**ATX Headings**:
+- *Gruber's markdown* allow zero, 1 or more spaces between the `#`
+  and the header text
+- *CommonMark* requires to be only 1 space after the `#`
 
-## Block and inlines
+**Emphasis and strong emphasis**:
+In *CommonMark*:
+- There is no intrawords emphasis with `_`
+- Strong emphasis are defined by three `*` or `_` (i.e., bold and
+  italic)
+- Clear distinction between `*` and `_` which facilitate nested emphasis
 
-Apart from the notion of **characters** (i.e., Unicode Code poin) and **lines** 
-(i.e., a sequence of zero or more characters), mardown document are
-represented as a sequence of **blocks** with **inlines**.
-
-**Blocks** represent the *structure* of the document, they can be seen
-as a sequence of aggregated information.
-
-Blocks are divided in:
-
-1. **Container blocks**: Which can contains other blocks:
-    - Lists (i.e., list of list)
-    - List items
-    - Block quotes
-2. **Leaf blocks**: which contains inlines
-    - Thematic breaks (i.e., horizontal lines)
-    - Headings
-    - Code blocks
-    - Html blocks
-    - Linked reference
-    - Paragraphs
-    - Blank lines
-
-In comparison, **inline** contains *content*. They include:
-- Code span
-- Emphasis
-- Links
-- Images
-- Autolinks
-- Raw HTML
-- Hard and soft line breaks
-- Textual contents
-
-From a user perspective, this conceptualization of markdown document does not change how we write
-markdown, but help to think about the syntax *organizing* syntax into
-broader categories.
-
-Mostly, it help understand the following changes, as they are express in
-those concepts.
-
-## Blank Lines Before Blocks
-In original Markdown, you could often start a block-level element immediately
-after a paragraph, whereas CommonMark typically requires a blank line before
-block-level elements like lists and code blocks.
-
-**Gruber's Markdown Example**:
 ```
-    Text
-    - List item 1
-    - List item 2
-
-    sometext
-    some header
-    -----------
+this_is_not_emphasis_while_**this_is**
+***Strong emphasis***
+**Nested _emphasis_**
 ```
 
-**CommonMark Example**:
-```
-    Text
-
-    - List item 1
-    - List item 2
-
-    some text
-
-    some header
-    -----------
-```
-
-## Indented Code Blocks:
-Original Markdown allows for indented code blocks **at least 4 spaces or a tab**,
-while CommonMark requires a code block to be indented by **exactly four spaces
+**Indented code blockes**:
+- *Gruber's Markdown* allows for indented code blocks **at least 4 spaces or a tab**,
+- *CommonMark* requires a code block to be indented by **exactly four spaces
 or one tab**.
 
+```
+Text
 
-## Fenced Code Blocks
-Code blocks can also be delimited by three backticks `` \`\`\` `` or three
-tild `` ~~~ ``
+    Indented code block
+    with consistent indentation
+```
 
+**Fenced code blocks**: 
+*CommonMark* provides a way to specify code blocks with
+three backtick `` ` `` or tilde `~`
 
-## Escaped characters
+```
+\`\`\` 
+a = b
+b = c
+\`\`\`
+
+```
+
+**Lists**:
+*Gruber's Markdown*: 
+- lists can be somewhat ambiguous, especially for nested
+  lists and the required indentation.
+
+*CommonMark*:
+- A list can interrupt a paragraph
+- There can be one to 4 spaces between the list characters (e.g.,
+  `-`) and the text[^info1].
+- Requires that continuation lines in lists be aligned with the
+  text of the list item they are a part of.
+- Nested list need to be intended at least to the first character of
+  the parent list
+
+```
+This is a some text
+- List that interupt a paragraphe
+-  New item with more identation, see that the
+   continuation is aligne with the previous line.
+   - Nested list
+```
+
+**Escaped characters**
 
 Any ASCII punctuation may be backlashed escaped.
 
@@ -118,76 +82,41 @@ Any ASCII punctuation may be backlashed escaped.
 \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
 ```
 
-## Lazy Continuation Lines:
-Gruber's Markdown allows list continuations with less indentation, whereas
-CommonMark requires that continuation lines in lists be aligned with the
-text of the list item they are a part of.
-
-```
-Gruber's Markdown Example:
- - List item
- continuation of list item without alignment
-
-CommonMark Example:
-- List item
-  continuation of list item must be aligned
-```
-
-## HTML blocks
+**HTML blocks**
 
 In some respect, CommonMark is less restrictive here.
 
-Gruber markdown:
+*Gruber markdown*:
 
 - HTML block need to be preceded by a blank line
 - Does not allow the start tag to be indented
 - requires a matching end tag, also not indented
 
-CommonMark:
+*CommonMark*:
 
 - HTML blocks continue until they are closed by their appropriate end condition, 
   or the last line of the document or other container block.
 - **No blank line inside HTML block**
 
-## 
+**Thematic Breaks**:
+- *Gruber's Markdown*: Uses horizontal rules but may be inconsistent in
+    parsing different formats.
+- *CommonMark*: A line with three or more  `*` ,  `-` , or  `_`  characters, which
+    can be separated by spaces but not by other characters, forms a thematic
+    break.
 
+```
+Text above
+
+***
+
+Text below
+```
 [^ref1]: <https://commonmark.org/>
 [^ref2]: <https://daringfireball.net/projects/markdown/syntax>
 [^ref3]:
     <https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations>
 [^ref4]: <https://spec.commonmark.org/>
+[^info1]: More than 4 spaces will trigger an indented code block
 
 
-<!-- 
-7. HTML Blocks:
-The rules for parsing inline HTML are loosely defined in Gruber's Markdown
-but are more strict in CommonMark. CommonMark clearly specifies which HTML
-tags start and end HTML blocks and considers the content inside as raw HTML.
-  • Gruber's Markdown: May parse inline HTML differently across
-  implementations.
-  • CommonMark: Strict rules about which inline HTML is recognized.
-8. Entities and Escapes:
-The handling of backslash escapes and HTML entities is more predictable in
-CommonMark, which provides clear rules for when these are recognized.
-  • Gruber's Markdown: Might have more variable behavior.
-  • CommonMark: Has strict rules for entity and escape processing.
-9. Lists:
-Differences in how lists are parsed and nested can be significant between
-the original Markdown and CommonMark. For instance, the way list items are
-nested and whether blank lines are required between items can vary.
-  • Gruber's Markdown: Less strict, varying implementations.
-  • CommonMark: More precise rules for list parsing.
-10. Thematic Breaks:
-Also known as horizontal rules, thematic breaks are more strictly defined in
-CommonMark than in original Markdown, where various implementations might
-have different standards for what constitutes a valid thematic break.
-  • Gruber's Markdown: Varies between implementations.
-  • CommonMark Example:
-    ---
-    ***
-    ___
-
-
-
-
--->
