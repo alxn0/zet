@@ -1,7 +1,7 @@
 * 2024-01-04 13:15:20Z [GitHub Flavored markdown and advanced formating](../43)
 * 2024-01-04 13:15:15Z [Markdown cheatsheet](../45)
 * 2024-01-04 13:15:11Z [Markdown HTML/CSS Hacks](../44)
-* 2024-01-04 13:59:08Z [Some specifications of commonMark ](../42)
+* 2024-01-04 14:02:48Z [Some specifications of commonMark ](../42)
 * 2024-01-03 22:08:23Z [Markdown markup language](../40)
 * 2024-01-03 22:07:47Z [Basic markdown](../41)
 * 2024-01-02 20:52:12Z [Complete-linkage clustering](../30)

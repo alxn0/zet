@@ -8,7 +8,10 @@ There is implementations of CommonMark in doznes of programming
 language[^ref3] and various sites, mainly GitHub, GitLab and Stack
 Exchange.
 
-Some of the main differences or more strictly defined syntax include:
+Below are some of the main differences or more strictly defined syntax in CommonMark.
+
+See the commonmark web page for the full specification[^ref4] and
+dingus[^ref5] for interactive testing
 
 **ATX Headings**:
 - *Gruber's markdown* allow zero, 1 or more spaces between the `#`
@@ -113,6 +116,7 @@ In some respect, CommonMark is less restrictive here.
 [^ref3]:
     <https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations>
 [^ref4]: <https://spec.commonmark.org/>
+[^ref5]: <https://spec.commonmark.org/dingus/>
 [^info1]: More than 4 spaces will trigger an indented code block
 
 
