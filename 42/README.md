@@ -16,6 +16,7 @@ Some of the main differences or more strictly defined syntax include:
 - *CommonMark* requires to be only 1 space after the `#`
 
 **Emphasis and strong emphasis**:
+
 In *CommonMark*:
 - There is no intrawords emphasis with `_`
 - Strong emphasis are defined by three `*` or `_` (i.e., bold and
@@ -34,25 +35,27 @@ this_is_not_emphasis_while_**this_is**
 or one tab**.
 
 ```
-Text
+Paragraph
 
     Indented code block
     with consistent indentation
 ```
 
 **Fenced code blocks**: 
+
 *CommonMark* provides a way to specify code blocks with
 three backtick `` ` `` or tilde `~`
 
 ```
-\`\`\` 
+~~~ 
 a = b
 b = c
-\`\`\`
+~~~
 
 ```
 
 **Lists**:
+
 *Gruber's Markdown*: 
 - lists can be somewhat ambiguous, especially for nested
   lists and the required indentation.
@@ -105,13 +108,6 @@ In some respect, CommonMark is less restrictive here.
     can be separated by spaces but not by other characters, forms a thematic
     break.
 
-```
-Text above
-
-***
-
-Text below
-```
 [^ref1]: <https://commonmark.org/>
 [^ref2]: <https://daringfireball.net/projects/markdown/syntax>
 [^ref3]:
