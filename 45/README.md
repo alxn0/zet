@@ -82,15 +82,17 @@ Like *standard links*, but with an `!` at the begining
 
 **Exemple**
 ```
-![pug](adult-black-pug.jpg)
+![box character](https://github.com/n48.png) 
 ```
 
 **Output**
-![pug](adult-black-pug.jpg)
+![box character](https://github.com/n48.png) 
 
-## TEST
+## Inline html
 
-![alt text](https://github.com/n48.png "Logo Title") 
+You can use raw HTML in markdown.
+
+ <ul>list</ul>
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
