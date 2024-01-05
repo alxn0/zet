@@ -72,7 +72,6 @@ or by enclosing sections with either three backticks <code>\`\`\`</code>
 of three tilds ` ~~~ ` (i.e., fenced code blocks)[^info1].
 
 **Example**
-```
 Indented code block
     a = b
     c = b
@@ -85,7 +84,6 @@ while i < 6:
   print(i)
   i += 1
 ~~~
-```
 
 **Output**
 ```
