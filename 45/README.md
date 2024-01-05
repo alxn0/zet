@@ -1,13 +1,16 @@
 # Markdown cheatsheet
 
 ## Content
-1. [Line breaks](line-breaks)
-2. [Headers](headers)
+1. [Lines and paragraphs](#lines-and-paragraphs)
+2. [Headers](#headers)
+3. [Styling text](#styling-text)
 
-## Line breaks
+## Lines and paragraphs
+A simple *carriage return* at the end of the line will not be displayed in the html
+output. To obtain a new line (i.e., hard break),  add **two spaces before at the end of the line**.
 
-**Line returns**: Add two spaces at the end of a line.
-**New paragraphs**: Add an empty lines in between two paragraphs
+To obtains a **new paragraphs** add an **empty line** in between
+paragraphs.
 
 **Example**  
 *In this code example, white spaces are displayed by star*
@@ -36,7 +39,7 @@ This is a new paragraph.
 | 6     | `###### H6` |                                      | B/C/G  |
 
 
-## Styling (inline) text
+## Styling text
 
 | Style           | Syntax                      | Example                                 | Output                                | Flavor |
 |-----------------|-----------------------------|-----------------------------------------|---------------------------------------|--------|
