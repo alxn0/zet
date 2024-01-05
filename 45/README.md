@@ -1,9 +1,12 @@
 # Markdown cheatsheet
 
 
-| Style | Syntax               | Example            | Output           |
-|-------|----------------------|--------------------|------------------|
-| Bold  | `** **` <br> `__ __` | \`This is **bold** | This is **bold** |
+| Style           | Syntax                      | Example                           | Output                          | Flavor |
+|-----------------|-----------------------------|-----------------------------------|---------------------------------|--------|
+| Bold            | `** **` or <br> `__ __`     | `This is **bold**`                | This is **bold**                | B/C/G  |
+| Italic          | `* *` or <br> `_ _`         | `This is _italic_`                | This is *italic*                | B/C/G  |
+| Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***` | This is a ***strong emphasis*** | B/C/G  |
+
 
 
 <!--
