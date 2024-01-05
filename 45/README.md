@@ -2,9 +2,15 @@
 
 ## Header
 
-| Level | ATX Syntax | Setext Syntax                      |
-|-------|------------|------------------------------------|
-| 1     | `# H1`     | `First header` <br> `============` |
+| Level | ATX Syntax  | Setext Syntax                        | Flavor |
+|-------|-------------|--------------------------------------|--------|
+| 1     | `# H1`      | `First header` <br> `============`   | B/C/G  |
+| 2     | `## H2`     | `Second header` <br> `-------------` | B/C/G  |
+| 3     | `### H3`    |                                      | B/C/G  |
+| 4     | `#### H4`   |                                      | B/C/G  |
+| 5     | `##### H5`  |                                      | B/C/G  |
+| 6     | `###### H6` |                                      | B/C/G  |
+
 
 ## Styling text
 | Style           | Syntax                      | Example                           | Output                          | Flavor |
@@ -13,7 +19,7 @@
 | Italic          | `* *` or <br> `_ _`         | `This is _italic_`                | This is *italic*                | B/C/G  |
 | Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***` | This is a ***strong emphasis*** | B/C/G  |
 | Strikethrough | `~~ ~~`  | `This is a ~~wrong~~` | This is a ~~wrong~~ | B/C/G  |
-|
+
 
 
 <!--
