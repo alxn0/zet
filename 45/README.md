@@ -71,43 +71,38 @@ Code on multiple lines can be either declared by starting lines with **4 spaces*
 or by enclosing sections with either three backticks <code>\`\`\`</code>
 of three tilds ` ~~~ ` (i.e., fenced code blocks)[^info1].
 
-**Example**
-Indented code block
-    a = b
-    c = b
-    a == c
-
-Fenced code block
-~~~
+**This is the output of a code block**
+```
 i = 1
 while i < 6:
   print(i)
   i += 1
-~~~
+```
+
+## Links
+
+Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
+later the reference to the tag `[tag]: path`
+
+Path can be either a *relative path* within the server or a *URL*.  
+
+**Exemple**
+```
+See this [note](../43) on the difference between Grubers' markdown and CommonMark
+
+Lost on the web? Go to [perdu.com](tag)
+
+[tag]: perdu.com
+```
 
 **Output**
-```
-Indented code block
-    a = b
-    c = b
-    a == c
+See this [note](../43) on the difference between Grubers' markdown and CommonMark
 
-Fenced code block
-~~~
-i = 1
-while i < 6:
-  print(i)
-  i += 1
-~~~
-```
+Lost on the web? Go to [perdu.com](tag)
 
+[tag]: perdu.com
 
-
-
-## Mathematical expressions
-
-## References
-
+## Autolinks
 
 [^info1]: Fenced code blocks are not specified in Gruber's basic
     markdown syntax.
