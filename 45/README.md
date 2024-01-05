@@ -51,6 +51,8 @@ least at the first letter of the _parent list_**.
 
 **Example**
 ```
+This is a fruit list:
+
 1. Banana
 2. Apple
   * Gala
@@ -59,6 +61,8 @@ least at the first letter of the _parent list_**.
 ```
 
 **Output**
+This is a fruit list:
+
 1. Banana
 2. Apple
    * Gala
