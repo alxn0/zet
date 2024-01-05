@@ -69,25 +69,45 @@ while i < 6:
 
 | Style     | Syntax                                  | Example                                                                                   | Output                                               |
 |-----------|-----------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------|
-| inline    | `[name](path)`                          | `[Lost?](www.perdu.com)`                                                                  | [lost?](perdu.com)                                   |
+| Inline    | `[name](path)`                          | `[Lost?](www.perdu.com)`                                                                  | [lost?](perdu.com)                                   |
 | Reference | `[name](tag)` <br> ⋮ <br> `[tag]: path` | `See CommonMark [specs](CM_specs)` <br> ⋮ <br> `[cm_specs]: https://spec.commonmark.org/` | See CommonMark [specs](https://spec.commonmark.org/) |
 | Autolinks | `<URL>` or `<email>`                    | `<https://theuselessweb.com/>`                                                            | <https://theuselessweb.com/>                         |
 
-**Note** that *path* can be either a *URL*, an *email adress* or
-a *relative path* on the hosted server
+**Path** can be either a *URL*, an *email adress* or
+a *relative path* on the hosted server.
 
-## Image
-
-Like *standard links*, but with an `!` at the begining
+**Inline and reference links** can also come with an optionnal **title** which will be displayed when
+hovering the hyperlink with a mouse. Simply add a `"title"` after the
+`path`.
 
 **Exemple**
 ```
-![box character](https://github.com/n48.png) 
+This **untitled** [link](https://www.pcjs.org/) point to an IBM PC emulator
+for browser
+
+This **titled** [link](https://onlinebakery.eu/ "Online bakery") let you
+slice bread online
+```
+
+This **untitled** [link](https://www.pcjs.org/) point to an IBM PC emulator
+for browser
+
+This **titled** [link](https://onlinebakery.eu/ "Online bakery") let you
+slice bread online
+
+## Image
+
+Like *standard links*, but with an `!` at the begining. They can have
+optionnal *titles* as for links.
+
+**Exemple**
+```
+![box character](https://github.com/n48.png "Box character") 
 ```
 
 **Output**
 
-![box character](https://github.com/n48.png) 
+![box character](https://github.com/n48.png "Box character) 
 
 ## Inline html
 
@@ -111,7 +131,6 @@ style="color:MediumSeaGreen;">green</p>
 
 This &copy; is a copyright logo
 
- <ul>list</ul>
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
