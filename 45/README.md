@@ -4,6 +4,13 @@
 1. [Lines and paragraphs](#lines-and-paragraphs)
 2. [Headers](#headers)
 3. [Styling text](#styling-text)
+4. [Block quote](#block-quote)
+5. [List](#list)
+6. [Code block](#code-block)
+7. [Link](#link)
+8. [Image](#image)
+9. [Html](#html)
+10. [Horizontal lines](#horizontal-lines-or-thematic-breaks)
 
 ## Lines and paragraphs
 A simple *carriage return* at the end of the line will not be displayed in the html
@@ -71,7 +78,7 @@ Blockquote can be nested.
 > That continue on a different line
 >> With a nested quote
 
-## Lists
+## List
 
 | Style     | Syntax                                    | Example                                                                           |
 | --------- | --------------------                      | --------------------------------------------------------------------------------- |
@@ -93,8 +100,9 @@ while i < 6:
   i += 1
 ```
 
-## Links
+## Link
 
+### Untitled
 
 | Style     | Syntax                                  | Example                                                                                   | Output                                               |
 |-----------|-----------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------|
@@ -104,6 +112,8 @@ while i < 6:
 
 **Path** can be either a *URL*, an *email adress* or
 a *relative path* on the hosted server.
+
+### Titled
 
 **Inline and reference links** can also come with an optionnal **title** which will be displayed when
 hovering the hyperlink with a mouse. Simply add a `"title"` after the
@@ -150,7 +160,7 @@ This &copy; is a copyright logo
 
 **Output**
 
-If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
+If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>  
 This &copy; is a copyright logo
 
 ## Horizontal lines (or thematic breaks)
@@ -158,6 +168,16 @@ This &copy; is a copyright logo
 Simply use three or more hyphens (`---`), asteriks (`***`) or
 underscores `___`. Note the characters can be *spaced*
 
+**Example**
+```
+---
+* * *
+```
+
+**Output**
+
+---
+* * * 
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
