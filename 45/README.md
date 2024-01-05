@@ -50,8 +50,6 @@ Blockquote can be nested.
 | Ordered   | <code>1.</code> or <code>1)</code>         | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
 | Nested    | Identing `ordered` and/or <br> `unordered`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
 
-
-
 ## Code block
 
 **Indented code blocks**: Starting each lines with **4 spaces**.  
@@ -68,18 +66,31 @@ while i < 6:
 
 ## Links
 
-| Style    | Syntax   | Example | Output |
-
-### Inline and referenced
 
 | Style     | Syntax                                  | Example                                                                                   | Output                                               |
 |-----------|-----------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Standard  | `[name](path)`                          | `[Lost?](www.perdu.com)`                                                                  | [lost?](perdu.com)                                   |
+| inline    | `[name](path)`                          | `[Lost?](www.perdu.com)`                                                                  | [lost?](perdu.com)                                   |
 | Reference | `[name](tag)` <br> ⋮ <br> `[tag]: path` | `See CommonMark [specs](CM_specs)` <br> ⋮ <br> `[cm_specs]: https://spec.commonmark.org/` | See CommonMark [specs](https://spec.commonmark.org/) |
 | Autolinks | `<URL>` or `<email>`                    | `<https://theuselessweb.com/>`                                                            | <https://theuselessweb.com/>                         |
 
 **Note** that *path* can be either a *URL*, an *email adress* or
 a *relative path* on the hosted server
+
+## Image
+
+Like *standard links*, but with an `!` at the begining
+
+**Exemple**
+```
+![pug](adult-black-pug.jpg)
+```
+
+**Output**
+![pug](adult-black-pug.jpg)
+
+## TEST
+
+![alt text](https://github.com/n48.png "Logo Title") 
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
@@ -104,9 +115,6 @@ Lost on the web? Go to [perdu.com](tag)
 [tag]: perdu.com
 -->
 
-### Autolink
-
-## Autolinks
 
 [^info1]: Fenced code blocks are not specified in Gruber's basic
     markdown syntax.
