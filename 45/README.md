@@ -14,7 +14,6 @@
 
 ## Styling (inline) text
 
-[WARNING] Could not convert TeX math \sqrt{4} = 2, rendering as TeX
 | Style           | Syntax                      | Example                                 | Output                                | Flavor |
 |-----------------|-----------------------------|-----------------------------------------|---------------------------------------|--------|
 | Bold            | `** **` or <br> `__ __`     | `This is **bold**`                      | This is **bold**                      | B/C/G  |
@@ -23,7 +22,7 @@
 | Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***`       | This is a ***strong emphasis***       | B/C/G  |
 | Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`                   | This is a ~~wrong~~                   | B/C/G  |
 | Inline code     | `` ` ` ``                   | `` This is a `function` ``              | This is a `function`                  | B/C/G  |
-| Math            | `$ $`                       | `$\sqrt{4} = 2$`                        | $\\sqrt{4} = 2$                       | G      |
+| Math            | `$ $`                       | `$\sqrt{4} = 2$`                        | $\sqrt{4} = 2$                       | G      |
 
 ## Block quote
 
@@ -42,8 +41,29 @@ Blockquote can be nested.
 > That continue on a different line
 >> With a nested quote
 
-
 ## Lists
+
+Lists can be either **unordered** using `-`, `+` or `*` or **unordered**
+using `1.` or `1)`.
+
+List can also be **nested**; the **identation of the _child list_ must be at
+least at the first letter of the _parent list_**.  
+
+**Example**
+```
+1. Banana
+2. Apple
+  * Gala
+  * McIntosh
+3. Papaya
+```
+
+**Output**
+1. Banana
+2. Apple
+  * Gala
+  * McIntosh
+3. Papaya
 
 ## Code block
 
