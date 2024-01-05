@@ -2,11 +2,9 @@
 
 ## Header
 
-| Level   | ATX Syntax  | Setext Syntax |
-| -----   | ----------  | ------------- |
-| 1       | `# H1`      | `First header`|
-|         |             | `============`|
-|         |             |               |
+| Level | ATX Syntax | Setext Syntax                      |
+|-------|------------|------------------------------------|
+| 1     | `# H1`     | `First header` <br> `============` |
 
 ## Styling text
 | Style           | Syntax                      | Example                           | Output                          | Flavor |
