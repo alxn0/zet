@@ -47,7 +47,7 @@ Blockquote can be nested.
 | Style     | Syntax                | Example                                                                           |
 | --------- | --------------------  | --------------------------------------------------------------------------------- |
 | Unordered | `-`, `+`, or `*`      | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
-| Ordered   | `1.` or `1)`          | <pre><code>1. Partridge</code><br><code>2. Turotle doves</code><br><code>3. French hens</code></pre> |
+| Ordered   | `1.` or `1)`          | <pre><code>1) Partridge</code><br><code>2) Turtle doves</code><br><code>3) French hens</code></pre> |
 | Nested    | `-` with `1.`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>&emp;1. Gala</code><br><code>&emp;2. McIntosh</code></pre>|
 
 
