@@ -51,8 +51,6 @@ least at the first letter of the _parent list_**.
 
 **Example**
 ```
-This is a fruit list:
-
 1. Banana
 2. Apple
   * Gala
@@ -61,8 +59,6 @@ This is a fruit list:
 ```
 
 **Output**
-This is a fruit list:
-
 1. Banana
 2. Apple
    * Gala
@@ -71,11 +67,52 @@ This is a fruit list:
 
 ## Code block
 
-## References
+Code on multiple lines can be either declared by starting lines with **4 spaces** (i.e., idented code blocks) 
+or by enclosing sections with either three backticks <code>\`\`\`</code>
+of three tilds ` ~~~ ` (i.e., fenced code blocks)[^info1].
+
+**Example**
+```
+Indented code block
+    a = b
+    c = b
+    a == c
+
+Fenced code block
+~~~
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+~~~
+```
+
+**Output**
+```
+Indented code block
+    a = b
+    c = b
+    a == c
+
+Fenced code block
+~~~
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+~~~
+```
+
+
+
 
 ## Mathematical expressions
 
+## References
 
+
+[^info1]: Fenced code blocks are not specified in Gruber's basic
+    markdown syntax.
 <!--
 | Syntax                | Or                  |  to Get               |
 |-----------------------|-----------------------|-----------------------|
