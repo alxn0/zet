@@ -1,12 +1,20 @@
 # Markdown cheatsheet
 
+## Header
 
+| Level   | ATX Syntax  | Setext Syntax |
+| 1       | `# H1`      | ``` First header
+                              ============
+                          ```           |
+
+## Styling text
 | Style           | Syntax                      | Example                           | Output                          | Flavor |
 |-----------------|-----------------------------|-----------------------------------|---------------------------------|--------|
 | Bold            | `** **` or <br> `__ __`     | `This is **bold**`                | This is **bold**                | B/C/G  |
 | Italic          | `* *` or <br> `_ _`         | `This is _italic_`                | This is *italic*                | B/C/G  |
 | Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***` | This is a ***strong emphasis*** | B/C/G  |
-
+| Strikethrough | `~~ ~~`  | `This is a ~~wrong~~` | This is a ~~wrong~~ | B/C/G  |
+|
 
 
 <!--
