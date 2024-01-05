@@ -93,6 +93,24 @@ Like *standard links*, but with an `!` at the begining
 
 You can use raw HTML in markdown.
 
+**Exemple**
+```
+If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
+
+I love <p style="color:DodgerBlue;">blue</p> and <p
+style="color:MediumSeaGreen;">green</p>
+
+This &copy; is a copyright logo
+```
+
+**Output**
+If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
+
+I love <p style="color:DodgerBlue;">blue</p> and <p
+style="color:MediumSeaGreen;">green</p>
+
+This &copy; is a copyright logo
+
  <ul>list</ul>
 
 <!--
