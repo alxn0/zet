@@ -21,7 +21,7 @@
 | Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***` | This is a ***strong emphasis*** | B/C/G  |
 | Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`             | This is a ~~wrong~~             | B/C/G  |
 | Inline code     | `` ` ` ``                   | `` This is a `function` ``        | This is a `function`            | B/C/G  |
-| Math            | `$ $`                       | `$\sqrt{4} = 2$`                  | $sqrt{4} = 2$                   |        |
+| Math            | `$ $`                       | `$\sqrt{4} = 2$`                  | $\sqrt{4} = 2$                  |        |
 
 ## Block quote
 
