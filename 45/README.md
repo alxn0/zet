@@ -23,7 +23,8 @@ This*is*a*new*paragraph.
 ```
 
 **Output**  
-This is a line.  
+This is a line.
+This is not a new line.  
 This is a new line.
 
 This is a new paragraph.
