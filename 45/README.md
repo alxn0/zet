@@ -46,7 +46,7 @@ Blockquote can be nested.
 
 | Style     | Syntax           | Example                                                                           |
 | --------- | ---------------- | --------------------------------------------------------------------------------- |
-| Unordered | `-`, `+`, or `*` | <pre><code>- banana</code><br><code>- Apple</code><code><br>- Papaya</code></pre> |
+| Unordered | `-`, `+`, or `*` | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
 
 Lists can be either **unordered** using `-`, `+` or `*` or **unordered**
 using `1.` or `1)`.
