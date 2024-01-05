@@ -61,8 +61,8 @@ least at the first letter of the _parent list_**.
 **Output**
 1. Banana
 2. Apple
-  * Gala
-  * McIntosh
+   * Gala
+   * McIntosh
 3. Papaya
 
 ## Code block
