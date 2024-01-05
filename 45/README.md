@@ -86,6 +86,7 @@ Like *standard links*, but with an `!` at the begining
 ```
 
 **Output**
+
 ![box character](https://github.com/n48.png) 
 
 ## Inline html
