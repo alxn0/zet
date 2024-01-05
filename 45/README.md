@@ -1,5 +1,29 @@
 # Markdown cheatsheet
 
+## Content
+1. [Line breaks](line-breaks)
+2. [Headers](headers)
+
+## Line breaks
+
+**Line returns**: Add two spaces at the end of a line.
+**New paragraphs**: Add an empty lines in between two paragraphs
+
+**Example**  
+*In this code example, white spaces are displayed by star*
+```
+This*is*a*line.**
+This*is*a*new*line.
+
+This*is*a*new*paragraph.
+```
+
+**Output**  
+This is a line.  
+This is a new line.
+
+This is a new paragraph.
+
 ## Header
 
 | Level | ATX Syntax  | Setext Syntax                        | Flavor |
@@ -129,27 +153,6 @@ This &copy; is a copyright logo
 Simply use three or more hyphens (`---`), asteriks (`***`) or
 underscores `___`. Note the characters can be *spaced*
 
-## Line and paragraph breaks
-
-**Line returns**: Add two spaces at the end of a line.
-**New paragraphs**: Add an empty lines in between two paragraphs
-
-**Example**  
-*In this code example, white spaces are displayed by star*
-```
-This*is*a*line.**
-This*is*a*new*line.
-
-This*is*a*new*paragraph.
-```
-
-**Output**  
-This is a line.  
-This is a new line.
-
-This is a new paragraph.
-
-## 
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
