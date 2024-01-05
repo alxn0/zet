@@ -3,9 +3,9 @@
 ## Header
 
 | Level   | ATX Syntax  | Setext Syntax |
-| 1       | `# H1`      | ``` First header
-                              ============
-                          ```           |
+| 1       | `# H1`      | `First header`|
+|         |             | `============`|
+|         |             |               |
 
 ## Styling text
 | Style           | Syntax                      | Example                           | Output                          | Flavor |
