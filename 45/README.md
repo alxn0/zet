@@ -44,11 +44,11 @@ Blockquote can be nested.
 
 ## Lists
 
-| Style     | Syntax                | Example                                                                           |
-| --------- | --------------------  | --------------------------------------------------------------------------------- |
-| Unordered | `-`, `+`, or `*`      | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
-| Ordered   | `1.` or `1)`          | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
-| Nested    | `-` with `1.`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code></pre>|
+| Style     | Syntax                                    | Example                                                                           |
+| --------- | --------------------                      | --------------------------------------------------------------------------------- |
+| Unordered | `-`, `+`, or `*`                          | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
+| Ordered   | <code>1</code> or <code>1)</code>         | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
+| Nested    | `-`, `+` or `*` with `1.` or `1)`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
 
 
 Lists can be either **unordered** using `-`, `+` or `*` or **unordered**
