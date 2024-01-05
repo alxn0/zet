@@ -47,7 +47,7 @@ Blockquote can be nested.
 | Style     | Syntax                                    | Example                                                                           |
 | --------- | --------------------                      | --------------------------------------------------------------------------------- |
 | Unordered | `-`, `+`, or `*`                          | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
-| Ordered   | <code>1.</code> or <code>1)</code>         | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
+| Ordered   | <code>1.</code> or <code>1)</code>        | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
 | Nested    | Identing `ordered` and/or <br> `unordered`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
 
 ## Code block
@@ -107,7 +107,7 @@ optionnal *titles* as for links.
 
 **Output**
 
-![box character](https://github.com/n48.png "Box character) 
+![box character](https://github.com/n48.png "Box character") 
 
 ## Inline html
 
@@ -116,21 +116,40 @@ You can use raw HTML in markdown.
 **Exemple**
 ```
 If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
-
-I love <p style="color:DodgerBlue;">blue</p> and <p
-style="color:MediumSeaGreen;">green</p>
-
 This &copy; is a copyright logo
 ```
 
 **Output**
+
 If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
-
-I love <p style="color:DodgerBlue;">blue</p> and <p
-style="color:MediumSeaGreen;">green</p>
-
 This &copy; is a copyright logo
 
+## Horizontal lines (or thematic breaks)
+
+Simply use three or more hyphens (`---`), asteriks (`***`) or
+underscores `___`. Note the characters can be *spaced*
+
+## Line and paragraph breaks
+
+**Line returns**: Add two spaces at the end of a line.
+**New paragraphs**: Add an empty lines in between two paragraphs
+
+**Example**  
+*In this code example, white spaces are displayed by star*
+```
+This*is*a*line.**
+This*is*a*new*line.
+
+This*is*a*new*paragraph.
+```
+
+**Output**  
+This is a line.  
+This is a new line.
+
+This is a new paragraph.
+
+## 
 
 <!--
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
@@ -160,53 +179,3 @@ Lost on the web? Go to [perdu.com](tag)
     markdown syntax.
 [^info2]: Child list must be indented at least to the first letter of
     the parent list.
-<!--
-| Syntax                | Or                  |  to Get               |
-|-----------------------|-----------------------|-----------------------|
-| \*Italic\*            | \_Italic\_            | *Italic*              |
-| \*\*Bold\*\*          | \_\_Bold\_\_          | **Bold**              |
-| \# Heading 1          | Heading 1\            | # Heading 1 {#h       |
-|                       | =========             | eading-1 .smaller-h1} |
-+-----------------------+-----------------------+-----------------------+
-| \## Heading 2         | Heading 2\            | ## Heading 2 {#h      |
-|                       | \-\-\-\-\-\-\-\--     | eading-2 .smaller-h2} |
-+-----------------------+-----------------------+-----------------------+
-| \                     | \[Link\]\[1\]\        | [Link](htt            |
-| [Link\](http://a.com) | ⋮\                    | ps://commonmark.org/) |
-|                       | \[1\]: http://b.org   |                       |
-+-----------------------+-----------------------+-----------------------+
-| !\[Imag               | !\[Image\]\[1\]\      | ![Markdown](images/fa |
-| e\](http://url/a.png) | ⋮\                    | vicon.png){width="36" |
-|                       | \[1\]:                | height="36"}          |
-|                       | http://url/b.jpg      |                       |
-+-----------------------+-----------------------+-----------------------+
-| \> Blockquote         |                       | > Blockquote          |
-+-----------------------+-----------------------+-----------------------+
-| \* List\              | \- List\              | -   List              |
-| \* List\              | - List\               | -   List              |
-| \* List               | - List\               | -   List              |
-+-----------------------+-----------------------+-----------------------+
-| 1\. One\              | 1\) One\              | 1.  One               |
-| 2. Two\               | 2) Two\               | 2.  Two               |
-| 3. Three              | 3) Three              | 3.  Three             |
-+-----------------------+-----------------------+-----------------------+
-| Horizontal rule:\     | Horizontal rule:\     | Horizontal rule:      |
-| \                     | \                     |                       |
-| \-\--                 | \*\*\*                | -------------------   |
-+-----------------------+-----------------------+-----------------------+
-| \`Inline code\` with  |                       | `Inline               |
-| backticks             |                       |  code`{.preformatted} |
-|                       |                       | with backticks        |
-+-----------------------+-----------------------+-----------------------+
-| \`\`\`\               | [····]{.spaces}\#     | ::: code-block        |
-| \# code block\        | code block\           | \# code block\        |
-| print \'3 backticks   | [····]{.spaces}print  | print \'3 backticks   |
-| or\'\                 | \'3 backticks or\'\   | or\'\                 |
-| print \'indent 4      | [····]{.spaces}print  | print \'indent 4      |
-| spaces\'\             | \'indent 4 spaces\'   | spaces\'              |
-| \`\`\`                |                       | :::                   |
-+-----------------------+-----------------------+-----------------------+
-
--->
-
-...
