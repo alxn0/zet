@@ -67,11 +67,11 @@ least at the first letter of the _parent list_**.
 
 ## Code block
 
-Code on multiple lines can be either declared by starting lines with **4 spaces** (i.e., idented code blocks) 
-or by enclosing sections with either three backticks <code>\`\`\`</code>
+**Indented code blocks**: Starting each lines with **4 spaces**.  
+**Fenced code blocks**:  Enclosing sections with either three backticks <code>\`\`\`</code>
 of three tilds ` ~~~ ` (i.e., fenced code blocks)[^info1].
 
-**This is the output of a code block**
+**Output of a code block**
 ```
 i = 1
 while i < 6:
@@ -81,12 +81,14 @@ while i < 6:
 
 ## Links
 
+### Inline and referenced
+
 Links can be eiter in the format `[Link](path)` or `[Link](tag)` with
 later the reference to the tag `[tag]: path`
 
 Path can be either a *relative path* within the server or a *URL*.  
 
-**Exemple**
+**Exemple**  
 ```
 See this [note](../43) on the difference between Grubers' markdown and CommonMark
 
@@ -95,12 +97,14 @@ Lost on the web? Go to [perdu.com](tag)
 [tag]: perdu.com
 ```
 
-**Output**
+**Output**  
 See this [note](../43) on the difference between Grubers' markdown and CommonMark
 
 Lost on the web? Go to [perdu.com](tag)
 
 [tag]: perdu.com
+
+### Autolink
 
 ## Autolinks
 
