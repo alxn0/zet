@@ -20,9 +20,10 @@
 | Italic          | `* *` or <br> `_ _`         | `This is _italic_`                      | This is *italic*                      | B/C/G  |
 | Nested emphasis | `* *` with <br> `_ _`       | `**This is bold with nested _italic_**` | **This is bold with nested _italic_** | B/C/G  |
 | Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***`       | This is a ***strong emphasis***       | B/C/G  |
-| Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`                   | This is a ~~wrong~~                   | B/C/G  |
 | Inline code     | `` ` ` ``                   | `` This is a `function` ``              | This is a `function`                  | B/C/G  |
-| Math            | `$ $`                       | `$\sqrt{4} = 2$`                        | $\sqrt{4} = 2$                       | G      |
+| Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`                   | This is a ~~wrong~~                   | G      |
+| Math            | `$ $`                       | `$\sqrt{4} = 2$`                        | $\sqrt{4} = 2$                        | G      |
+| Emoji           | `:EMOJICODE:`               | `:joy:`                                 | :joy:                                 | G      |
 
 ## Block quote
 
@@ -42,6 +43,10 @@ Blockquote can be nested.
 >> With a nested quote
 
 ## Lists
+
+| Style     | Syntax           | Example                                                                           |
+| --------- | ---------------- | --------------------------------------------------------------------------------- |
+| Unordered | `-`, `+`, or `*` | <pre><code>- banana</code><br><code>- Apple</code><code><br>- Papaya</code></pre> |
 
 Lists can be either **unordered** using `-`, `+` or `*` or **unordered**
 using `1.` or `1)`.
