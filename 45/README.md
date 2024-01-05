@@ -15,7 +15,8 @@ paragraphs.
 **Example**  
 *In this code example, white spaces are displayed by star*
 ```
-This*is*a*line.**
+This*is*a*line.
+This*is*not*a*new*line.**
 This*is*a*new*line.
 
 This*is*a*new*paragraph.
