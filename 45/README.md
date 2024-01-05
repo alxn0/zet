@@ -14,14 +14,16 @@
 
 ## Styling (inline) text
 
-| Style           | Syntax                      | Example                           | Output                          | Flavor |
-|-----------------|-----------------------------|-----------------------------------|---------------------------------|--------|
-| Bold            | `** **` or <br> `__ __`     | `This is **bold**`                | This is **bold**                | B/C/G  |
-| Italic          | `* *` or <br> `_ _`         | `This is _italic_`                | This is *italic*                | B/C/G  |
-| Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***` | This is a ***strong emphasis*** | B/C/G  |
-| Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`             | This is a ~~wrong~~             | B/C/G  |
-| Inline code     | `` ` ` ``                   | `` This is a `function` ``        | This is a `function`            | B/C/G  |
-| Math            | `$ $`                       | `$\sqrt{4} = 2$`                  | $\sqrt{4} = 2$                  | G      |
+[WARNING] Could not convert TeX math \sqrt{4} = 2, rendering as TeX
+| Style           | Syntax                      | Example                                 | Output                                | Flavor |
+|-----------------|-----------------------------|-----------------------------------------|---------------------------------------|--------|
+| Bold            | `** **` or <br> `__ __`     | `This is **bold**`                      | This is **bold**                      | B/C/G  |
+| Italic          | `* *` or <br> `_ _`         | `This is _italic_`                      | This is *italic*                      | B/C/G  |
+| Nested emphasis | `* *` with <br> `_ _`       | `**This is bold with nested _italic_**` | **This is bold with nested _italic_** | B/C/G  |
+| Strong emphasis | `*** ***` or <br> `___ ___` | `This is a ***strong emphasis***`       | This is a ***strong emphasis***       | B/C/G  |
+| Strikethrough   | `~~ ~~`                     | `This is a ~~wrong~~`                   | This is a ~~wrong~~                   | B/C/G  |
+| Inline code     | `` ` ` ``                   | `` This is a `function` ``              | This is a `function`                  | B/C/G  |
+| Math            | `$ $`                       | `$\sqrt{4} = 2$`                        | $\\sqrt{4} = 2$                       | G      |
 
 ## Block quote
 
