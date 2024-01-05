@@ -48,30 +48,8 @@ Blockquote can be nested.
 | --------- | --------------------                      | --------------------------------------------------------------------------------- |
 | Unordered | `-`, `+`, or `*`                          | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
 | Ordered   | <code>1</code> or <code>1)</code>         | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
-| Nested    | `-`, `+` or `*` with `1.` or `1)`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
+| Nested    | Identing `ordered` and/or <br> `unordered`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
 
-
-Lists can be either **unordered** using `-`, `+` or `*` or **unordered**
-using `1.` or `1)`.
-
-List can also be **nested**; the **identation of the _child list_ must be at
-least at the first letter of the _parent list_**.  
-
-**Example**
-```
-1. Banana
-2. Apple
-  * Gala
-  * McIntosh
-3. Papaya
-```
-
-**Output**
-1. Banana
-2. Apple
-   * Gala
-   * McIntosh
-3. Papaya
 
 ## Code block
 
@@ -118,7 +96,8 @@ Lost on the web? Go to [perdu.com](tag)
 
 [^info1]: Fenced code blocks are not specified in Gruber's basic
     markdown syntax.
-[^info2]: Or any alternative syntax
+[^info2]: Child list must be indented at least to the first letter of
+    the parent list.
 <!--
 | Syntax                | Or                  |  to Get               |
 |-----------------------|-----------------------|-----------------------|
