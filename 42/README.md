@@ -1,4 +1,4 @@
-# Some specifications of commonMark 
+# Some differences between Gruber's markdown and CommonMark 
 
 CommonMark[^ref1] provides a strictly defined specification for Markdown syntax
 that aims to resolve ambiguities and inconsistencies that existed in John
