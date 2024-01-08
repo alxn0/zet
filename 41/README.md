@@ -231,7 +231,7 @@ Markdown syntax **is processed** and **can be used** within span-level tags
 
 **Exemple**
 ```md
-If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>
+If <b>x = 2</b>, then <b>x<sup>2</sup>= 4</b>
 This &copy; is a copyright logo
 ```
 
