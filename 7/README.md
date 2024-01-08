@@ -7,53 +7,104 @@ Most of this information is taken from Xu and Tian (2015)[^ref1] and
 Ezugwu and al. (2022)[^ref2]. See those paper for an extensive review of
 methods.
 
- <table>
-  <tr>
-    <th>Category </th>
-    <th>Exemple</th>
-    <th>Logic</th>
-    <th>Advantages</th>
-    <th>Limitations</th>
-  </tr>
-  <tr>
-    <td>Hierarchical</td>
-    <td>Single-linkage</td>
-    <td>Clusters are merged or split based on minimal/maximal
-  distances between objects, or between cluster centroids. </td>
-    <td>
-        <ul>
-            <li>Easy to implement and to interpret</li>
-            <li>Allows to explore hierarchical clustering structure</li>
-            <li>Can be used with arbitrary distances</li>
-        </ul>
-    </td>
-    <td>
-        <ul>
-            <li>High computational cost in general (limited with big data)</li>
-            <li>wrong <i>connection</i> can't be undone, need a cutpoint for k cluster.</li>
-        </ul>
-    </td>
-  </tr>
- </table>
+<table>
+ <tr>
+   <th>Category </th>
+   <th>Exemple</th>
+   <th>Logic</th>
+   <th>Advantages</th>
+   <th>Limitations</th>
+ </tr>
+ <tr>
+   <td>Hierarchical-based</td>
+   <td>Single-linkage</td>
+   <td>Clusters are merged or split based on minimal/maximal
+ distances between objects, or between cluster centroids. </td>
+   <td>
+       <ul>
+           <li>Easy to implement and to interpret</li>
+           <li>Allows to explore hierarchical clustering structure</li>
+           <li>Can be used with arbitrary distances</li>
+       </ul>
+   </td>
+   <td>
+       <ul>
+           <li>High computational cost in general (limited with big data)</li>
+           <li>wrong <i>connection</i> can't be undone, need a cutpoint for k cluster.</li>
+       </ul>
+   </td>
+ </tr>
+</table>
 
 
 > All the following methods are partitionnal-based methods, meaning that they
 produce a single partition of the data, in contrast with previous
 hierarchical-based methods
 
-2. **Centroid-based clustering**
-
-- *Example*: K-means and k-medoids
-- *Logic*: Represent each cluster according to a central vector
+<table>
+ <tr>
+   <th>Category </th>
+   <th>Exemple</th>
+   <th>Logic</th>
+   <th>Advantages</th>
+   <th>Limitations</th>
+ </tr>
+ <tr>
+   <td>centroid-based</td>
+   <td>k-mean</td>
+   <td>Represent each cluster according to a central vector
   (centroid). Centroid are move iteratively, and optimization is done
   on the square error distance to these centroids. Works well when
-  cluster are compact and spherical. Based on euclidean distances for
-  k-means, and arbitrary distances for k-medoids.
-- *Advantages*: Low computational cost and easy to implement.
-- *Limitations*: Need to specify a priori number of cluster, biases towards
-  spherical clusters, sensible to noise (although k-medoids is more
-  robust), sensitive to the number of clusters, easily drawn in to local
-  optimal (workaround → multiple iterations)
+  cluster are compact and spherical. </td>
+   <td>
+       <ul>
+           <li>Works well when cluster are compact and spherical</li>
+           <li>Low computation cost and easy to implement</li>
+           <li>Can be used with arbitrary distances with k-medoid</li>
+       </ul>
+   </td>
+   <td>
+       <ul>
+           <li>Need to specify a priori number of cluster</li>
+           <li>Biases towards spherical clusters</li>
+           <li>Sensible to noise [^note1] </li>
+           <li>sensitive to number of clusters</li>
+           <li>Easily drawn to local optimal[^note2]</li>
+           <li></li>
+       </ul>
+   </td>
+ </tr>
+ <tr>
+   <td>density-based</td>
+   <td>k-mean</td>
+   <td>Represent each cluster according to a central vector
+  (centroid). Centroid are move iteratively, and optimization is done
+  on the square error distance to these centroids. Works well when
+  cluster are compact and spherical. </td>
+   <td>
+       <ul>
+           <li>Works well when cluster are compact and spherical</li>
+           <li>Low computation cost and easy to implement</li>
+           <li>Can be used with arbitrary distances with k-medoid</li>
+       </ul>
+   </td>
+   <td>
+       <ul>
+           <li>Need to specify a priori number of cluster</li>
+           <li>Biases towards spherical clusters</li>
+           <li>Sensible to noise [^note1] </li>
+           <li>sensitive to number of clusters</li>
+           <li>Easily drawn to local optimal[^note2]</li>
+           <li></li>
+       </ul>
+   </td>
+ </tr>
+</table>
+
+
+[^note1]: Although k-medoid is more robust than k-mean
+[^note2]: A workaround is to compute multiple iterations with different
+    starting point for centroids.
 
 3. **Density-based clustering**
 
