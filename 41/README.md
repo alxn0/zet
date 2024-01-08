@@ -283,8 +283,8 @@ Yet, `<` will be treated as it when begining html tags, and `&TAG;` generate the
 [^note2]: Indentation for child-list must be at least to the first letter
     of the parent-list.
 [^note3]: Although some flavors can be output to other format.
-[^note4]: To display a backtick `` ` `` in inline-code, you need to
-    enclose it within *pairs* of backticks (i.e., <code> `` ` ``
+[^note4]: To display a backtick in inline-code, you need to
+    enclose it within *pairs* of backticks (i.e., <code>\`\` \` \`\`
     </code>)
 
 
