@@ -2,16 +2,16 @@
 
 ## Structure
 
-| Concept                   | Definition                                                                                      |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| Vertex                    | Elements                                                                                        |
-| Edges                     | Connections or relations                                                                        |
-| Undirected/ directed edge | Edge without/with orientation                                                                   |
-| Connected graph           | Graph were every pairs of vertices are connected                                                |
-| Connected component       | Connected subgraph of an undirected graph                                                       |
-| Tree                      | Undirected connected graph in which all pairs of vertices are connected by one path             |
-| Forest                    | Graph were all connected components are tree                                                    |
-| Dendrogram                | Visual representation of a tree were the *root* is one one side and the leafs on the other side |
+| Concept                   | Definition                                                                                      | Symbol |
+|---------------------------|-------------------------------------------------------------------------------------------------| ------ |
+| Vertex                    | Elements                                                                                        | $V$    |
+| Edges                     | Connections or relations                                                                        | $E$    |
+| Undirected/ directed edge | Edge without/with orientation                                                                   |        |
+| Connected graph           | Graph were every pairs of vertices are connected                                                |        |
+| Connected component       | Connected subgraph of an undirected graph                                                       |        |
+| Tree                      | Undirected connected graph in which all pairs of vertices are connected by one path             |        |
+| Forest                    | Graph were all connected components are tree                                                    |        |
+| Dendrogram                | Visual representation of a tree were the *root* is one one side and the leafs on the other side |        |
 
 
 ## Global Metric
