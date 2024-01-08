@@ -18,12 +18,15 @@ methods.
   <tr>
     <td>Hierarchical</td>
     <td>Single-linkage</td>
-    <td>Builds clusters based on distance between objects.  Clusters
-  are merged or split based on minimal/maximal
+    <td>Clusters are merged or split based on minimal/maximal
   distances between objects, or between cluster centroids. </td>
-    <td>Easy to implement and to interpret, allows to explore hierarchical
-  clustering structure, can be used with arbitrary distances (therefore
-  arbitrary type).</td>
+    <td>
+        <ul>
+            <li>Easy to implement and to interpret</li>
+            <li>Allows to explore hierarchical clustering structure</li>
+            <li>Can be used with arbitrary distances (therefore arbitrary type)</li>
+        </ul>
+    </td>
     <td>High computational cost in general (limit used with big data), wrong *connection* can't be
   undone, need a cutpoint in the dendrogram for k cluster.</td>
   </tr>

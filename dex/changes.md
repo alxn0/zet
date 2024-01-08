@@ -1,5 +1,5 @@
+* 2024-01-08 16:15:47Z [Traditional clustering algorithms](../7)
 * 2024-01-08 12:13:54Z [Clustering](../5)
-* 2024-01-08 16:13:42Z [Traditional clustering algorithms](../7)
 * 2024-01-08 12:03:53Z [Graph theory glossary](../18)
 * 2024-01-08 09:46:09Z [Basic markdown and CommonMark](../41)
 * 2024-01-08 09:33:28Z [Markdown HTML/CSS Hacks](../44)
