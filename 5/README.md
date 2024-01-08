@@ -6,28 +6,28 @@ Considering the extensive number of algorithm, multiple taxonomy have
 been proposed and to my knowledge, Ezugwu and al. (2022)
 provides the most recent and complete one [^ref1].
 
-**General discussion on**:
+**General topics**:
 - [The clustering process](../6)
 - [Traditional clustering algorithms](../7)
-- [Validation approach](..9)
+- [Validation approach](../9)
 
-**Notes on specific topics**:
+**Specific topics**:
 - [Clustering on semimetric distance](../17)
 - [Hierarchical agglomerative clustering](../32)
 
 **References on clustering analysis**:
-- A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects (recent and extensive taxonomy)[^ref1]
-- Handbook of cluster analysis (Excellent textbook with expert in the
+- ***A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects*** (recent and extensive taxonomy)[^ref1]
+- ***Handbook of cluster analysis*** (Excellent textbook with expert in the
   field)[^ref6]
-- A comprehensive survey of clustering algorithms (advantages and
+- ***A comprehensive survey of clustering algorithms*** (advantages and
   limitations of methods)[^ref2]
-- Data Cluster: 50 years beyond K-means (General and historical
+- ***Data Cluster: 50 years beyond K-means*** (General and historical
   perspective on clustering)[^ref7]
-- Data Clustering: Algorithm and Applications (Good textbook from a ML
+- ***Data Clustering: Algorithm and Applications*** (Good textbook from a ML
   perspective)[^ref3]
-- Chapter 8 of Numerical ecology (Extensive discussion on hierarchical
+- ***Chapter 8 of Numerical ecology*** (Extensive discussion on hierarchical
   and k-means methods)[^ref4]
-- Chapter 8 of Data mining: Concepts and Techniques (Dated, but detailed
+- ***Chapter 8 of Data mining: Concepts and Techniques*** (Dated, but detailed
   presentation of algorithms)[^ref5]
 
 [^info1]: The *clustering* or *splitting* of the objects can be refered to various term such as *typologie*, *classification*, *categorization*, *grouping*, *aggregation*.

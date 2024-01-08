@@ -8,7 +8,7 @@ Some nodes to start digging:
 **Data analysis and computer science**:
 - [Statistical association](/2)
 - [Clustering analysis](/5)
-- [Graph theory terminology](/18)
+- [Graph theory glossary](/18)
 - [CS and stats learning materials](/12)
 
 **Computing tools**
