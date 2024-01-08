@@ -34,12 +34,7 @@ methods.
         </ul>
     </td>
   </tr>
-  <tr>
-    <td>qux</td>
-    <td>corge</td>
-    <td>thud</td>
-  </tr>
-</table>
+ </table>
 
 
 1. **Hierarchical-based clustering**
