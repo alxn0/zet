@@ -16,20 +16,20 @@ provides the most recent and complete one [^ref1].
 - [Hierarchical agglomerative clustering](../32)
 
 **References on clustering analysis**:
-1. _A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects_ (recent and extensive taxonomy)[^ref1]
+1. A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects (_recent and extensive taxonomy_)[^ref1]
 no buffers
-1. _Handbook of cluster analysis_ (Excellent textbook with expert in the
-  field)[^ref6]
-1. _A comprehensive survey of clustering algorithms_ (advantages and
-  limitations of methods)[^ref2]
-1. _Data Cluster: 50 years beyond K-means_ (General and historical
-  perspective on clustering)[^ref7]
-1. _Data Clustering: Algorithm and Applications_ (Good textbook from a ML
-  perspective)[^ref3]
-1. _Chapter 8 of Numerical ecology_ (Extensive discussion on hierarchical
-  and k-means methods)[^ref4]
-1. _Chapter 8 of Data mining: Concepts and Techniques_ (Dated, but detailed
-  presentation of algorithms)[^ref5]
+1. Handbook of cluster analysis (_Excellent textbook with expert in the
+  field_)[^ref6]
+1. A comprehensive survey of clustering algorithms (_advantages and
+  limitations of methods_)[^ref2]
+1. Data Cluster: 50 years beyond K-means (_General and historical
+  perspective on clustering_)[^ref7]
+1. Data Clustering: Algorithm and Applications (_Good textbook from a ML
+  perspective_)[^ref3]
+1. Chapter 8 of Numerical ecology (_Extensive discussion on hierarchical
+  and k-means methods_)[^ref4]
+1. Chapter 8 of Data mining: Concepts and Techniques (_Dated, but detailed
+  presentation of algorithms_)[^ref5]
 
 [^info1]: The *clustering* or *splitting* of the objects can be refered to various term such as *typologie*, *classification*, *categorization*, *grouping*, *aggregation*.
 [^ref1]: Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. [https://doi.org/10.1016/j.engappai.2022.104743](https://doi.org/10.1016/j.engappai.2022.104743)
