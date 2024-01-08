@@ -20,6 +20,6 @@
 | Density | Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)} $  | 
 
 
-$ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)} $
+$D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$
 
 $$ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)} $$
