@@ -42,7 +42,7 @@ To obtain a **new paragraph**, we add an empty line in between paragraphs.
 
 **Example**  
 *In this code example, white spaces are displayed by interpunct `·`*
-```
+```md
 This·is·a·line.
 This·is·not·a·new·line.··
 This·is·a·new·line.\
@@ -89,7 +89,7 @@ Each line of a block quote begin with `>`.
 Blockquote can be nested.
 
 **Example**
-```
+```md
 > A quote from somebody
 > That continue on a different line
 >> With a nested quote
@@ -142,7 +142,7 @@ hovering the hyperlink with a mouse. Simply add a `"title"` after the
 `path`.
 
 **Exemple**
-```
+```md
 This **untitled** [link](https://www.pcjs.org/) point to an IBM PC emulator
 for browser
 
@@ -162,7 +162,7 @@ Like *standard links*, but with an `!` at the begining. They can have
 optionnal *titles* as for links.
 
 **Exemple**
-```
+```md
 ![box character](https://github.com/n48.png "Box character") 
 ```
 
@@ -182,7 +182,7 @@ Markdown syntax **is not processed** and cannot be used within block-level
 tags.
 
 **Example**
-```
+```md
  <table>
   <tr>
     <th>column A </th>
@@ -246,7 +246,7 @@ Simply use three or more hyphens (`---`), asteriks (`***`) or
 underscores `___`. Note the characters can be *spaced*
 
 **Example**
-```
+```md
 ---
 * * *
 ```
@@ -262,7 +262,7 @@ underscores `___`. Note the characters can be *spaced*
 All ASCII punctuations can be escaped with a precedding backslash `\`.
 Escaped characters are treats.
 
-```
+```md
 \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
 ```
 ed as regular characters and do not have their usual Markdown meaning.  
