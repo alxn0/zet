@@ -16,5 +16,5 @@
 
 | Metric  | Definition                                                              | Calculation | Reference |
 |---------|-------------------------------------------------------------------------|-------------|-----------|
-| Size    | Number of nodes                                                         | $|V|$       |           |
-| Density | Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2|E|}{|V|(|V| - 1)}$     |           |
+| Size    | Number of nodes                                                         | $\|V\|$       |           |
+| Density | Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$     |           |
