@@ -4,8 +4,7 @@ Markdown is lightweight markup language which is simple to use and
 available in many programming language and applications. It's an easy
 way to renders HTML pages. 
 
-What is frustrating when using markdown is that there is many *variant* or *flavors* [^ref2]. 
-John Gruber canonical specification[^ref1] contains many ambiguities,
+There is many *variant* or *flavors* [^ref2]. The canonical specification[^ref1] contained many ambiguities,
 and it seems to have generated various markdown specific syntax and
 parsers.
 
@@ -15,11 +14,10 @@ I mainly use CommonMark[^ref3] and GitHub Flavored Markdown[^ref4],
 with little usage of HTML and CSS. Here are some note/cheatsheet on
 those :
 
-- [Basic syntax](../41)
-- [Commonmark](../42)
+- [Basic markdown and CommonMark](../41)
+- [Some differences between Gruber's markdown and CommonMark](../42)
 - [GitHub Flavored Markdown and advanced formating](../43)
 - [HTML/CSS hacks](../44)
-- [Cheatsheet](../45)
 
 **Additionnal ressources**
 - [https://www.markdownguide.org/](https://www.markdownguide.org/)
