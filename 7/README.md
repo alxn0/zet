@@ -30,7 +30,7 @@ methods.
     <td>
         <ul>
             <li>High computational cost in general (limited with big data)</li>
-            <li>wrong *connection* can't be undone, need a cutpoint for k cluster.</li>
+            <li>wrong connection can't be undone, need a cutpoint for k cluster.</li>
         </ul>
     </td>
   </tr>
