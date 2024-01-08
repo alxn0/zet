@@ -237,7 +237,7 @@ This &copy; is a copyright logo
 
 **Output**
 
-If <b>x = 2 </b>, then <b> x<sup>2</sup> = 4</b>  
+If <b>x = 2</b>, then <b>x<sup>2</sup>= 4</b>  
 This &copy; is a copyright logo
 
 ## Horizontal lines (or thematic breaks)
