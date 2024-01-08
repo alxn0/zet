@@ -1,19 +1,20 @@
-# Tree, forest and dendrogram
+# Graph theory glossary
 
-A **tree** is simply an undirected connected graph in which all pairs of
-vertices are connected by exactly one path. By extension, a **forest**
-is a graph were all connected components are trees.
+## Structure
 
-Visualy, tree can be represented as **dendrogram** where the root is on
-one side and the leaf are on the other side. Generaly we have a top down
-representation.
-
-The name derives from two ancient greek words, [δένδρον](https://en.wiktionary.org/wiki/%CE%B4%CE%AD%CE%BD%CE%B4%CF%81%CE%BF%CE%BD#Ancient_Greek "wikt:δένδρον")(*déndron*), meaning "tree", and [γράμμα](https://en.wiktionary.org/wiki/%CE%B3%CF%81%CE%AC%CE%BC%CE%BC%CE%B1#Ancient_Greek "wikt:γράμμα")(*grámma*), meaning "drawing, mathematical figure".
-
-<p align="center" width="100%">
-  <img src="./dendrogram.svg" alt="Some dendrogram" />
-</p>
-
-*Image source [wikipedia](https://en.wikipedia.org/wiki/Hierarchical_clustering)*
+| Concept             | Definition                                                                                      |
+|---------------------|-------------------------------------------------------------------------------------------------|
+|  
+| Undirected/ directed edge |  Edge without/with orientation                                                                        |
+| Connected graph     | Graph were every pairs of vertices are connected                                                |
+| Connected component | Connected subgraph of an undirected graph                                                       |
+| Tree                | Undirected connected graph in which all pairs of vertices are connected by one path             |
+| Forest              | Graph were all connected components are tree                                                    |
+| Dendrogram          | Visual representation of a tree were the *root* is one one side and the leafs on the other side |
 
 
+## Metric
+| Metric | Definition | Calculation | Reference |
+| ------ | ---------- | ----------- | --------- |
+| Size   | Number of nodes | $|V|$  |           |
+| Density| Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2|E|}{|V|(|V| - 1)} $ | |
