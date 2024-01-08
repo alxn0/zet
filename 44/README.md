@@ -1,8 +1,21 @@
 # Markdown HTML/CSS Hacks
 
-***TODO***
+## Comments
 
-- [ ] Images
-- [ ] Comments
-- [ ] Color contents
-- [ ] Others?
+```md
+This will be in the output document
+
+<!-- 
+This is hidden
+-->
+```
+
+## Images formating
+
+```md
+This image will be centered
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+```
