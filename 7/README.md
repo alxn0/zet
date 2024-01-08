@@ -24,11 +24,15 @@ methods.
         <ul>
             <li>Easy to implement and to interpret</li>
             <li>Allows to explore hierarchical clustering structure</li>
-            <li>Can be used with arbitrary distances (therefore arbitrary type)</li>
+            <li>Can be used with arbitrary distances</li>
         </ul>
     </td>
-    <td>High computational cost in general (limit used with big data), wrong *connection* can't be
-  undone, need a cutpoint in the dendrogram for k cluster.</td>
+    <td>
+        <ul>
+            <li>High computational cost in general (limited with big data)</li>
+            <li>wrong *connection* can't be undone, need a cutpoint for k cluster.</li>
+        </ul>
+    </td>
   </tr>
   <tr>
     <td>qux</td>
