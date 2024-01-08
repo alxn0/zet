@@ -106,7 +106,7 @@ Blockquote can be nested.
 | --------- | --------------------                      | --------------------------------------------------------------------------------- |
 | Unordered | `-`, `+`, or `*`                          | <pre><code>- banana</code><br><code>- Apple</code><br><code>- Papaya</code></pre> |
 | Ordered   | <code>1.</code> or <code>1)</code>        | <pre><code>1. Partridge</code><br><code>2. Turtle doves</code><br><code>3. French hens</code></pre> |
-| Nested[^note2]    | Identing `ordered` and/or <br> `unordered`[^info2] | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
+| Nested[^note2]    | Identing `ordered` and/or <br> `unordered` | <pre><code>- banana </code><br><code>- Apple</code><br><code>  1. Gala</code><br><code>  2. McIntosh</code><br><code>- Papaya</code></pre>|
 
 ## Code block
 
