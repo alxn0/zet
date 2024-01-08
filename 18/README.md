@@ -12,9 +12,9 @@
 | Dendrogram                | Visual representation of a tree were the *root* is one one side and the leafs on the other side |
 
 
-## Metric
+## Global Metric
 
-| Metric  | Definition                                                              | Calculation | Reference |
-|---------|-------------------------------------------------------------------------|-------------|-----------|
-| Size    | Number of nodes                                                         | $\|V\|$       |           |
-| Density | Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$     |           |
+| Metric  | Definition                                                              | Calculation |
+|---------|-------------------------------------------------------------------------|-------------|
+| Size    | Number of nodes                                                         | $\|V\|$       | 
+| Density | Ratio of the number of edges with respect to the maximum possible edges | $ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)} $  | 
