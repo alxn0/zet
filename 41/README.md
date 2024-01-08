@@ -115,7 +115,7 @@ Blockquote can be nested.
 of three tilds ` ~~~ ` (i.e., fenced code blocks)[^info1].
 
 **Output of a code block**
-```python
+```
 i = 1
 while i < 6:
   print(i)
