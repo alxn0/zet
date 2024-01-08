@@ -16,18 +16,19 @@ provides the most recent and complete one [^ref1].
 - [Hierarchical agglomerative clustering](../32)
 
 **References on clustering analysis**:
-1. ***A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects*** (recent and extensive taxonomy)[^ref1]
-1. ***Handbook of cluster analysis*** (Excellent textbook with expert in the
+1. _A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects_ (recent and extensive taxonomy)[^ref1]
+no buffers
+1. _Handbook of cluster analysis_ (Excellent textbook with expert in the
   field)[^ref6]
-1. ***A comprehensive survey of clustering algorithms*** (advantages and
+1. _A comprehensive survey of clustering algorithms_ (advantages and
   limitations of methods)[^ref2]
-1. ***Data Cluster: 50 years beyond K-means*** (General and historical
+1. _Data Cluster: 50 years beyond K-means_ (General and historical
   perspective on clustering)[^ref7]
-1. ***Data Clustering: Algorithm and Applications*** (Good textbook from a ML
+1. _Data Clustering: Algorithm and Applications_ (Good textbook from a ML
   perspective)[^ref3]
-1. ***Chapter 8 of Numerical ecology*** (Extensive discussion on hierarchical
+1. _Chapter 8 of Numerical ecology_ (Extensive discussion on hierarchical
   and k-means methods)[^ref4]
-1. ***Chapter 8 of Data mining: Concepts and Techniques*** (Dated, but detailed
+1. _Chapter 8 of Data mining: Concepts and Techniques_ (Dated, but detailed
   presentation of algorithms)[^ref5]
 
 [^info1]: The *clustering* or *splitting* of the objects can be refered to various term such as *typologie*, *classification*, *categorization*, *grouping*, *aggregation*.
