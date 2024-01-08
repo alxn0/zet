@@ -37,20 +37,6 @@ methods.
  </table>
 
 
-1. **Hierarchical-based clustering**
-
-- *Example*: Single-, complete- and average-linkage
-- *Logic*: Builds clusters based on distance between objects.  Clusters
-  are merged or split based on minimal/maximal
-  distances between objects, or between cluster centroids, depending on
-  the algorithms. Results in a dendrogram representing nested clusters
-  at different distance levels.
-- *Advantages*: Easy to implement and to interpret, allows to explore hierarchical
-  clustering structure, can be used with arbitrary distances (therefore
-  arbitrary type).
-- *Limitations*: High computational cost in general (limit used with big data), wrong *connection* can't be
-  undone, need a cutpoint in the dendrogram for k cluster.
-
 > All the following methods are partitionnal-based methods, meaning that they
 produce a single partition of the data, in contrast with previous
 hierarchical-based methods
