@@ -7,6 +7,34 @@ Most of this information is taken from Xu and Tian (2015)[^ref1] and
 Ezugwu and al. (2022)[^ref2]. See those paper for an extensive review of
 methods.
 
+ <table>
+  <tr>
+    <th>Category </th>
+    <th>Exemple</th>
+    <th>Logic</th>
+    <th>Advantages</th>
+    <th>Limitations</th>
+  </tr>
+  <tr>
+    <td>Hierarchical</td>
+    <td>Single-linkage</td>
+    <td>Builds clusters based on distance between objects.  Clusters
+  are merged or split based on minimal/maximal
+  distances between objects, or between cluster centroids. </td>
+    <td>Easy to implement and to interpret, allows to explore hierarchical
+  clustering structure, can be used with arbitrary distances (therefore
+  arbitrary type).</td>
+    <td>High computational cost in general (limit used with big data), wrong *connection* can't be
+  undone, need a cutpoint in the dendrogram for k cluster.</td>
+  </tr>
+  <tr>
+    <td>qux</td>
+    <td>corge</td>
+    <td>thud</td>
+  </tr>
+</table>
+
+
 1. **Hierarchical-based clustering**
 
 - *Example*: Single-, complete- and average-linkage
