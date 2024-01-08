@@ -4,6 +4,8 @@
 
 | Concept                   | Definition                                                                                      |
 |---------------------------|-------------------------------------------------------------------------------------------------|
+| Vertex                    | Elements                                                                                        |
+| Edges                     | Connections or relations                                                                        |
 | Undirected/ directed edge | Edge without/with orientation                                                                   |
 | Connected graph           | Graph were every pairs of vertices are connected                                                |
 | Connected component       | Connected subgraph of an undirected graph                                                       |
@@ -17,9 +19,6 @@
 | Metric  | Definition                                                              | Calculation |
 |---------|-------------------------------------------------------------------------|-------------|
 | Size    | Number of nodes                                                         | $\|V\|$       | 
-| Density | Ratio of the number of edges with respect to the maximum possible edges | $D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$  | 
+| Density | Ratio of the number of edges with respect to the maximum possible edges | $D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$[^note1]  | 
 
-
-$D = \frac{2\|E\|}{\|V\|(\|V\| - 1)}$
-
-$$ D = \frac{2\|E\|}{\|V\|(\|V\| - 1)} $$
+[^note1]: Calculation for an undirected simple graph
