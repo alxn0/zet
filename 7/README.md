@@ -70,32 +70,25 @@ hierarchical-based methods
            <li>Sensible to noise [^note1] </li>
            <li>sensitive to number of clusters</li>
            <li>Easily drawn to local optimal[^note2]</li>
-           <li></li>
        </ul>
    </td>
  </tr>
  <tr>
    <td>density-based</td>
-   <td>k-mean</td>
-   <td>Represent each cluster according to a central vector
-  (centroid). Centroid are move iteratively, and optimization is done
-  on the square error distance to these centroids. Works well when
-  cluster are compact and spherical. </td>
+   <td>DBSCAN</td>
+   <td>Based on the objects space, conncect areas of high density
+  into clusters. Allows for more arbitrary-shaped such as elongated dense
+  or doghnut-like areas.</td>
    <td>
        <ul>
-           <li>Works well when cluster are compact and spherical</li>
-           <li>Low computation cost and easy to implement</li>
-           <li>Can be used with arbitrary distances with k-medoid</li>
+           <li>Non-biased toward specific shape.</li>
+           <li>Robust to outliers</li>
        </ul>
    </td>
    <td>
        <ul>
-           <li>Need to specify a priori number of cluster</li>
-           <li>Biases towards spherical clusters</li>
-           <li>Sensible to noise [^note1] </li>
-           <li>sensitive to number of clusters</li>
-           <li>Easily drawn to local optimal[^note2]</li>
-           <li></li>
+           <li>Need to select appropirate parameters. 
+           <li>Difficulties with varying density and high-dimensionnal data</li>
        </ul>
    </td>
  </tr>
@@ -106,18 +99,61 @@ hierarchical-based methods
 [^note2]: A workaround is to compute multiple iterations with different
     starting point for centroids.
 
-3. **Density-based clustering**
-
-- *Example* : DBSCAN
-- *Logic*: Based on the objects space, conncect areas of high density
-  into clusters. Allows for more arbitrary-shaped such as elongated dense
-  or doghnut-like areas.
-- *Advantages*: Non-biased toward specific shape. Robust to outliers
-- *Limitations*: Need to select appropirate parameters. Difficulties with
-varying density and high-dimensionnal data.
-
-> Methods 4 and 5 both involve a statistical framework which involve the
+> Distribution- and model-based methods involve a statistical framework with
 > estimation and optimization of parameters.
+
+<table>
+ <tr>
+   <th>Category </th>
+   <th>Exemple</th>
+   <th>Logic</th>
+   <th>Advantages</th>
+   <th>Limitations</th>
+ </tr>
+ <tr>
+   <td>Distribution-based</td>
+   <td>Gaussian mixture</td>
+   <td>Assume the data is generated from
+  a combination of probability distributions. The clustering process
+  involves identifying these distributions (i.e., their parameters) and
+  assiging objects to the most likely distribution. Distances from the
+  distribution center define likelihood of belongings to a cluster.</td>
+   <td>
+       <ul>
+           <li>More realistic to consider probability of belonging to a cluster</li>
+           <li>Allows exploring overlapping clustering structure</li>
+           <li>Can be used with arbitrary distances</li>
+       </ul>
+   </td>
+   <td>
+       <ul>
+           <li>High computational cost in general (limited with big data)</li>
+           <li>wrong <i>connection</i> can't be undone, need a cutpoint for k cluster.</li>
+       </ul>
+   </td>
+ </tr> 
+ <tr>
+   <td>Hierarchical-based</td>
+   <td>Single-linkage</td>
+   <td>Clusters are merged or split based on minimal/maximal
+ distances between objects, or between cluster centroids. </td>
+   <td>
+       <ul>
+           <li>Easy to implement and to interpret</li>
+           <li>Allows to explore hierarchical clustering structure</li>
+           <li></li>
+       </ul>
+   </td>
+   <td>
+       <ul>
+           <li>High computational cost in general (limited with big data)</li>
+           <li>wrong <i>connection</i> can't be undone, need a cutpoint for k cluster.</li>
+       </ul>
+   </td>
+ </tr>
+
+</table>
+
 
 4. **Distribution-based clustering**
 
