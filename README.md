@@ -9,7 +9,7 @@ Some nodes to start digging:
 - [Statistical association](/2)
 - [Clustering analysis](/5)
 - [Graph theory glossary](/18)
-- [CS and stats learning materials](/12)
+- [CS/stats learning materials](/12)
 
 **Computing tools**
 - [Markdown](/40) 
