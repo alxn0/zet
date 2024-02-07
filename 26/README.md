@@ -2,7 +2,7 @@
 
 ## Idea
 
-The silhouette coefficient is used to assess the extent that clustering procedure produced *better* defined cluster.
+The silhouette coefficient is used to assess the extent that clustering procedure produced *better* defined cluster[^ref3].
 
 ## Computation
 
@@ -37,6 +37,8 @@ Can also be **average by cluster**, providing a fit values for each ones, or
 - **Python**: `sklearn.metrics.silhouette_score`[^ref1]
 - **R**: `cluster::silhouette`[^ref2]
 
-[^ref1]: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html]( https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
+[^ref1]: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)
 [^ref2]:
     [https://www.rdocumentation.org/packages/cluster/versions/2.1.6/topics/silhouette](https://www.rdocumentation.org/packages/cluster/versions/2.1.6/topics/silhouette)
+[^ref3]: Rousseeuw, P. J. (1987). Silhouettes: A graphical aid to the interpretation and validation of cluster analysis. Journal of Computational and Applied Mathematics, 20, 53–65. [https://doi.org/10.1016/0377-0427(87)90125-7](https://doi.org/10.1016/0377-0427\(87\)90125-7)
+
