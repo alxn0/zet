@@ -6,7 +6,7 @@ From a discussion on [hierarchical agglomerative methods](../32) on cross
 validated:
 
 > [Single, complete](../28) and [average](../34) methods need only positive and
-> symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../34) and *median*
+> symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../37) and [median](../38)
 > methods need squared euclidean distances to produce geometricly
 > meaningful results.[^ref1]
 
