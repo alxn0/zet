@@ -1,5 +1,7 @@
 # Hackernews Bookmarks
 
+#fleeting #bookmark
+
 Stuff that I may want to read again.
 
 - [Build a search engin, not a vector DB](https://news.ycombinator.com/item?id=38703943)
