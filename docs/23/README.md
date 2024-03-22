@@ -1,6 +1,8 @@
 # Cophenetic distances, cophenetic correlations and sheppard-like
 diagram
 
+#clustering #validity
+
 ## Distance
 In clustering, the cophenetic distance is the *distance treshold* at which two objects while be fused in a same cluster. 
 In a [dendrogram](../18), it is the height (if the lengths of the branch are representative of the distance) at which objects/clusters are merged.
