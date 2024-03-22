@@ -1,5 +1,7 @@
 # Clustering process
 
+#clustering 
+
 According to Halkidi et al. (2001)[^ref1], the clustering process follow the folowing steps:
 
 1. **Feature selection:** The choice of variables used for the clustering task. Try to remove irrelevant features that does not inform on underlying cluster. This step is skipped if we work directly with dissimilarities/symilarities

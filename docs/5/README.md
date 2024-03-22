@@ -1,6 +1,13 @@
 # Clustering
 
-Cluster analysis includes a range of techniques to categorized objects. In simple terms, the goal is to split multiple objects in a set of groups, where objects in a same groups are as *similar* as possible. This general problem encompass many specific situation, and there a panoply of technique to realize clustering[^info1]. Also, there is no clear definition of what a *cluster* is, meanings multiple approach looking at different *representation* of clusters.
+#clustering #hub
+
+Cluster analysis includes a range of techniques to categorized objects. In 
+simple terms, the goal is to split multiple objects in a set of groups, where 
+objects in a same groups are as *similar* as possible. This general problem 
+encompass many specific situation, and there a panoply of technique to realize 
+clustering[^info1]. Also, there is no clear definition of what a *cluster* is, 
+meanings multiple approach looking at different *representation* of clusters.
 
 Considering the extensive number of algorithm, multiple taxonomy have
 been proposed and to my knowledge, Ezugwu and al. (2022)
