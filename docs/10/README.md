@@ -1,5 +1,7 @@
 # Clustering validity based on internal criteria
 
+#clustering #validity
+
 ## Introduction
 
 The idea is to evaluate the clustering solution on properties injerent to the data sets. 
