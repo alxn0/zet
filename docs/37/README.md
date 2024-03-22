@@ -1,5 +1,7 @@
 # Unweighted centroid clustering
 
+#clustering #method
+
 Also called Unweighted **Pair-Group Centroid Method (UPGMC)** or the **centroid method**. 
 It is based on the distance between the centroid of the clusters (i.e., mean point).
 
@@ -7,7 +9,7 @@ It is based on the distance between the centroid of the clusters (i.e., mean poi
 
 The distance for fusion is defined as
 
-$$ dist(s, t) = ||c_{s} - c\_{t}||_{2} $$ 
+$$ dist(s, t) = ||c_{s} - c_{t}||_{2} $$ 
 
 where $s$ and $t$ are clusters, and $c_{s}$ and $c_{t}$ are their centroid. 
 At each step, the distance matrix is updated with the centroid of the newly formed groups.
