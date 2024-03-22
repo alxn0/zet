@@ -1,5 +1,7 @@
 # Some differences between Gruber's markdown and CommonMark 
 
+## Preambule
+
 CommonMark[^ref1] provides a strictly defined specification for Markdown syntax
 that aims to resolve ambiguities and inconsistencies that existed in John
 Gruber's original Markdown implementation[^ref2]. 
@@ -13,12 +15,12 @@ Below are some of the main differences or more strictly defined syntax in Common
 See the commonmark web page for the full specification[^ref4] and
 dingus[^ref5] for interactive testing
 
-**ATX Headings**:
+## ATX Headings**
 - *Gruber's markdown* allow zero, 1 or more spaces between the `#`
   and the header text
 - *CommonMark* requires to be only 1 space after the `#`
 
-**Emphasis and strong emphasis**:
+## Emphasis and strong emphasis**
 
 In *CommonMark*:
 - There is no intrawords emphasis with `_`
@@ -32,7 +34,7 @@ this_is_not_emphasis_while_**this_is**
 **Nested _emphasis_**
 ```
 
-**Indented code blockes**:
+## Indented code blockes
 - *Gruber's Markdown* allows for indented code blocks **at least 4 spaces or a tab**,
 - *CommonMark* requires a code block to be indented by **exactly four spaces
 or one tab**.
@@ -44,7 +46,7 @@ Paragraph
     with consistent indentation
 ```
 
-**Fenced code blocks**: 
+## Fenced code blocks 
 
 *CommonMark* provides a way to specify code blocks with
 three backtick `` ` `` or tilde `~`
@@ -57,7 +59,7 @@ b = c
 
 ```
 
-**Lists**:
+## Lists
 
 *Gruber's Markdown*: 
 - lists can be somewhat ambiguous, especially for nested
@@ -80,7 +82,7 @@ This is a some text
    - Nested list
 ```
 
-**Escaped characters**
+## Escaped characters
 
 Any ASCII punctuation may be backlashed escaped.
 
@@ -88,7 +90,7 @@ Any ASCII punctuation may be backlashed escaped.
 \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
 ```
 
-**HTML blocks**
+## HTML blocks
 
 In some respect, CommonMark is less restrictive here.
 
@@ -104,7 +106,7 @@ In some respect, CommonMark is less restrictive here.
   or the last line of the document or other container block.
 - **No blank line inside HTML block**
 
-**Thematic Breaks**:
+## Thematic Breaks
 - *Gruber's Markdown*: Uses horizontal rules but may be inconsistent in
     parsing different formats.
 - *CommonMark*: A line with three or more  `*` ,  `-` , or  `_`  characters, which
