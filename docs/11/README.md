@@ -1,5 +1,7 @@
 # Academic paper bookmark
 
+#fleeting #bookmark
+
 Some academic papers I wan't to read
 
 - [Retrieval-Augmented Generation for Large Language Models:
