@@ -1,5 +1,6 @@
 # Hubert' gamma statistic
 
+#clustering #validity
 
 The main objective behind the original definition the the Hubert's $\Gamma$ statistic[^ref1] is to assess the power of a certain 
 cluestering against certain types of alternatives hypothesis. Generally, the alternative hypothesis is a null hypothesis 
@@ -54,6 +55,6 @@ $$ Y_{binary} = \begin{cases}
 
 Good explanation in chapter 16 of Theodoridis (2008)[^ref2]
 
-[^ref1]: Hubert, L. (1972). Some extensions of Johnson’s hierarchical clustering algorithms. Psychometrika, 37(3), 261–274. [https://doi.org/10.1007/BF02306783](https://doi.org/10.1007/BF02306783)
-[^ref2]: Theodoridis S., K. K. (2008). Pattern recognition (4ed ed.). AP. libgen.li/file.php?md5=8c5dc6881aab989aa927d0eaaeb84c0c
+[^ref1]: Hubert, L. (1972). Some extensions of Johnson’s hierarchical clustering algorithms. Psychometrika, 37(3), 261–274. <https://doi.org/10.1007/BF02306783>
+[^ref2]: Theodoridis S., K. K. (2008). Pattern recognition (4ed ed.). AP. 
 
