@@ -1,6 +1,8 @@
 # Weighted arithmetic average clustering
 
-lso called Weighted **Pair-Group Method using Arithmetic averages (WPGMA)**. It used a similar procedure than [UPGMA](../35), but gives equal weights to the two clusters (or object and cluster) that are about to fuse. In other words, it **downweight the distances in the largest group**.
+#clustering #method
+
+Also called Weighted **Pair-Group Method using Arithmetic averages (WPGMA)**. It used a similar procedure than [UPGMA](../35), but gives equal weights to the two clusters (or object and cluster) that are about to fuse. In other words, it **downweight the distances in the largest group**.
 
 **Computation**
 
