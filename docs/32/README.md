@@ -1,5 +1,7 @@
 # Hierarchical agglomerative clustering
 
+#clustering #hub
+
 Agglomerative hierarchical methods start with $n$ clusters, where $n$ is the number of objects, and fuse them sequentially at different partition level, 
 namely a distance treshold at which fusion happens. This treshold increase from 0 to 1.
 
