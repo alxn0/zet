@@ -1,18 +1,25 @@
 # Relative criteria for clustering internal validation
 
-In comparison with [internal](../10) and [external](../20) validity, relative criteria does not rely on statistical testing. 
-The fundamental idea of this approach is to choose the best clustering scheme of a set of defined schemes according to a pre-specified criterion.
+#clustering #validity
+
+In comparison with [internal](../10) and [external](../20) validity, relative 
+criteria does not rely on statistical testing. 
+The fundamental idea of this approach is to choose the best clustering scheme 
+of a set of defined schemes according to a pre-specified criterion.
 
 **When looking the the best number of cluster, the problem can be stated
 as**:
 
-> *"Let $P_{alg}$ the set of parameters associated with a specific clustering algorithm (e.g. the number of clusters nc). 
-> Among the clustering schemes Ci ,i= 1, ..., nc, defined by a specific algorithm, for different values of the 
+> *"Let $P_{alg}$ the set of parameters associated with a specific clustering 
+> algorithm (e.g. the number of clusters nc). Among the clustering schemes Ci, 
+> i= 1, ..., nc, defined by a specific algorithm, for different values of the 
 > parameters in $P_{alg}$, choose the one that best fits the data set.”*[^ref1]
 
 **There is two specific cases when searching for best $nc$:
 
-1. **$P_{alg}$ does not contains $nc$ (i.e., number of clusters).** Run the algorithm for a wide range of parameters' values and choose the largest range for which $nc$ remain constant. Take the middle of this range.
+1. **$P_{alg}$ does not contains $nc$ (i.e., number of clusters).** Run the 
+    algorithm for a wide range of parameters' values and choose the largest range 
+    for which $nc$ remain constant. Take the middle of this range.
 2. **$P_{alg}$ contains $nc$**
 	- Run the algorithm for all nc between a minimum $nc_{min}$ and a maximum $nc_{max}$
 	- For each nc, run the algorithm r times (if there is a difference for each run) with different initial conditions
