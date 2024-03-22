@@ -1,5 +1,7 @@
 # Traditional clustering algorithms
 
+#clustering
+
 Here's a quick categorial overview of some of the mostly used *traditional* clustering
 methods.
 
