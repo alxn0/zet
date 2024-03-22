@@ -1,5 +1,7 @@
 # Silhouette coefficient
 
+#clustering #validation
+
 ## Idea
 
 The silhouette coefficient is used to assess the extent that clustering procedure produced *better* defined cluster[^ref3].
