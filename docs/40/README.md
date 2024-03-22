@@ -22,13 +22,13 @@ those :
 - [HTML/CSS hacks](../44)
 
 **Additionnal ressources**
-- [https://www.markdownguide.org/](https://www.markdownguide.org/)
-- [https://www.markdowntoolbox.com/](https://www.markdowntoolbox.com/)
+- <https://www.markdownguide.org/>
+- <https://www.markdowntoolbox.com/>
 
 [^ref1]:
-    [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
+    <https://daringfireball.net/projects/markdown/>
 [^ref2]:
-    [https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors](https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors)
-[^ref3]: [https://commonmark.org/](https://commonmark.org/)
+    <https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors>
+[^ref3]: <https://commonmark.org/>
 [^ref4]:
     <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github>
