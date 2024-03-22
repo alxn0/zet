@@ -17,9 +17,7 @@ as**:
 
 **There is two specific cases when searching for best $nc$:
 
-1. **$P_{alg}$ does not contains $nc$ (i.e., number of clusters).** Run the 
-    algorithm for a wide range of parameters' values and choose the largest range 
-    for which $nc$ remain constant. Take the middle of this range.
+1. **$P_{alg}$ does not contains $nc$ (i.e., number of clusters).** Run the algorithm for a wide range of parameters' values and choose the largest range for which $nc$ remain constant. Take the middle of this range.
 2. **$P_{alg}$ contains $nc$**
 	- Run the algorithm for all nc between a minimum $nc_{min}$ and a maximum $nc_{max}$
 	- For each nc, run the algorithm r times (if there is a difference for each run) with different initial conditions
