@@ -1,5 +1,7 @@
 # Davies Boulding Index
 
+#clustering #validity
+
 ## Idea
 
 The Davies and Bouldin (1979)[^ref1] index can be used as an internal measure of cluster results. As for 
