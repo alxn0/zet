@@ -12,7 +12,7 @@ This is not an thorough guide, but note on what I use.
 
 For more information, see GitHub writing and formating guide[^ref2]
 
-**Footnotes**
+## Footnotes
 Like *linked references*, but use the `[^ref]` syntax.
 
 ```
@@ -24,7 +24,7 @@ Some citation[^ref]
 Will put all references on the bottom of the page with a thematic
 break, places according to citation order.
 
-**Tables**
+## Tables
 Tables are structured using pipes `|`, inline text and hyphen `-`.
 The header, separator and content format look like this:
 
@@ -36,7 +36,7 @@ The header, separator and content format look like this:
 
 ```
 
-**Task list items**
+## Task list items
 Like a normal list, but with a `[ ]` separating the list character
 (.e.g, `-`) and the inline text[^note2]. The left/right brakets can be
 either separated by a whitespace or a x.
@@ -49,20 +49,20 @@ either separated by a whitespace or a x.
 Worth noting that task list can be used to manage issue or pull
 request[^ref5]
 
-**Striketrough**
+## Striketrough
 Strike items between a pairs of `~`
 
 ```
 ~~This is a mistake~~
 ```
 
-**Extended autolinks**
+## Extended autolinks
 Autolinks can be constructed without `<` and `>`, it will be recognized
 with `www.` and a valid domain. Same for email and xmpp with `@` and valid
 domain. More complex scheme of autolinks are found
 [here](https://github.github.com/gfm/#autolinks-extension-)
 
-**Disallowed HTML tags**
+## Disallowed HTML tags
 There tags are dissalowed for security reasons
 
     <title>
@@ -75,13 +75,13 @@ There tags are dissalowed for security reasons
     <script>
     <plaintext>
 
-**Emoji**
+## Emoji
 Add emojis by typing `:EMOJICODE:`.
 See this
-[cheatshee](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+[cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 for a complete list of emoji and code.
 
-**Mathematical expressions**
+## Mathematical expressions
 Support the LaTeX math formating[^ref3] using MathJax implementation[^ref4].  
 Inline expression are delimited with single `$`, and code expressions
 are with double `$$`.
@@ -90,7 +90,7 @@ See this stackexchange
 [post](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 for quick reference on mathjax syntax
 
-**Collapsed sections**
+## Collapsed sections
 
 Collaps sections within the `<details>` tages, and provide information
 with `<summary>`.
@@ -107,7 +107,7 @@ Blablablablabla
 </details>
 ```
 
-**Highlights code blocks**
+## Highlights code blocks
 
 Fence code blocks on GitHub can be highlighted by an optionnal
 language identifier (e.g., python) after the 3 `` ` `` or `~`
@@ -123,28 +123,27 @@ See
 [here](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml)
  for valid language
 
-**Mermaid diagram**
+## Mermaid diagram
 
+Mermaid is a simple graph language that can be used within github
+markdown to draw diagrams[^ref6].
 
-***TODO***
+```mermaid
+graph LR
+    A[Start] --> B{Decision}
+    B -->|Yes| C[Do Something]
+    B -->|No| D[Do Something Else]
+    C --> E[End]
+    D --> E
 
-- [x] Footnotes
-- [x] Tables
-- [x] Strikethroughs
-- [x] Task list
-- [x] Auto linked references
-- [x] Emoji
-- [ ] Mathematical expressions
-- [ ] Collapsed sections
-- [ ] Highlights code block
-- [ ] Mermaid diagram
-
+```
 [^ref1]: <https://github.github.com/gfm/>
 [^ref2]: <https://docs.github.com/en/get-started/writing-on-github>
 [^ref3]: <https://en.wikibooks.org/wiki/LaTeX/Mathematics>
 [^ref4]: <https://docs.mathjax.org/en/latest/input/tex/index.html#tex-and-latex-support>
 [^ref5]:
     <https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists>
+[^ref6]: <https://mermaid.js.org/>
 [^note1]: For example, there is a [discussion](https://github.com/orgs/community/discussions/44669)
           on missing specification on footnotes
 [^note2]: They specified that `-` and `[ ]` can be separated by an
