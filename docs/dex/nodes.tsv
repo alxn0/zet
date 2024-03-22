@@ -19,9 +19,9 @@
 19	2024-03-22 16:49:25Z	Align images with wordwrap in markdown
 20	2024-03-22 16:53:40Z	External criteria for clustering validation
 21	2024-03-22 16:54:45Z	Simple and adjusted Rand indices
-22	2024-03-22 16:29:13Z	Hubert' gamma statistic
+22	2024-03-22 16:54:57Z	Hubert' gamma statistic
 23	2024-03-22 16:30:07Z	Cophenetic distances, cophenetic correlations and sheppard-like
-24	2024-03-22 16:23:11Z	Calinski Harabasz index
+24	2024-03-22 16:55:23Z	Calinski Harabasz index
 25	2024-03-22 16:29:34Z	Davies Boulding Index
 26	2024-03-22 16:27:14Z	Silhouette coefficient
 27	2023-12-31 13:39:51Z	Relative criteria for clustering internal validation

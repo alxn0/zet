@@ -1,5 +1,4 @@
-# Cophenetic distances, cophenetic correlations and sheppard-like
-diagram
+# Cophenetic distances, cophenetic correlations and sheppard-like diagram
 
 #clustering #validity
 
