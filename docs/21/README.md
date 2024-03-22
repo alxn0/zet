@@ -1,5 +1,7 @@
 # Simple and adjusted Rand indices
 
+## Rational
+
 Used to compare different *partitions* of the same object. 
 It simply consider all pairs of objects and determine for each 
 pairs whether they are placed or not in the same group.
