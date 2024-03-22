@@ -13,8 +13,8 @@ checked the density distribution of this *index*, and reject $H_{0}$ if
 the empirical $q$ is smaller (or greater) than $p$ proportion (normaly
 5%) of $q simulated* values.
 
-**Here are notes on methods used to compare partitions**:
+**Some method to compare partitions**:
 
 - [Rand index](../21)
-- Mutual Information Score
+- [Mutual Information Score](../48)
 - [Hubert's and the normalized $\gamma$ statistics](../22)
