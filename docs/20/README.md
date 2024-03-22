@@ -7,7 +7,7 @@ the clustering structure. Use to test the *Null Hypothesis* that the
 dataset as a random clustering structure.
 
 One approach with to assess clustering validity through [Monte Carlo
-simulation](../47). We then compare the empirical partition with the ones
+simulation](../0). We then compare the empirical partition with the ones
 obtains from the simulated data unsing a *statistitic index*. Then we
 checked the density distribution of this *index*, and reject $H_{0}$ if
 the empirical $q$ is smaller (or greater) than $p$ proportion (normaly
@@ -16,5 +16,5 @@ the empirical $q$ is smaller (or greater) than $p$ proportion (normaly
 **Some method to compare partitions**:
 
 - [Rand index](../21)
-- [Mutual Information Score](../48)
+- [Mutual Information Score](../0)
 - [Hubert's and the normalized $\gamma$ statistics](../22)

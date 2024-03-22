@@ -1,7 +1,7 @@
-0	2023-12-25 11:46:02Z	Sorry, planned but not yet available
-1	2024-03-22 15:47:15Z	What is the Zettlekasten method
-2	2024-03-22 16:10:59Z	Statistical association
-3	2024-03-22 16:12:12Z	Similarity and distance
+0	2024-03-22 18:00:39Z	Sorry, planned but not yet available
+1	2024-03-22 18:01:23Z	What is the Zettlekasten method
+2	2024-03-22 18:01:25Z	Statistical association
+3	2024-03-22 18:01:33Z	Similarity and distance
 4	2024-03-22 16:12:40Z	Distances vs dissimilarities
 5	2024-03-22 16:20:46Z	Clustering
 6	2024-03-22 16:21:00Z	Clustering process
@@ -17,7 +17,7 @@
 16	2024-03-22 16:37:39Z	What about metric distances and metric space?
 17	2024-03-22 17:21:57Z	Clustering with semimetric distances
 19	2024-03-22 16:49:25Z	Align images with wordwrap in markdown
-20	2024-03-22 16:53:40Z	External criteria for clustering validation
+20	2024-03-22 22:56:42Z	External criteria for clustering validation
 21	2024-03-22 16:54:45Z	Simple and adjusted Rand indices
 22	2024-03-22 16:54:57Z	Hubert' gamma statistic
 23	2024-03-22 16:30:07Z	Cophenetic distances, cophenetic correlations and sheppard-like
@@ -40,8 +40,8 @@
 40	2024-03-22 17:49:15Z	Markdown markup language
 41	2024-03-22 17:49:25Z	Basic markdown and CommonMark
 42	2024-03-22 17:49:34Z	Some differences between Gruber's markdown and CommonMark 
-43	2024-03-22 17:48:42Z	GitHub Flavored markdown and advanced formating
-44	2024-03-22 17:49:05Z	Markdown HTML/CSS Hacks
-46	2024-02-13 08:50:03Z	Prompting engineering
-47	2024-03-22 16:52:47Z	Monte Carlo Simulation
-48	2024-03-22 16:53:33Z	Mutual Information Score
+43	2024-03-22 17:49:45Z	GitHub Flavored markdown and advanced formating
+44	2024-03-22 17:49:41Z	Markdown HTML/CSS Hacks
+46	2024-03-22 17:50:06Z	Prompting engineering
+47	2024-03-22 17:50:10Z	Monte Carlo Simulation
+48	2024-03-22 18:01:07Z	Mutual Information Score
