@@ -1,7 +1,7 @@
 # Weighted centroid clustering
 
-lso called Weighted Pair-Group Centroid Method (WPGMC) or median method. 
-As with the centroid methods, but gives equal weights to the two clusters (or object and cluster).
+Also called **Weighted Pair-Group Centroid Method** (WPGMC) or **median** method. 
+As with the **centroid** methods, but gives equal weights to the two clusters (or object and cluster).
 
 **Computation**
 See Legendre and Legendre (2012) p.360 [^ref1]
