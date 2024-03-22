@@ -3,7 +3,6 @@
 * 2024-03-22 18:01:25Z [Statistical association](../2)
 * 2024-03-22 18:01:23Z [What is the Zettlekasten method](../1)
 * 2024-03-22 18:00:39Z [Sorry, planned but not yet available](../0)
-* 2024-03-22 17:50:10Z [Monte Carlo Simulation](../47)
 * 2024-03-22 17:50:06Z [Prompting engineering](../46)
 * 2024-03-22 17:49:45Z [GitHub Flavored markdown and advanced formating](../43)
 * 2024-03-22 17:49:41Z [Markdown HTML/CSS Hacks](../44)
