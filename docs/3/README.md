@@ -1,5 +1,7 @@
 # Similarity and distance
 
+#statistical-association
+
 Similarities are measures of *likeness* between objects. 
 Inversely, dissimilarities are measure of *separation* between objects.
 

@@ -1,6 +1,6 @@
-* 2024-03-22 16:06:00Z [Similarity and distance](../3)
-* 2024-03-22 15:47:15Z [What is the Zettlekasten method](../1)
 * 2024-03-22 16:10:59Z [Statistical association](../2)
+* 2024-03-22 15:47:15Z [What is the Zettlekasten method](../1)
+* 2024-03-22 16:11:13Z [Similarity and distance](../3)
 * 2024-02-13 08:50:03Z [Prompting engineering](../46)
 * 2024-02-07 20:43:25Z [Clustering validity based on internal criteria](../10)
 * 2024-02-07 14:09:30Z [Silhouette coefficient](../26)
