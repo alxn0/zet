@@ -1,12 +1,14 @@
 # Clustering with semimetric distances
 
-Discussion on *hierarchical methods* on [cross
-validated](https://stats.stackexchange.com/questions/13873/does-a-distance-have-to-be-a-metric-for-an-hierarchical-clustering-to-be-valid): 
+#clustering
+
+From a discussion on *hierarchical methods* on cross
+validated:
 
 > *Single*, *complete* and *average* methods need only positive and
 > symmetric coefficient (i.e., semimetric). *Ward*, *centroid* and *median*
 > methods need squared euclidean distances to produce geometricly
-> meaningful results.
+> meaningful results.[^ref1]
 
 Same observation with *k-mean* which expect quared Euclidean distances. 
 
@@ -53,3 +55,5 @@ distances
 - [Ackermann and al.,
   (2010)](https://dl.acm.org/doi/abs/10.1145/1824777.1824779)
 - [Kuman and al., (2014)](https://infocomp.dcc.ufla.br/index.php/INFOCOMP/article/view/21)
+
+[^ref1]: <https://stats.stackexchange.com/questions/13873/does-a-distance-have-to-be-a-metric-for-an-hierarchical-clustering-to-be-valid>

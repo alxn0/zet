@@ -7,7 +7,7 @@ namely a distance treshold at which fusion happens. This treshold increase from 
 
 Agglomerative hierarchical cluster includes the following category of methods:
 - [Objects-linkage](../28)
-- [Average clustering](../39)
+- [Average clustering](../34)
 - [Ward's minimum variance](../39)
 
 See this post on [datacamp](https://www.datacamp.com/tutorial/introduction-hierarchical-clustering-python) for a nice introduction on hierarchical agglomerative methods.
