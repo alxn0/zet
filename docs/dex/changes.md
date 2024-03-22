@@ -24,7 +24,7 @@
 * 2024-03-22 16:12:12Z [Similarity and distance](../3)
 * 2024-03-22 16:10:59Z [Statistical association](../2)
 * 2024-03-22 15:47:15Z [What is the Zettlekasten method](../1)
-* 2024-03-22 16:46:27Z [Clustering with semimetric distances](../17)
+* 2024-03-22 16:46:54Z [Clustering with semimetric distances](../17)
 * 2024-02-13 08:50:03Z [Prompting engineering](../46)
 * 2024-01-09 08:23:36Z [Markdown HTML/CSS Hacks](../44)
 * 2024-01-08 16:21:08Z [Basic markdown and CommonMark](../41)

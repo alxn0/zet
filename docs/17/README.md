@@ -1,6 +1,6 @@
 # Clustering with semimetric distances
 
-#clustering
+#clustering #space
 
 From a discussion on [hierarchical agglomerative methods](../32) on cross
 validated:
