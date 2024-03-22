@@ -2,17 +2,17 @@
 
 #clustering
 
-From a discussion on *hierarchical methods* on cross
+From a discussion on [hierarchical agglomerative methods](../32) on cross
 validated:
 
-> *Single*, *complete* and *average* methods need only positive and
-> symmetric coefficient (i.e., semimetric). *Ward*, *centroid* and *median*
+> [Single, complete](../28) and [average](../34) methods need only positive and
+> symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../34) and *median*
 > methods need squared euclidean distances to produce geometricly
 > meaningful results.[^ref1]
 
-Same observation with *k-mean* which expect quared Euclidean distances. 
+Same observation with **k-mean** which expect quared Euclidean distances. 
 
-Alternatively, *k-medoids* relies on data points for *centers*, yet it look to actual
+Alternatively, **k-medoids** relies on data points for *centers*, yet it look to actual
 data points for medoids, and minimize distance from these real
 observations. Therefor, they can work with arbitrary distance measures,
 and are more suited to k-means. They try to identify the *nearest
