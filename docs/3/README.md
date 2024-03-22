@@ -6,7 +6,7 @@ Similarities are measures of *likeness* between objects.
 Inversely, dissimilarities are measure of *separation* between objects.
 
 *Distance* and *Dissimilarities* are often used interchangeably,
-although they can mean different [things](../16).
+although they can mean different [things](../4).
 
 When having normalized coefficients that range in $[0, 1]$, we can
 easily get corresponding coefficients.
