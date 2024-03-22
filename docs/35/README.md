@@ -1,5 +1,7 @@
 # Unweighted arithmetic average clustering
 
+#clustering #method
+
 Also called **Unweighted Pair-Group Method using Arithmetic averages (UPGMA)** or simply **average method**. 
 It is based on the average distance between objects of difference clusters.
 
@@ -15,3 +17,6 @@ At each step, the objects or groups with the lowest pairwaise distance are fused
 - All objects receive equel weights in the computation.
 - Therefore, larger cluster have more influence on the calculation.
 - **Because of the unweighted procedure, it assumes that all objects represent equaly the reference popultion under study**
+
+[^ref1]: Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
+
