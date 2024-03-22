@@ -2,7 +2,6 @@
 * 2024-03-22 18:01:33Z [Similarity and distance](../3)
 * 2024-03-22 18:01:25Z [Statistical association](../2)
 * 2024-03-22 18:01:23Z [What is the Zettlekasten method](../1)
-* 2024-03-22 18:01:07Z [Mutual Information Score](../48)
 * 2024-03-22 18:00:39Z [Sorry, planned but not yet available](../0)
 * 2024-03-22 17:50:10Z [Monte Carlo Simulation](../47)
 * 2024-03-22 17:50:06Z [Prompting engineering](../46)
