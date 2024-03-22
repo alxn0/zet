@@ -69,7 +69,7 @@ Explanation from chatGPT (unverified):
 - **R**: `fpc::cluster.stats`[^ref3]
 - **Python**: `sklearn.metrics.calinski_harabasz_score`[^ref4]
 
-[^ref1]: Caliński, T., & Harabasz, J. (1974). A dendrite method for cluster analysis. Communications in Statistics-Theory and Methods, 3(1), 1–27. https://doi.org/10.1080/03610927408827101
-[^ref2]: [https://www.geeksforgeeks.org/calinski-harabasz-index-cluster-validity-indices-set-3/](https://www.geeksforgeeks.org/calinski-harabasz-index-cluster-validity-indices-set-3/)
-[^ref3]: [https://www.rdocumentation.org/packages/fpc/versions/2.2-10/topics/cluster.stats](https://www.rdocumentation.org/packages/fpc/versions/2.2-10/topics/cluster.stats)
-[^ref4]: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html)
+[^ref1]: Caliński, T., & Harabasz, J. (1974). A dendrite method for cluster analysis. Communications in Statistics-Theory and Methods, 3(1), 1–27. <https://doi.org/10.1080/03610927408827101>
+[^ref2]: <https://www.geeksforgeeks.org/calinski-harabasz-index-cluster-validity-indices-set-3/>
+[^ref3]: <https://www.rdocumentation.org/packages/fpc/versions/2.2-10/topics/cluster.stats>
+[^ref4]: <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html>
