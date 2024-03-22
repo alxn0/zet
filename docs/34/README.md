@@ -1,5 +1,7 @@
 # Average hierarchical clustering
 
+#clustering #hub
+
 Rely on the calculation of average distance among objects of clusters, or their centroïds.
 They are not [object-linkage method](../28) methods, but instead relies
 on clusters centers.
