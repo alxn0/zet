@@ -1,5 +1,7 @@
 # Single-linkage clustering
 
+#clustering #method
+
 This is the oldest method and simpler method.
 Connect objects/clusters based on smallest distance.
 Also known as the **Nearest point algorithm**.
