@@ -3,18 +3,18 @@
 #markdown
 
 ## Content
-1. [Preliminary](#preliminary)
-1. [Lines and paragraphs](#lines-and-paragraphs)
-1. [Headers](#headers)
-1. [Styling text](#styling-text)
-1. [Block quote](#block-quote)
-1. [List](#list)
-1. [Code block](#code-block)
-1. [Link](#link)
-1. [Image](#image)
-1. [Html](#html)
-1. [Horizontal lines](#horizontal-lines-or-thematic-breaks)
-1. [Escaped characters](#escaped-characters)
+* [Preliminary](#preliminary)
+* [Lines and paragraphs](#lines-and-paragraphs)
+* [Headers](#headers)
+* [Styling text](#styling-text)
+* [Block quote](#block-quote)
+* [List](#list)
+* [Code block](#code-block)
+* [Link](#link)
+* [Image](#image)
+* [Html](#html)
+* [Horizontal lines](#horizontal-lines-or-thematic-breaks)
+* [Escaped characters](#escaped-characters)
 
 ## Preliminary
 Basic markdown is essentially the syntax defined by John Gruber in

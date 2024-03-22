@@ -1,5 +1,17 @@
 # Some differences between Gruber's markdown and CommonMark 
 
+## Table of Contents
+- [Some differences between Gruber's markdown and CommonMark ](#some-differences-between-grubers-markdown-and-commonmark-)
+- [Preambule](#preambule)
+- [ATX Headings](#atx-headings)
+- [Emphasis and strong emphasis](#emphasis-and-strong-emphasis)
+- [Indented code blockes](#indented-code-blockes)
+- [Fenced code blocks ](#fenced-code-blocks-)
+- [Lists](#lists)
+- [Escaped characters](#escaped-characters)
+- [HTML blocks](#html-blocks)
+- [Thematic Breaks](#thematic-breaks)
+
 ## Preambule
 
 CommonMark[^ref1] provides a strictly defined specification for Markdown syntax
@@ -15,7 +27,8 @@ Below are some of the main differences or more strictly defined syntax in Common
 See the commonmark web page for the full specification[^ref4] and
 dingus[^ref5] for interactive testing
 
-## ATX Headings**
+## ATX Headings
+
 - *Gruber's markdown* allow zero, 1 or more spaces between the `#`
   and the header text
 - *CommonMark* requires to be only 1 space after the `#`
@@ -35,6 +48,7 @@ this_is_not_emphasis_while_**this_is**
 ```
 
 ## Indented code blockes
+
 - *Gruber's Markdown* allows for indented code blocks **at least 4 spaces or a tab**,
 - *CommonMark* requires a code block to be indented by **exactly four spaces
 or one tab**.
@@ -120,5 +134,3 @@ In some respect, CommonMark is less restrictive here.
 [^ref4]: <https://spec.commonmark.org/>
 [^ref5]: <https://spec.commonmark.org/dingus/>
 [^info1]: More than 4 spaces will trigger an indented code block
-
-
