@@ -1,5 +1,7 @@
 # Awesome dev and analysis CLI tools
 
+#fleeting #bookmark
+
 Some usefull (and fun!) CLI tools for development and analysis
 
 **Actualy used**
