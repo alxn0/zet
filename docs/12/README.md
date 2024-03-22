@@ -1,5 +1,7 @@
 # CS/Stats useful learning materials
 
+#fleeting #bookmarks
+
 This is where I keep track of useful ressources on computer science,
 statistics, machine learning and mathematic
 
@@ -46,4 +48,4 @@ statistics, machine learning and mathematic
   Mathematics](https://ia801005.us.archive.org/30/items/F.WilliamLawvereStephenH.SchanuelConceptualMathematicsAFirstIntroductionToCatego/F.%20William%20Lawvere%2C%20Stephen%20H.%20Schanuel%20-%20Conceptual%20Mathematics_%20A%20First%20Introduction%20to%20Categories%20%282009%2C%20Cambridge%20University%20Press%29%20%281%29_text.pdf)
 - [Mathematics for Machine
   Learning](https://mml-book.github.io/book/mml-book.pdf)
-- [Online list of free mathematic textbooks](http://www.infobooks.org/free-pdf-books/math/)math
+- [Online list of free mathematic textbooks](http://www.infobooks.org/free-pdf-books/math/)
