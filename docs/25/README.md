@@ -45,7 +45,7 @@ centroid**
 - **Python**: `sklearn.metrics.davies_bouldin_score`[^ref3]
 - **R**: `clv::clv.Davies.Bouldin`[^ref4]
 
-[^ref1]: Davies, D. L., & Bouldin, D. W. (1979). A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-1(2), 224–227. https://doi.org/10.1109/TPAMI.1979.4766909
-[^ref2]: [https://pyshark.com/davies-bouldin-index-for-k-means-clustering-evaluation-in-python/](https://pyshark.com/davies-bouldin-index-for-k-means-clustering-evaluation-in-python/)
-[^ref3]: [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html)
-[^ref4]: [https://search.r-project.org/CRAN/refmans/clv/html/Davies_Bouldin.html](https://search.r-project.org/CRAN/refmans/clv/html/Davies_Bouldin.html)
+[^ref1]: Davies, D. L., & Bouldin, D. W. (1979). A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-1(2), 224–227. <https://doi.org/10.1109/TPAMI.1979.4766909>
+[^ref2]: <https://pyshark.com/davies-bouldin-index-for-k-means-clustering-evaluation-in-python/>
+[^ref3]: <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html>
+[^ref4]: <https://search.r-project.org/CRAN/refmans/clv/html/Davies_Bouldin.html>
