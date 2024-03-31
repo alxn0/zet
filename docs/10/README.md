@@ -24,7 +24,7 @@ criteria:
 Here are some coefficients that I used to evaluate a single clustering
 scheme:
 
-- [**Calinski-Harabasz index**](../24): Based on the average between-
+- [Calinski-Harabasz index](../24): Based on the average between-
   (separation) and within-cluster (compactness) sum of squares.
 - [**Silhouette index**](../26): Calculate for each object the ratio between 
   the mean distance o all other object of its cluster, and the minimum distance 
