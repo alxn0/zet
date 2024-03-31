@@ -1,8 +1,4 @@
-# Awesome dev and analysis CLI tools
-
-#fleeting #bookmark
-
-Some usefull (and fun!) CLI tools for development and analysis
+# Usefull dev and analysis CLI tools
 
 **Actualy used**
 - [cht.sh](https://github.com/chubin/cheat.sh): A client to
@@ -22,7 +18,3 @@ Some usefull (and fun!) CLI tools for development and analysis
   zettlekasten that's backup on GitHub. Follows rwxrob's keg
   [specification](https://github.com/rwxrob/keg-spec)
 
-
-**To explore**
-- [Visidata](https://www.visidata.org/): CLI tabular data
-  exploration. Use VI keybinding. 
