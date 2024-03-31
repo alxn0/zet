@@ -2,7 +2,7 @@
 1	2024-03-31 10:40:52Z	What is the Zettlekasten method
 2	2024-03-31 15:39:15Z	(Statistical) association
 3	2024-03-31 06:45:43Z	Similarity and distance
-4	2024-03-31 06:46:02Z	Distances vs dissimilarities
+4	2024-03-31 15:39:22Z	Distances vs dissimilarities
 5	2024-03-31 07:02:47Z	Clustering
 6	2024-03-31 07:04:30Z	Clustering process
 7	2024-03-31 07:08:49Z	Traditional clustering algorithms
@@ -60,3 +60,4 @@
 59	2024-03-31 11:21:56Z	Stas Berkman (stas00) GitHub page
 60	2024-03-31 15:29:41Z	Text embedding
 61	2024-03-31 15:37:28Z	Distance metrics in high dimensions
+62	2024-03-31 15:44:16Z	Adjusting creativity/randomness in LLMs
