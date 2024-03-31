@@ -1,14 +1,7 @@
 # Clustering with semimetric distances
 
-#clustering #space
-
 From a discussion on [hierarchical agglomerative methods](../32) on cross
 validated:
-
-> [Single, complete](../28) and [average](../34) methods need only positive and
-> symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../37) and [median](../38)
-> methods need squared euclidean distances to produce geometricly
-> meaningful results.[^ref1]
 
 Same observation with **k-mean** which expect quared Euclidean distances. 
 
@@ -49,11 +42,13 @@ Some other methods especially suited for semimetric distance:
 - [affinity
   propagation](https://www.science.org/doi/abs/10.1126/science.1136800)
 
-Here some ineteresting references on clustering with non-metric
-distances
 
-- [Ackermann and al.,
-  (2010)](https://dl.acm.org/doi/abs/10.1145/1824777.1824779)
-- [Kuman and al., (2014)](https://infocomp.dcc.ufla.br/index.php/INFOCOMP/article/view/21)
+## References 
+<https://stats.stackexchange.com/questions/13873/does-a-distance-have-to-be-a-metric-for-an-hierarchical-clustering-to-be-valid>
 
-[^ref1]: <https://stats.stackexchange.com/questions/13873/does-a-distance-have-to-be-a-metric-for-an-hierarchical-clustering-to-be-valid>
+> [Single, complete](../28) and [average](../34) methods need only positive and
+> symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../37) and [median](../38)
+> methods need squared euclidean distances to produce geometricly
+> meaningful results.[^ref1]
+
+Ackermann, M. R., Blömer, J., & Sohler, C. (2010). Clustering for metric and nonmetric distance measures. ACM Transactions on Algorithms, 6(4). <https://doi.org/10.1145/1824777.1824779>
