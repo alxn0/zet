@@ -1,4 +1,5 @@
 * 2024-03-31 14:39:52Z [The three types of linking in Luhmann's Zettlekasten](../50)
+* 2024-03-31 14:40:52Z [What is the Zettlekasten method](../1)
 * 2024-03-31 10:38:39Z [Andy Matushak Evergreen Notes](../49)
 * 2024-03-31 10:34:30Z [Scanning to OCR PDF in linux from the command line](../48)
 * 2024-03-31 10:33:17Z [Representations of hierarchical clustering solutions](../33)
@@ -47,5 +48,4 @@
 * 2024-03-31 06:46:02Z [Distances vs dissimilarities](../4)
 * 2024-03-31 06:45:43Z [Similarity and distance](../3)
 * 2024-03-31 06:31:28Z [Statistical association](../2)
-* 2024-03-31 06:26:00Z [What is the Zettlekasten method](../1)
 * 2024-03-22 14:00:39Z [Sorry, planned but not yet available](../0)
