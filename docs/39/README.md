@@ -23,3 +23,7 @@ where $E_k^2$ is the sum of squared errors over all $K$ clusters. In ANOVA termi
 - If the observations are equaly distributed in multidimensional space, it tends to assign roughly the same number of objects in each group.
 - The ward's algorithm is a hierarchical algorithm that tries to minimize the delta of $E_k^2$ at each step. Therefore, it does not guarantee that the solutions for each number of clusters provides tha best solutions in terms of minimizing the sum of squared errors. To obtain an optimal solution of a given number of clusters, an alternative is the [[k_means_partitioning|K-means]] algorithm
 - Dendrogram can be represented along different scales such as the *squared distances* or the *sum of squared errors*. Another option is the square roots of the fusion distances, which remove the distortion created by the squaring distances. It is used in `agnes()` in R and is suitable to compare Ward's distance with original ones (see [Shepard-like diagram](../23)).
+
+## References
+
+Ward Jr, J. H. (1963). Hierarchical grouping to optimize an objective function. Journal of the American statistical association, 58(301), 236-244.
