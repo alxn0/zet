@@ -10,6 +10,12 @@ This duality between object and descriptor associations is described as
 Q and R analyses in Legendre and Legendre (2012) chapter on Ecological
 ressemblance.
 
+**Other related notes**
+[Distances vs dissimilarities](../4)
+[What about metric distnaces and metric space?](../16)
+[Clustering with semimetric distances](../17)
+[Distance metrics in high dimensions](../61)
+
 ## References
 
 Legendre, P., & Legendre, L. (2012). Numerical
