@@ -1,7 +1,17 @@
-# Trieve is a rust based all-in one infrastructure for hybrid search
+# Andy Matushak Evergreen Notes
 
-Seems interesting, can be deploy with docker/terraform. Cost only
-25$/month for small dev/team.
+Some interesting implementation of permenant notes from Andy Matushak,
+they can be accessed from this
+[website](https://notes.andymatuschak.org)
 
-Here's there GitHub [account](https://github.com/devflowinc/trieve).
-A discussion on [hackernews](https://news.ycombinator.com/item?id=39664612)
+He use the terme *evergreen* notes, as if they are alwais usefull, but
+not simply fleeting notes.
+
+It's kind of a mess to explore, but worthile diggine to expand the
+notion of Zettlekasten.
+
+## References
+
+<https://notes.andymatuschak.org>
+
+
