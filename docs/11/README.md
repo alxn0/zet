@@ -1,8 +1,4 @@
-# Academic paper bookmark
-
-#fleeting #bookmark
-
-Some academic papers I wan't to read
+# Academic paper reading list 
 
 - [Retrieval-Augmented Generation for Large Language Models:
   A Survey](https://arxiv.org/abs/2312.10997)
