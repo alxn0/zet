@@ -1,5 +1,6 @@
-* 2024-03-31 14:33:17Z [Representations of hierarchical clustering solutions](../33)
-* 2024-03-31 14:34:30Z [Scanning to OCR PDF in linux from the command line](../48)
+* 2024-03-31 14:35:44Z [Trieve is a rust based all-in one infrastructure for hybrid search](../49)
+* 2024-03-31 10:34:30Z [Scanning to OCR PDF in linux from the command line](../48)
+* 2024-03-31 10:33:17Z [Representations of hierarchical clustering solutions](../33)
 * 2024-03-31 10:32:28Z [Debugging Brother DS-740D on Ubuntu 23.10](../47)
 * 2024-03-31 10:25:11Z [Unweighted centroid clustering](../37)
 * 2024-03-31 10:24:14Z [Adjusted Mutual Information Score VS Rand Index](../46)
