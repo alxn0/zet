@@ -1,7 +1,5 @@
 # Adjusted Mutual Information Score VS Rand Index
 
-tags: +ml +clustering
-
 These two measures allows to compare a clustering solution with a ground
 truth. But how to choose between these two measures?
 
