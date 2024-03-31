@@ -1,7 +1,5 @@
 # What about metric distances and metric space?
 
-#statistical-association #space
-
 For any distance coefficient, we consider it to be **metric** if it follows
 the following properties:
 
@@ -40,7 +38,7 @@ coefficients.
 - [Clustering analysis in semimetric space](../16)
 - Dimensionnality reduction in semimetric space (**TODO**)
 
-**reference**:
+## Referemces
 Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier. Chapter 7.
 
 [^info1]: In Euclidean space, it means that two sides of a triangle is necessarily equal to or larger than the third side.
