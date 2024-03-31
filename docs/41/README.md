@@ -1,7 +1,5 @@
 # Basic markdown and CommonMark
 
-#markdown
-
 ## Content
 * [Preliminary](#preliminary)
 * [Lines and paragraphs](#lines-and-paragraphs)
