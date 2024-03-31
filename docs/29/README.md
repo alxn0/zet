@@ -1,7 +1,5 @@
 # Single-linkage clustering
 
-#clustering #method
-
 This is the oldest method and simpler method.
 Connect objects/clusters based on smallest distance.
 Also known as the **Nearest point algorithm**.
@@ -27,6 +25,7 @@ The two cluster will lastly be fused on step 4.
 - Sensitive to noise in data  as outlier may be the points on which fusion depends at a given step.
 
 **ORIGIN**
-Collective work by mathematicians Florek, Lukaszewicz, Perkal, Steinhaus, and Zubrzycki, published in 1951[^ref1]
+Collective work by mathematicians Florek, Lukaszewicz, Perkal, Steinhaus, and Zubrzycki, published in 1951
 
-[^ref1]: Florek, K., et al. "Sur la liaison et la division des points d'un ensemble fini." Colloquium Mathematicum 2.3-4 (1951): 282-285. [http://eudml.org/doc/209969](http://eudml.org/doc/209969)
+## References
+Florek, K., et al. "Sur la liaison et la division des points d'un ensemble fini." Colloquium Mathematicum 2.3-4 (1951): 282-285. <http://eudml.org/doc/209969>
