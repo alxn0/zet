@@ -1,7 +1,5 @@
 # External criteria for clustering validation
 
-#clustering #validity
-
 Evaluate the results of a [clustering](../5) with a pre-specified structure which reflects our intuition about 
 the clustering structure. Use to test the *Null Hypothesis* that the
 dataset as a random clustering structure.
