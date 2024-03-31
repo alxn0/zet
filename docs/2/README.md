@@ -1,7 +1,5 @@
 # Statistical association
 
-#statistical-association
-
 Association is a loosed term to describe the *ressemblance* between a set of objects or descriptors.
 
 These includes :
