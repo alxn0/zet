@@ -1,12 +1,8 @@
 # CS/Stats useful learning materials
 
-#fleeting #bookmarks
+#bookmarks
 
-This is where I keep track of useful ressources on computer science,
-statistics, machine learning and mathematic
-
-**Tutorial and games**:
-
+**Tutorial and games**  
 - [Hanukkaf of data](https://hanukkah.bluebird.sh)
 - [SVG-Tutorial](https://svg-tutorial.com/)
 - [RegexGolf](https://alf.nu/RegexGolf)
@@ -15,15 +11,13 @@ statistics, machine learning and mathematic
 - [openvim](https://www.openvim.com/)
 - [vimgenius](http://www.vimgenius.com/)
 
-**Blog and webpage**
-
+**Blog and webpage**  
 - [Yann Esposito's Learn
   Vim](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 - [GUSTA ME](https://sites.google.com/site/mb3gustame)
 
 
-**Courses and lectures**
-
+**Courses and lectures**  
 - [Advanced Python
   Mastery](https://github.com/dabeaz-course/python-mastery)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
@@ -35,8 +29,7 @@ statistics, machine learning and mathematic
   Theory](https://www.youtube.com/@DrBartosz/playlists)
 - [rwxrob skilstak](https://www.youtube.com/rwxrob)
 
-**Book**
-
+**Book**  
 - [The linux command line](https://www.linuxcommand.org/tlcl.php)
 - [A philosophy of software
   design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
