@@ -1,8 +1,4 @@
-# Hackernews Bookmarks
-
-#fleeting #bookmark
-
-Stuff that I may want to read again.
+# Hackernews pins 
 
 - [Build a search engin, not a vector DB](https://news.ycombinator.com/item?id=38703943)
 - [Self-teaching, spaced repetition, and why books don't
