@@ -1,7 +1,5 @@
 # Calinski Harabasz index
 
-#clustering #validity
-
 ## Idea
 
 The calinski and Harabasz index (1974)[^ref1] as first developped to find the ideal partitioning of objects in K cluster. 
