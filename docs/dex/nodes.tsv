@@ -22,7 +22,7 @@
 21	2024-03-31 13:40:57Z	Simple and adjusted Rand indices
 22	2024-03-31 13:43:24Z	Hubert' gamma statistic
 23	2024-03-22 12:55:07Z	
-24	2024-03-31 13:47:23Z	Calinski Harabasz index
+24	2024-03-31 13:50:26Z	Calinski Harabasz index
 25	2024-03-22 12:55:39Z	Davies Boulding Index
 26	2024-03-22 12:55:46Z	Silhouette coefficient
 27	2024-03-22 12:58:10Z	Relative criteria for clustering internal validation
