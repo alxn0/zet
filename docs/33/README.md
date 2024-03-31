@@ -1,10 +1,8 @@
 # Representations of hierarchical clustering solutions
 
-#clustering #visualisation
-
 **Dendrogram**
 
-A [dendrogram](../18) is a common way to represent hierarchical clustering results. Dendrograms will display the different step at which objects/groups are fused based. For conveniance, the length of the branch will ofently represent the partition level (i.e., the measure treshold) at which fusion happened, with perpendicual lines connecting the two branches.
+A dendrogram is a common way to represent hierarchical clustering results. Dendrograms will display the different step at which objects/groups are fused based. For conveniance, the length of the branch will ofently represent the partition level (i.e., the measure treshold) at which fusion happened, with perpendicual lines connecting the two branches.
 
 ![dendrogram](single_linkage_dendrogram.png)
 *Illustration of a single linkage dendrogram found in Legendre and Legendre (2012) p. 344, Figure 8.2* [^ref1].
