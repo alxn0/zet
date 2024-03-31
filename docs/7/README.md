@@ -1,12 +1,10 @@
 # Traditional clustering algorithms
 
-#clustering
-
 Here's a quick categorial overview of some of the mostly used *traditional* clustering
 methods.
 
-Most of this information is taken from Xu and Tian (2015)[^ref1] and
-Ezugwu and al. (2022)[^ref2]. See those paper for an extensive review of
+Most of this information is taken from Xu and Tian (2015) and
+Ezugwu and al. (2022). See those paper for an extensive review of
 methods.
 
 <table>
@@ -96,10 +94,6 @@ hierarchical-based methods
  </tr>
 </table>
 
-
-[^note1]: Although k-medoid is more robust than k-mean
-[^note2]: A workaround is to compute multiple iterations with different
-    starting point for centroids.
 
 > Distribution- and model-based methods involve a statistical framework with
 > estimation and optimization of parameters.
@@ -193,7 +187,11 @@ hierarchical-based methods
  </tr> 
 </table>
 
-[^ref1]: Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. [https://doi.org/10.1007/s40745-015-0040-1](https://doi.org/10.1007/s40745-015-0040-1)
-[^ref2]: Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. https://doi.org/10.1016/j.engappai.2022.104743
+## References
+Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. <https://doi.org/10.1007/s40745-015-0040-1>
 
+Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. <https://doi.org/10.1016/j.engappai.2022.104743>
 
+[^note1]: Although k-medoid is more robust than k-mean
+[^note2]: A workaround is to compute multiple iterations with different
+    starting point for centroids.
