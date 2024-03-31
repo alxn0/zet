@@ -1,3 +1,4 @@
+* 2024-03-31 15:44:16Z [Adjusting creativity/randomness in LLMs](../62)
 * 2024-03-31 15:39:22Z [Distances vs dissimilarities](../4)
 * 2024-03-31 15:39:15Z [(Statistical) association](../2)
 * 2024-03-31 15:37:28Z [Distance metrics in high dimensions](../61)
@@ -5,7 +6,7 @@
 * 2024-03-31 15:36:35Z [What about metric distances and metric space?](../16)
 * 2024-03-31 15:29:41Z [Text embedding](../60)
 * 2024-03-31 15:25:13Z [What could be a simple implementation of autocomplete for Keg](../55)
-* 2024-03-31 15:44:16Z [Adjusting creativity/randomness in LLMs](../62)
+* 2024-03-31 15:48:29Z [Auto-merging Retrieval (aka parent document retriever)](../63)
 * 2024-03-31 11:21:56Z [Stas Berkman (stas00) GitHub page](../59)
 * 2024-03-31 11:03:21Z [GL.Inet Slate plus as a home wifi router](../58)
 * 2024-03-31 11:01:15Z [Some nice radio station that broadcast online](../57)
