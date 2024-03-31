@@ -1,7 +1,5 @@
 # What is the Zettlekasten method
 
-#notes-taking #zet
-
 The Zettelkasten method is a note-taking and knowledge management system that was 
 developed by German sociologist Niklas Luhmann[^1].
 
