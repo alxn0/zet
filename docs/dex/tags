@@ -1,17 +1,18 @@
-breadmaking 15
-hub 5 40
-zet 1
-debugging 47
-ocr 48
 markdown 19 40 41 42 43 44
-bookmarks 8 11 12 13 14
-vim 55
-clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46
-cli 48
-zettlekasten 1 50 51
-note-taking 52 54 55
-hardware 47
-secrets 53
-statistical-association 2 3 4 16
+music 56
+hub 5 40
 evergreen-notes 49
+cli 48
+statistical-association 2 3 4 16
+note-taking 52 54 55
+breadmaking 15
+vim 55
+bookmarks 8 11 12 13 14 57 59
+hardware 47 58
+debugging 47
 rag 49
+clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46
+ocr 48
+zet 1
+secrets 53
+zettlekasten 1 50 51
