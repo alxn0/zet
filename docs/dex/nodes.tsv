@@ -17,30 +17,30 @@
 16	2024-03-31 07:24:21Z	What about metric distances and metric space?
 17	2024-03-31 09:21:56Z	Clustering with semimetric distances
 18	2024-03-31 09:31:28Z	GL.Inet Slate plus as a home wifi router
-19	2024-03-31 13:37:19Z	Align images with wordwrap in markdown
-20	2024-03-31 13:39:20Z	External criteria for clustering validation
-21	2024-03-31 13:40:57Z	Simple and adjusted Rand indices
-22	2024-03-31 13:43:24Z	Hubert' gamma statistic
-23	2024-03-22 12:55:07Z	
-24	2024-03-31 13:50:26Z	Calinski Harabasz index
-25	2024-03-31 13:51:22Z	Davies Boulding Index
-26	2024-03-31 13:52:11Z	Silhouette coefficient
-27	2024-03-31 13:53:57Z	Relative criteria for clustering internal validation
-28	2024-03-31 13:54:51Z	Objects linkage hierarchical clustering
-29	2024-03-31 13:55:53Z	Single-linkage clustering
-30	2024-03-31 13:56:37Z	Complete-linkage clustering
-31	2024-03-31 13:56:54Z	Intermediate-linkage clustering
-32	2024-03-31 13:59:00Z	Hierarchical agglomerative clustering
-33	2024-03-31 14:00:05Z	Representations of hierarchical clustering solutions
-34	2024-03-31 14:00:24Z	Average hierarchical clustering
-35	2024-03-31 14:01:00Z	Unweighted arithmetic average clustering
-36	2024-03-31 14:01:23Z	Weighted arithmetic average clustering
-37	2024-03-31 14:01:35Z	Unweighted centroid clustering
-38	2024-03-31 14:05:10Z	Weighted centroid clustering
-39	2024-03-31 14:04:52Z	Ward's minimum variance clustering
-40	2024-03-31 14:06:22Z	Markdown markup language
-41	2024-03-31 14:06:37Z	Basic markdown and CommonMark
-42	2024-03-31 14:06:55Z	Some differences between Gruber's markdown and CommonMark 
-43	2024-03-31 14:07:03Z	GitHub Flavored markdown and advanced formating
-44	2024-03-31 14:07:08Z	Markdown HTML/CSS Hacks
-47	2024-03-31 13:35:51Z	GL.Inet Slate plus as a home wifi router
+19	2024-03-31 09:37:19Z	Align images with wordwrap in markdown
+20	2024-03-31 09:39:20Z	External criteria for clustering validation
+21	2024-03-31 09:40:57Z	Simple and adjusted Rand indices
+22	2024-03-31 09:43:24Z	Hubert' gamma statistic
+23	2024-03-31 10:09:22Z	
+24	2024-03-31 09:50:26Z	Calinski Harabasz index
+25	2024-03-31 09:51:22Z	Davies Boulding Index
+26	2024-03-31 09:52:11Z	Silhouette coefficient
+27	2024-03-31 09:53:57Z	Relative criteria for clustering internal validation
+28	2024-03-31 09:54:51Z	Objects linkage hierarchical clustering
+29	2024-03-31 09:55:53Z	Single-linkage clustering
+30	2024-03-31 09:56:37Z	Complete-linkage clustering
+31	2024-03-31 09:56:54Z	Intermediate-linkage clustering
+32	2024-03-31 09:59:00Z	Hierarchical agglomerative clustering
+33	2024-03-31 10:00:05Z	Representations of hierarchical clustering solutions
+34	2024-03-31 10:00:24Z	Average hierarchical clustering
+35	2024-03-31 10:01:00Z	Unweighted arithmetic average clustering
+36	2024-03-31 10:01:23Z	Weighted arithmetic average clustering
+37	2024-03-31 10:01:35Z	Unweighted centroid clustering
+38	2024-03-31 10:05:10Z	Weighted centroid clustering
+39	2024-03-31 10:04:52Z	Ward's minimum variance clustering
+40	2024-03-31 10:06:22Z	Markdown markup language
+41	2024-03-31 10:06:37Z	Basic markdown and CommonMark
+42	2024-03-31 10:06:55Z	Some differences between Gruber's markdown and CommonMark 
+43	2024-03-31 10:07:03Z	GitHub Flavored markdown and advanced formating
+44	2024-03-31 10:07:08Z	Markdown HTML/CSS Hacks
+48	2024-03-31 10:12:09Z	Turn a RaspBerry Pi in a music streamer
