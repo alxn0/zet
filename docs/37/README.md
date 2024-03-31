@@ -1,7 +1,5 @@
 # Unweighted centroid clustering
 
-#clustering #method
-
 Also called Unweighted **Pair-Group Centroid Method (UPGMC)** or the **centroid method**. 
 It is based on the distance between the centroid of the clusters (i.e., mean point).
 
