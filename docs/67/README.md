@@ -33,7 +33,7 @@ prompt = f"""Here is the context: {context}
 
 ## Limitation of basic RAG
 
-1. **Inaccurate retrieval and limited contex**:  May capture irrelevant information or not capture the full context (see [sentence-window retrieval](../64) and [auto-merging retrieval](../636363636363)
+1. **Inaccurate retrieval and limited context**:  May capture irrelevant information or not capture the full context (see [sentence-window retrieval](../64) and [auto-merging retrieval](../63)
 
 2. **Lack of information validation**: RAG does not have a built-in mechanism to validate the whole process. See [triad of metrics](../65)
 
@@ -46,4 +46,7 @@ prompt = f"""Here is the context: {context}
 
 [LlamaIndex](https://www.llamaindex.ai/)
 [TruLens](https://www.trulens.org/)
+
+## References
+Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., Wang, M., & Wang, H. (2024). Retrieval-augmented generation for large language models: A survey.
 
