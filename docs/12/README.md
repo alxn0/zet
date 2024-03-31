@@ -1,7 +1,5 @@
 # CS/Stats useful learning materials
 
-#bookmarks
-
 **Tutorial and games**  
 - [Hanukkaf of data](https://hanukkah.bluebird.sh)
 - [SVG-Tutorial](https://svg-tutorial.com/)
@@ -28,6 +26,8 @@
 - [Bartosz Milewski Category
   Theory](https://www.youtube.com/@DrBartosz/playlists)
 - [rwxrob skilstak](https://www.youtube.com/rwxrob)
+- [deeplearning.ai](https://www.deaplearning.ai/)
+- [fast.ai practical deap learning course](https://course.fast.ai/)
 
 **Book**  
 - [The linux command line](https://www.linuxcommand.org/tlcl.php)
@@ -42,3 +42,5 @@
 - [Mathematics for Machine
   Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Online list of free mathematic textbooks](http://www.infobooks.org/free-pdf-books/math/)
+- [The hundred page machine learning book](http://themlbook.com/)
+- [Abelson and al., 2007, Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
