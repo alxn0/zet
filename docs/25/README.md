@@ -1,10 +1,8 @@
 # Davies Boulding Index
 
-#clustering #validity
-
 ## Idea
 
-The Davies and Bouldin (1979)[^ref1] index can be used as an internal measure of cluster results. As for 
+The Davies and Bouldin (1979) index can be used as an internal measure of cluster results. As for 
 [Calinski Harabasz index](../24), it is based on the intuition of a *best* solution means 
 compact cluster that are well-separated from each other.
 
@@ -47,7 +45,10 @@ centroid**
 - **Python**: `sklearn.metrics.davies_bouldin_score`[^ref3]
 - **R**: `clv::clv.Davies.Bouldin`[^ref4]
 
-[^ref1]: Davies, D. L., & Bouldin, D. W. (1979). A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-1(2), 224–227. <https://doi.org/10.1109/TPAMI.1979.4766909>
+## References
+Davies, D. L., & Bouldin, D. W. (1979). A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-1(2), 224–227. <https://doi.org/10.1109/TPAMI.1979.4766909>
+
+
 [^ref2]: <https://pyshark.com/davies-bouldin-index-for-k-means-clustering-evaluation-in-python/>
 [^ref3]: <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html>
 [^ref4]: <https://search.r-project.org/CRAN/refmans/clv/html/Davies_Bouldin.html>
