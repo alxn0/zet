@@ -14,9 +14,6 @@ Instead of taking the "surrounding sentences", it organize chunk as a tree, with
 
 ![945b3de600d1065afa66e7253be456df.png](945b3de600d1065afa66e7253be456df.png)[^1]
 
-## Implementation
-- LlamaIndex
-
 ## Parameters
 - Hierarchical structure (Number of levels / children)
 - Number of chunks
