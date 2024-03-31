@@ -1,7 +1,5 @@
 # Clustering validity based on internal criteria
 
-#clustering #validity
-
 ## Introduction
 
 The idea is to evaluate the clustering solution on properties injerent to the data sets. 
@@ -42,7 +40,7 @@ scheme:
   random hypothesis of a given data set.
 
 
-Xiong and Li (2014)[^ref1] compared 12 internal measures on the impact of
+Xiong and Li (2014) compared 12 internal measures on the impact of
 monotonicity, noise[^info1], uneven density and
 subclusters[^info2], skewer distributions[^info3] and arbitratry shapes.
 
@@ -58,21 +56,26 @@ When using a hierarchical clustering algorithm, the hierarchy can be
 evaluated using the [**Cophenetic correlation coefficient**](../23). Can be used to test the
 random hypothesis, but also observed how specific hierarchical algorithm
 biais pairwise connections toward smaller or larger distances (see
-Lengendre and Legendre (2012)[^ref2].
+Lengendre and Legendre (2012).
 
 ## Instability
 
 The idea is to compare the robustness of the solution with sample
 randomness. It can be assessed using bootstrapping as
-proposed by Jain asnd Moreau (1987)[^ref5] and Fand and Wang (2012)[^ref3], or through crossvalidation
-as proposed by Wan (2010) [^ref4]. 
+proposed by Jain asnd Moreau (1987) and Fand and Wang (2012), or through crossvalidation
+as proposed by Wan (2010). 
 
+## References
 
-[^ref1]: Xiong, H., Li Z. (2014). Clustering Validation Measures. In Aggarwal, C. C. (ed.), Reddy C. K.. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC.
-[^ref2]: Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
-[^ref3]: Fang, Y., & Wang, J. (2012). Selection of the number of clusters via the bootstrap method. Computational Statistics & Data Analysis, 56(3), 468–477. https://doi.org/10.1016/j.csda.2011.09.003
-[^ref4]: Wang, J. (2010). Consistent selection of the number of clusters via crossvalidation. Biometrika, 97(4), 893–904. [https://doi.org/10.1093/biomet/asq061](https://doi.org/10.1093/biomet/asq061)
-[^ref5]: Jain, A. K., & Moreau, J. V. (1987). Bootstrap technique in cluster analysis. Pattern Recognition, 20(5), 547–568. [https://doi.org/10.1016/0031-3203(87)90081-1](https://doi.org/10.1016/0031-3203(87)90081-1)
+Xiong, H., Li Z. (2014). Clustering Validation Measures. In Aggarwal, C. C. (ed.), Reddy C. K.. (2014). Data Clustering: Algorithms and Applications (First edition). Chapman and Hall/CRC.
+Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
+
+Fang, Y., & Wang, J. (2012). Selection of the number of clusters via the bootstrap method. Computational Statistics & Data Analysis, 56(3), 468–477. <https://doi.org/10.1016/j.csda.2011.09.003>
+
+Wang, J. (2010). Consistent selection of the number of clusters via crossvalidation. Biometrika, 97(4), 893–904. <https://doi.org/10.1093/biomet/asq061>
+
+Jain, A. K., & Moreau, J. V. (1987). Bootstrap technique in cluster analysis. Pattern Recognition, 20(5), 547–568. <https://doi.org/10.1016/0031-3203(87)90081-1>
+
 
 [^info1]: Points that are in between clusters.
 [^info2]: Clusters that are close to each others,
