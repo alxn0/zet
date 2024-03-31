@@ -49,6 +49,6 @@ Some other methods especially suited for semimetric distance:
 > [Single, complete](../28) and [average](../34) methods need only positive and
 > symmetric coefficient (i.e., semimetric). [Ward](../39), [centroid](../37) and [median](../38)
 > methods need squared euclidean distances to produce geometricly
-> meaningful results.[^ref1]
+> meaningful results.
 
 Ackermann, M. R., Blömer, J., & Sohler, C. (2010). Clustering for metric and nonmetric distance measures. ACM Transactions on Algorithms, 6(4). <https://doi.org/10.1145/1824777.1824779>
