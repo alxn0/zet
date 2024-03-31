@@ -1,7 +1,5 @@
 # Relative criteria for clustering internal validation
 
-#clustering #validity
-
 In comparison with [internal](../10) and [external](../20) validity, relative 
 criteria does not rely on statistical testing. 
 The fundamental idea of this approach is to choose the best clustering scheme 
@@ -10,10 +8,10 @@ of a set of defined schemes according to a pre-specified criterion.
 **When looking the the best number of cluster, the problem can be stated
 as**:
 
-> *"Let $P_{alg}$ the set of parameters associated with a specific clustering 
+> "Let $P_{alg}$ the set of parameters associated with a specific clustering 
 > algorithm (e.g. the number of clusters nc). Among the clustering schemes Ci, 
 > i= 1, ..., nc, defined by a specific algorithm, for different values of the 
-> parameters in $P_{alg}$, choose the one that best fits the data set.”*[^ref1]
+> parameters in $P_{alg}$, choose the one that best fits the data set.”(Halkidi and al., 2001, p.23)
 
 **There is two specific cases when searching for best $nc$:
 
@@ -32,7 +30,7 @@ Yet, not sure what is the best approach...
 
 **Multiple statistics approach**
 
-Hennig (2014)[^ref2] argue that relative criteria should be done with
+Hennig (2014) argue that relative criteria should be done with
 multiple statistics that reflect different aspects of the
 solutions. What he used is a mix of:
 
@@ -42,6 +40,9 @@ solutions. What he used is a mix of:
   distance matrix, like the [Hubert's gamma index](../22) compared with
   a {1, 0} matrix.
 
-[^ref1]: Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001). On clustering validation techniques. Journal of Intelligent Information Systems, 17(2–3), [107–145. https://doi.org/10.1023/A:1012801612483]([107–145. https://doi.org/10.1023/A:1012801612483) p.23
-[^ref2]: Hennig, C. (2014). How many bee species? A case study in determining the number of clusters. In M. Spiliopoulou, L. Schmidt-Thieme, & R. Janning (Eds.), Data analysis, machine learning and knowledge discovery (pp. 41–49). Springer.
+
+## References
+Halkidi, M., Batistakis, Y., & Vazirgiannis, M. (2001). On clustering validation techniques. Journal of Intelligent Information Systems, 17(2–3), [107–145. https://doi.org/10.1023/A:1012801612483]([107–145. https://doi.org/10.1023/A:1012801612483)
+
+Hennig, C. (2014). How many bee species? A case study in determining the number of clusters. In M. Spiliopoulou, L. Schmidt-Thieme, & R. Janning (Eds.), Data analysis, machine learning and knowledge discovery (pp. 41–49). Springer.
 
