@@ -1,6 +1,7 @@
+* 2024-03-31 15:29:41Z [Text embedding](../60)
 * 2024-03-31 15:25:59Z [Statistical association](../2)
 * 2024-03-31 15:25:13Z [What could be a simple implementation of autocomplete for Keg](../55)
-* 2024-03-31 15:29:41Z [Text embedding](../60)
+* 2024-03-31 15:34:04Z [Distance Metrics in High Dimensions](../61)
 * 2024-03-31 11:21:56Z [Stas Berkman (stas00) GitHub page](../59)
 * 2024-03-31 11:03:21Z [GL.Inet Slate plus as a home wifi router](../58)
 * 2024-03-31 11:01:15Z [Some nice radio station that broadcast online](../57)
