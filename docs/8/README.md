@@ -27,3 +27,16 @@
 - [Introduction to Algorithms: A Creative Approach by Udi
   Manber](https://news.ycombinator.com/item?id=36096305)
 - [How big is youtube](https://news.ycombinator.com/item?id=38739563)
+- [Ledger](https://news.ycombinator.com/item?id=39492924)
+- [How inuit parents raise their kids](https://news.ycombinator.com/item?id=39250304)
+- [Neat Parallel Output in Python](https://news.ycombinator.com/item?id=39490747)
+- [	Does offering ChatGPT a tip cause it to generate better text?](https://news.ycombinator.com/item?id=39495476)
+- [Architecture.md](https://news.ycombinator.com/item?id=26048784)
+- [Headphone and Amp Impedance (2011)](https://news.ycombinator.com/item?id=39412198)
+- [Considerations for a long-running Raspberry Pi](https://news.ycombinator.com/item?id=39407631x)
+- [Ask HN: Alternatives to the Pomodoro technique](https://news.ycombinator.com/item?id=39348500)
+- [Don't Eat Before Reading This (1999)](https://news.ycombinator.com/item?id=39252143)
+- [Amon Tobin - Foley Room site (2007)](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Foley+room&sort=byPopularity&type=story)
+- [Surf the web like it's 1999](https://news.ycombinator.com/item?id=39057862)
+- [Self-teaching, spaced repetition, and why books don't work](https://news.ycombinator.com/item?id=38663733)
+

@@ -1,4 +1,5 @@
 * 2024-03-31 14:58:17Z [Andy Matushak Evergreen Notes](../49)
+* 2024-03-31 14:58:56Z [Hackernews pins ](../8)
 * 2024-03-31 10:53:28Z [What could be a simple implementation of autocomplete for Keg](../55)
 * 2024-03-31 10:51:54Z [Today I Learn](../54)
 * 2024-03-31 10:48:58Z [Manage .env files with dotenv](../53)
@@ -46,7 +47,6 @@
 * 2024-03-31 07:17:52Z [Academic paper reading list ](../11)
 * 2024-03-31 07:17:07Z [Clustering validity based on internal criteria](../10)
 * 2024-03-31 07:13:13Z [Clustering validation](../9)
-* 2024-03-31 07:10:01Z [Hackernews pins ](../8)
 * 2024-03-31 07:08:49Z [Traditional clustering algorithms](../7)
 * 2024-03-31 07:04:30Z [Clustering process](../6)
 * 2024-03-31 07:02:47Z [Clustering](../5)
