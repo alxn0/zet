@@ -24,7 +24,7 @@ criteria:
 Here are some coefficients that I used to evaluate a single clustering
 scheme:
 
-- [Calinski-Harabasz index](../24): Based on the average between-
+- [**Calinski-Harabasz index**](../24): Based on the average between-
   (separation) and within-cluster (compactness) sum of squares.
 - [**Silhouette index**](../26): Calculate for each object the ratio between 
   the mean distance o all other object of its cluster, and the minimum distance 
@@ -53,7 +53,7 @@ subclusters[^info2], skewer distributions[^info3] and arbitratry shapes.
 ## Hierarchical nesting
 
 When using a hierarchical clustering algorithm, the hierarchy can be
-evaluated using the [**Cophenetic correlation coefficient**](../23). Can be used to test the
+evaluated using the [Cophenetic correlation coefficient](../23). Can be used to test the
 random hypothesis, but also observed how specific hierarchical algorithm
 biais pairwise connections toward smaller or larger distances (see
 Lengendre and Legendre (2012).
