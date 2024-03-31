@@ -27,8 +27,7 @@ provides the most recent and complete one [^ref1].
 Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. <https://doi.org/10.1016/j.engappai.2022.104743>
 
 
-**Advantages and limitations of methods**
-
+**Advantages and limitations of methods**  
 Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. <https://doi.org/10.1007/s40745-015-0040-1>
 
 
