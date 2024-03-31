@@ -8,7 +8,9 @@ These includes :
 
 This duality between object and descriptor associations is described as
 Q and R analyses in Legendre and Legendre (2012) chapter on Ecological
-ressemblance[^Legendre].
+ressemblance.
 
-[^Legendre]: Legendre, P., & Legendre, L. (2012). Numerical
+## References
+
+Legendre, P., & Legendre, L. (2012). Numerical
 ecology. Elsevier. Chapter 7.1.
