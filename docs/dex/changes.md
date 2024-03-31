@@ -1,6 +1,7 @@
+* 2024-03-31 13:39:20Z [External criteria for clustering validation](../20)
 * 2024-03-31 13:37:19Z [Align images with wordwrap in markdown](../19)
 * 2024-03-31 13:35:51Z [GL.Inet Slate plus as a home wifi router](../47)
-* 2024-03-31 13:38:01Z [External criteria for clustering validation](../20)
+* 2024-03-31 13:40:57Z [Simple and adjusted Rand indices](../21)
 * 2024-03-31 09:31:28Z [GL.Inet Slate plus as a home wifi router](../18)
 * 2024-03-31 09:21:56Z [Clustering with semimetric distances](../17)
 * 2024-03-31 07:24:21Z [What about metric distances and metric space?](../16)
@@ -44,4 +45,3 @@
 * 2024-03-22 12:55:23Z [Calinski Harabasz index](../24)
 * 2024-03-22 12:55:07Z [](../23)
 * 2024-03-22 12:54:57Z [Hubert' gamma statistic](../22)
-* 2024-03-22 12:54:45Z [Simple and adjusted Rand indices](../21)
