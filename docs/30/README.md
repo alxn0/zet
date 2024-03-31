@@ -1,7 +1,5 @@
 # Complete-linkage clustering
 
-#clustering #method
-
 Opposite to the [single-linkage](../29) algorithm, the fusion depends on the most distant pairs of objects.
 Also called **furthest neighbour sorting** or **Farthest Point Algorithm**.
 
@@ -31,7 +29,9 @@ From Legendre (2012):
 > According to Lance & Williams (1967c), this is equivalent to dilating the reference space in the neighbourhood of that cluster \[...\]
 > This effect is opposite to what was found in single linkage clustering, which contracted the reference space.
 > In \[descriptor space\], complete linkage produces maximally linked and rather spherical clusters,
-> whereas single linkage may produce elongated clusters with loose chaining (p.351)[^ref1].
+> whereas single linkage may produce elongated clusters with loose chaining (p.351).
 
-[^ref1]: Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
+
+## References
+Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier.
 
