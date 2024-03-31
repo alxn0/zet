@@ -1,4 +1,4 @@
-# Distance Metrics in High Dimensions
+# Distance metrics in high dimensions
 
 **This is an unfinished note!!**
 
