@@ -4,7 +4,7 @@
 * 2024-03-31 10:45:43Z [Similarity and distance](../3)
 * 2024-03-31 10:31:28Z [Statistical association](../2)
 * 2024-03-31 10:26:00Z [What is the Zettlekasten method](../1)
-* 2024-03-31 11:06:42Z [Traditional clustering algorithms](../7)
+* 2024-03-31 11:08:49Z [Traditional clustering algorithms](../7)
 * 2024-03-22 22:56:42Z [External criteria for clustering validation](../20)
 * 2024-03-22 18:00:39Z [Sorry, planned but not yet available](../0)
 * 2024-03-22 17:50:06Z [Prompting engineering](../46)

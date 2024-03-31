@@ -67,9 +67,9 @@ hierarchical-based methods
        <ul>
            <li>Need to specify a priori number of cluster</li>
            <li>Biases towards spherical clusters</li>
-           <li>Sensible to noise [^note1] </li>
+           <li>Sensible to noise</li>
            <li>sensitive to number of clusters</li>
-           <li>Easily drawn to local optimal[^note2]</li>
+           <li>Easily drawn to local optimal</li>
        </ul>
    </td>
  </tr>
@@ -146,7 +146,7 @@ hierarchical-based methods
        <ul>
            <li>Relative high time complexity</li>
            <li>Can be difficult to select the right models</li>
-           <li>Potential for overfitting</li>i
+           <li>Potential for overfitting</li>
            <li>Clustering sensitive to parameters.</li>
        </ul>
    </td>
@@ -191,7 +191,3 @@ hierarchical-based methods
 Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2, 165–193. <https://doi.org/10.1007/s40745-015-0040-1>
 
 Ezugwu, A. E., Ikotun, A. M., Oyelade, O. O., Abualigah, L., Agushaka, J. O., Eke, C. I., & Akinyelu, A. A. (2022). A comprehensive survey of clustering algorithms: State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects. Engineering Applications of Artificial Intelligence, 110, 104743. <https://doi.org/10.1016/j.engappai.2022.104743>
-
-[^note1]: Although k-medoid is more robust than k-mean
-[^note2]: A workaround is to compute multiple iterations with different
-    starting point for centroids.
