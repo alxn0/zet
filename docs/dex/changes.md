@@ -67,7 +67,6 @@
 * 2024-03-31 10:43:18Z [Unweighted centroid clustering](../37)
 * 2024-03-31 10:34:30Z [Scanning to OCR PDF in linux from the command line](../48)
 * 2024-03-31 10:24:14Z [Adjusted Mutual Information Score VS Rand Index](../46)
-* 2024-03-31 10:21:34Z [Turn a RaspBerry Pi in a music streamer](../45)
 * 2024-03-31 10:07:08Z [Markdown HTML/CSS Hacks](../44)
 * 2024-03-31 10:07:03Z [GitHub Flavored markdown and advanced formating](../43)
 * 2024-03-31 10:06:55Z [Some differences between Gruber's markdown and CommonMark ](../42)
