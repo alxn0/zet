@@ -5,7 +5,7 @@
 The *art* of writtings prompts in LLMs in order to get *results* that are more aligned with our *objectives*
 
 ## Strategies
-- Use [predefined principles](../../Data%20science/Prompt%20engineering/principles_of_prompting.md) to optimize prompt
+- Use [predefined principles](../71) to optimize prompt
     - Write clear and specific instructions
     - Give the model time to "think"
 - Adopt an [iterative](../../Data%20science/Prompt%20engineering/iterative_prompt_development.md) approach to prompt development
