@@ -2,25 +2,10 @@
 
 Some exemple of LLM application to coding
 
-- Scenario 1: [Improve existing code](../86)
-- Scenario 2: [Simplify code](../87)
-- Scenario 3: [Write test cases](../88)
-- Scenario 3: [Make code more efficient](../89)
-
-### Scenario 4: Make code more efficient
-
-- Improve runtime by potentially avoiding inefficient methods (such as ones that use recursion when not needed).
-- The LLM is neutral and not invested in particular algorithm, can spark ideas / inspiration on what can be done instead.
-
-```python
-prompt_template = """
-Can you please make this code more efficient?
-
-{question}
-
-Explain in detail what you changed and why.
-"""
-```
+1. [Improve existing code](../86)
+2. [Simplify code](../87)
+3. [Write test cases](../88)
+4. [Make code more efficient](../89)
 
 ### Scenario 5: Debug your code
 
