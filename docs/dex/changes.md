@@ -1,3 +1,4 @@
+* 2024-04-01 14:29:52Z [Multimodal embedding](../93)
 * 2024-04-01 14:27:55Z [Text embedding](../60)
 * 2024-04-01 14:18:17Z [Principles of Prompting](../71)
 * 2024-04-01 14:18:06Z [Prompt engineering](../70)
@@ -22,7 +23,7 @@
 * 2024-04-01 14:04:44Z [LLM coding: Debug your code](../90)
 * 2024-04-01 14:04:29Z [LLM coding: Explain complex code](../91)
 * 2024-04-01 14:04:19Z [LLM coding: Write documentation](../92)
-* 2024-04-01 14:29:52Z [Multimodal embedding](../93)
+* 2024-04-01 14:31:11Z [Advanced RAG](../94)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:18:38Z [Trieve is a rust based all-in one infrastructure for hybrid search](../69)
