@@ -1,4 +1,4 @@
-# Prompt engineering tactic : Check whether conditions are satisfied
+# Prompt engineering: Check whether conditions are satisfied
 
 - Check assumpptions required to do the task.
 - Ask to rephrase the questions as STEPS
