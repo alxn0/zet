@@ -1,4 +1,4 @@
-# PE: Summarize
+# Prompt engineering: Summarize
 
 Exemple with a toy product review
 
