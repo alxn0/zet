@@ -1,4 +1,5 @@
-# Prompt engineering tactic : Instuct the model to work out its own solution
+# Prompt engineering tactic : Instuct the model to work out 
+its own solution
 
 - Simple instruction: Work your own solution and report each steps
 
@@ -70,5 +71,3 @@ print(response)
 
 ## References
 [deeplearning.ai Prompt Engineering short course](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng)
-
-
