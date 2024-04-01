@@ -58,7 +58,7 @@
 57	2024-03-31 11:01:15Z	Some nice radio station that broadcast online
 58	2024-03-31 11:03:21Z	GL.Inet Slate plus as a home wifi router
 59	2024-03-31 11:21:56Z	Stas Berkman (stas00) GitHub page
-60	2024-03-31 15:29:41Z	Text embedding
+60	2024-04-01 14:27:55Z	Text embedding
 61	2024-03-31 15:37:28Z	Distance metrics in high dimensions
 62	2024-03-31 15:44:16Z	Adjusting creativity/randomness in LLMs
 63	2024-03-31 15:52:55Z	Auto-merging Retrieval (aka parent document retriever)
@@ -68,8 +68,8 @@
 67	2024-03-31 16:13:20Z	Retrieval-Augmented generation
 68	2024-03-31 22:10:24Z	Graphic Methods for Presenting Facts by Willard Cope Brinton
 69	2024-03-31 22:18:38Z	Trieve is a rust based all-in one infrastructure for hybrid search
-70	2024-04-01 10:59:50Z	Prompt engineering
-71	2024-04-01 13:22:53Z	Principles of Prompting
+70	2024-04-01 14:18:06Z	Prompt engineering
+71	2024-04-01 14:18:17Z	Principles of Prompting
 72	2024-04-01 14:10:42Z	Prompt engineering: use delimiters
 73	2024-04-01 14:10:31Z	Prompt engineering: Ask for structure output format
 74	2024-04-01 14:10:20Z	Prompt engineering: Check whether conditions are satisfied
@@ -83,7 +83,7 @@
 82	2024-04-01 14:07:57Z	Prompt engineering: Transforming
 83	2024-04-01 14:07:26Z	Prompt engineering: Expanding
 84	2024-04-01 14:07:41Z	Prompt engineering: The Chat Format
-85	2024-04-01 14:06:42Z	LLM: Pair Programmning Scenarios
+85	2024-04-01 14:12:10Z	LLM: Pair Programmning Scenarios
 86	2024-04-01 14:06:29Z	LLM Coding: Improving existing code
 87	2024-04-01 14:05:37Z	LLM Coding: Simplify code
 88	2024-04-01 14:05:09Z	LLM coding: Write test cases
@@ -91,3 +91,4 @@
 90	2024-04-01 14:04:44Z	LLM coding: Debug your code
 91	2024-04-01 14:04:29Z	LLM coding: Explain complex code
 92	2024-04-01 14:04:19Z	LLM coding: Write documentation
+93	2024-04-01 14:29:52Z	Multimodal embedding

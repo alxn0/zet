@@ -18,4 +18,4 @@ The *art* of writtings prompts in LLMs in order to get *results* that are more a
     - [Transforming](../82) language, format, tone, etc.
     - [Expanding](../83) a text for specific case-scenario
 - Building a [chatbot](../84)
-- [Pair programming](../../Data%20science/Prompt%20engineering/pair_programming_scenario.md)
+- [Pair programming](../85)
