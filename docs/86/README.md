@@ -27,4 +27,6 @@ Please explore multiple ways of solving the problem, and explain each.
 """
 ```
 
+## References
+From [deeplearning.ai short course on pair programmine with LLM](https://learn.deeplearning.ai/pair-programming-llm)
 
