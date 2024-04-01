@@ -1,4 +1,4 @@
-# Prompt engineering tactic: Provide the steps for task completion
+# PE tactic: Provide the steps for task completion
 
 Explain the step that the LLM will use to provide the solution
 
@@ -32,6 +32,9 @@ Separate your answers with line breaks.
 
 Text:
 <{text}>
+```
+
+```python
 """
 response = get_completion(prompt_1)
 print("Completion for prompt 1:")
@@ -59,6 +62,9 @@ Output JSON: <json with summary and num_names>
 
 Text: <{text}>
 """
+```
+
+```python
 response = get_completion(prompt_2)
 print("\nCompletion for prompt 2:")
 print(response)
