@@ -1,4 +1,4 @@
-# PE tactic : Instuct the model to work out its own solution
+# Prompt engineering: Instuct the model to work out its solution
 
 - Simple instruction: Work your own solution and report each steps
 
