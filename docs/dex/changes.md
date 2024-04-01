@@ -1,3 +1,4 @@
+* 2024-04-01 13:14:17Z [Iterative Prompt Development](../78)
 * 2024-04-01 11:33:43Z [Prompt engineering tactic: use delimiters](../72)
 * 2024-04-01 11:33:17Z [Prompt engineering tactic: Ask for structure output format](../73)
 * 2024-04-01 11:32:50Z [Prompt engineering tactic : Check whether conditions are satisfied](../74)
@@ -6,7 +7,7 @@
 * 2024-04-01 11:31:22Z [PE tactic : Instuct the model to work out its own solution](../77)
 * 2024-04-01 11:28:02Z [Principles of Prompting](../71)
 * 2024-04-01 10:59:50Z [Prompt engineering](../70)
-* 2024-04-01 13:14:17Z [Iterative Prompt Development](../78)
+* 2024-04-01 13:22:38Z [Using a String Template](../79)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:18:38Z [Trieve is a rust based all-in one infrastructure for hybrid search](../69)
