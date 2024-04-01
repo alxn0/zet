@@ -5,7 +5,7 @@
 * 2024-04-01 11:13:40Z [Prompt engineering tactic: Ask for structure output format](../73)
 * 2024-04-01 11:09:21Z [Prompt engineering tactic: use delimiters](../72)
 * 2024-04-01 10:59:50Z [Prompt engineering](../70)
-* 2024-04-01 11:30:42Z [Prompt engineering tactic : Instuct the model to work out ](../77)
+* 2024-04-01 11:31:22Z [PE tactic : Instuct the model to work out its own solution](../77)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:18:38Z [Trieve is a rust based all-in one infrastructure for hybrid search](../69)
