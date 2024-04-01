@@ -3,7 +3,7 @@
 Association is a loosed term to describe the *ressemblance* between a set of objects or descriptors.
 
 These includes :
- - **dependance** or **correlation** between *descriptors*. 
+ - [**dependance** or **correlation**](../15) between *descriptors*. 
  - [**(dis)similarity**](../3) which describe ressemblance between *objects*.
 
 This duality between object and descriptor associations is described as

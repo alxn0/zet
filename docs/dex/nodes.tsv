@@ -13,7 +13,7 @@
 12	2024-03-31 10:45:35Z	CS/Stats useful learning materials
 13	2024-03-31 23:02:55Z	Usefull dev and analysis CLI tools
 14	2024-03-31 07:21:25Z	Phytotherapy ressources
-15	2024-03-31 07:23:17Z	Artisanal breadmaking steps
+15	2024-04-01 14:43:16Z	Dependance or correlation 
 16	2024-03-31 15:36:35Z	What about metric distances and metric space?
 17	2024-03-31 15:37:03Z	Clustering with semimetric distances
 18	2024-03-31 09:31:28Z	GL.Inet Slate plus as a home wifi router
@@ -27,11 +27,11 @@
 26	2024-03-31 09:52:11Z	Silhouette coefficient
 27	2024-03-31 09:53:57Z	Relative criteria for clustering internal validation
 28	2024-03-31 09:54:51Z	Objects linkage hierarchical clustering
-29	2024-03-31 09:55:53Z	Single-linkage clustering
+29	2024-04-01 14:36:01Z	Single-linkage clustering
 30	2024-04-01 14:31:46Z	Complete-linkage clustering
 31	2024-03-31 09:56:54Z	Intermediate-linkage clustering
 32	2024-03-31 09:59:00Z	Hierarchical agglomerative clustering
-33	2024-03-31 10:33:17Z	Representations of hierarchical clustering solutions
+33	2024-04-01 14:37:18Z	Representations of hierarchical clustering solutions
 34	2024-03-31 10:00:24Z	Average hierarchical clustering
 35	2024-03-31 10:01:00Z	Unweighted arithmetic average clustering
 36	2024-03-31 10:01:23Z	Weighted arithmetic average clustering
@@ -91,5 +91,6 @@
 90	2024-04-01 14:04:44Z	LLM coding: Debug your code
 91	2024-04-01 14:04:29Z	LLM coding: Explain complex code
 92	2024-04-01 14:04:19Z	LLM coding: Write documentation
-93	2024-04-01 14:29:52Z	Multimodal embedding
+93	2024-04-01 14:44:59Z	Multimodal embedding
 94	2024-04-01 14:31:11Z	Advanced RAG
+95	2024-04-01 16:34:07Z	§Note-taking
