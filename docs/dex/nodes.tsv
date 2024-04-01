@@ -21,14 +21,14 @@
 20	2024-03-31 09:39:20Z	External criteria for clustering validation
 21	2024-03-31 09:40:57Z	Simple and adjusted Rand indices
 22	2024-03-31 09:43:24Z	Hubert' gamma statistic
-23	2024-03-31 10:09:22Z	
+23	2024-04-01 14:34:21Z	Cophenetic distances and correlations
 24	2024-03-31 09:50:26Z	Calinski Harabasz index
 25	2024-03-31 09:51:22Z	Davies Boulding Index
 26	2024-03-31 09:52:11Z	Silhouette coefficient
 27	2024-03-31 09:53:57Z	Relative criteria for clustering internal validation
 28	2024-03-31 09:54:51Z	Objects linkage hierarchical clustering
 29	2024-03-31 09:55:53Z	Single-linkage clustering
-30	2024-03-31 09:56:37Z	Complete-linkage clustering
+30	2024-04-01 14:31:46Z	Complete-linkage clustering
 31	2024-03-31 09:56:54Z	Intermediate-linkage clustering
 32	2024-03-31 09:59:00Z	Hierarchical agglomerative clustering
 33	2024-03-31 10:33:17Z	Representations of hierarchical clustering solutions

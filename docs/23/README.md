@@ -1,4 +1,4 @@
-# Cophenetic distances, cophenetic correlations and sheppard-like diagram
+# Cophenetic distances and correlations
 
 ## Distance
 In clustering, the cophenetic distance is the *distance treshold* at which two objects while be fused in a same cluster. 
