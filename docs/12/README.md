@@ -9,10 +9,11 @@
 - [openvim](https://www.openvim.com/)
 - [vimgenius](http://www.vimgenius.com/)
 
-**Blog and webpage**  
+**Blog, webpage,  GitHub**  
 - [Yann Esposito's Learn
   Vim](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 - [GUSTA ME](https://sites.google.com/site/mb3gustame)
+- Stas Berkman notes on [machine learning engineering](https://github.com/stas00/ml-engineering) and [debugging](https://github.com/stas00/the-art-of-debugging)
 
 
 **Courses and lectures**  
