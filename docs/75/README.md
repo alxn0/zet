@@ -1,4 +1,4 @@
-# Prompt engineering tactic: Few-shot prompting
+# Prompt engineering: Few-shot prompting
 
 - Give succescul examples of completing tasks. Then ask the model to
   perform the task
