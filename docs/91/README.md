@@ -1,4 +1,4 @@
-# Scenario 6: Explain complex code
+# LLM coding: Explain complex code
 
 ```python
 prompt_template = """
