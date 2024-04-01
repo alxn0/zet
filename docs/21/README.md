@@ -10,7 +10,7 @@ pairs whether they are placed or not in the same group.
 
 We create a 2x2 contigency matrix which compares objects partitioning from 2 data clustering procedure.
 
-![rand_contingency](./rand-contingency.svg)
+![rand-contingency](./rand-contingency.svg)
 
 - **$a$**: the number of pairs of objects that are in the **same** groups in partition 1 and 2.
 - **$b$**: the number of pairs of objects that are in the **different** groups in partition 1 and in **same** group in partition 2.

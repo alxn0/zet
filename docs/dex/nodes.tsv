@@ -19,9 +19,9 @@
 18	2024-03-31 09:31:28Z	GL.Inet Slate plus as a home wifi router
 19	2024-03-31 09:37:19Z	Align images with wordwrap in markdown
 20	2024-03-31 09:39:20Z	External criteria for clustering validation
-21	2024-03-31 09:40:57Z	Simple and adjusted Rand indices
+21	2024-04-01 14:35:25Z	Simple and adjusted Rand indices
 22	2024-03-31 09:43:24Z	Hubert' gamma statistic
-23	2024-04-01 14:34:21Z	Cophenetic distances and correlations
+23	2024-04-01 14:34:33Z	Cophenetic distances and correlations
 24	2024-03-31 09:50:26Z	Calinski Harabasz index
 25	2024-03-31 09:51:22Z	Davies Boulding Index
 26	2024-03-31 09:52:11Z	Silhouette coefficient
@@ -66,7 +66,7 @@
 65	2024-03-31 15:57:24Z	RAG Triad of metrics
 66	2024-03-31 16:12:46Z	Similarity in semantic search
 67	2024-03-31 16:13:20Z	Retrieval-Augmented generation
-68	2024-03-31 22:10:24Z	Graphic Methods for Presenting Facts by Willard Cope Brinton
+68	2024-04-01 14:35:03Z	Graphic Methods for Presenting Facts by Willard Cope Brinton
 69	2024-03-31 22:18:38Z	Trieve is a rust based all-in one infrastructure for hybrid search
 70	2024-04-01 14:18:06Z	Prompt engineering
 71	2024-04-01 14:18:17Z	Principles of Prompting
