@@ -1,4 +1,4 @@
-# Inferring
+# Prompt engineering: Inferring
 
 Infering emotions, usage, etc.
 
