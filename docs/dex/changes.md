@@ -1,3 +1,4 @@
+* 2024-04-01 13:40:30Z [Expanding](../83)
 * 2024-04-01 13:38:30Z [Transforming](../82)
 * 2024-04-01 13:31:20Z [Inferring](../81)
 * 2024-04-01 13:25:13Z [PE: Summarize](../80)
@@ -11,7 +12,7 @@
 * 2024-04-01 11:32:06Z [PE tactic: Provide the steps for task completion](../76)
 * 2024-04-01 11:31:22Z [PE tactic : Instuct the model to work out its own solution](../77)
 * 2024-04-01 10:59:50Z [Prompt engineering](../70)
-* 2024-04-01 13:40:30Z [Expanding](../83)
+* 2024-04-01 13:47:22Z [The Chat Format](../84)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:18:38Z [Trieve is a rust based all-in one infrastructure for hybrid search](../69)
