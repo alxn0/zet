@@ -24,7 +24,9 @@ In many cases, longer prompts provide more clarity \
 and context for the model, which can lead to \ 
 more detailed and relevant outputs.
 """
+```
 
+```python
 prompt = f"""
 Summarize the text delimited by square brackets \ 
 into a single sentence.
