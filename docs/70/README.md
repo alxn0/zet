@@ -8,8 +8,8 @@ The *art* of writtings prompts in LLMs in order to get *results* that are more a
 - Use [predefined principles](../71) to optimize prompt
     - Write clear and specific instructions
     - Give the model time to "think"
-- Adopt an [iterative](../../Data%20science/Prompt%20engineering/iterative_prompt_development.md) approach to prompt development
-- Use a [string template](../../Data%20science/Prompt%20engineering/string_template.md)
+- Adopt an [iterative](../78) approach to prompt development
+- Use a [string template](../79)
 
 ## What can we do?
 - Different results:
