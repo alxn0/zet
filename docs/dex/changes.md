@@ -1,3 +1,4 @@
+* 2024-04-01 17:19:49Z [What could be a simple implementation of autocomplete for Keg](../55)
 * 2024-04-01 17:18:01Z [Today I Learn](../54)
 * 2024-04-01 17:17:33Z [The collector fallacy](../52)
 * 2024-04-01 17:17:06Z [The two Luhmann's Zettels on the Zettelkasten](../51)
@@ -52,7 +53,7 @@
 * 2024-04-01 14:04:44Z [LLM coding: Debug your code](../90)
 * 2024-04-01 14:04:29Z [LLM coding: Explain complex code](../91)
 * 2024-04-01 14:04:19Z [LLM coding: Write documentation](../92)
-* 2024-04-01 17:19:49Z [What could be a simple implementation of autocomplete for Keg](../55)
+* 2024-04-01 17:30:59Z [Joel Chan's knowledge synthesis](../99)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:14:40Z [Debugging Brother DS-740D on Ubuntu 23.10](../47)
