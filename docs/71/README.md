@@ -2,98 +2,13 @@
 
 ## Principle 1: Write **clear**[^1] and **specific** instructions
 
-
 - Tactic 1: [Use delimiters](../72)
+- Tactic 2: [Ask for structured output format](../73) 
+- Tactic 3: [Check whether conditions are satisfied](../74)
+- Tactic 4: [Few-shot prompting](../75)
 
-### Tactic 1: Use delimiters
-- e.g, triple quotes / backtics / dashes, angle brackets, XML tags
-- Using delimeters allows to limit prompt injection when 
-  building an application. 
-    - If the sentence "forget the previous instruction" is 
-    within delimeters for example used to
-    circoncise text to summarize, it will not be interpreted as
-    an instruction per se.
 
-```python
-text = "SOME TEXT" 
-
-prompt = f"""
-Summarize the text delimited by square brackets \ 
-into a single sentence.
-<{text}>
-"""
-```
-
-### Tactic 2: Ask for structure output format
-- E.g. HTML, JSON, ASCII Table, mermaid graph
-
-```python
-prompt = f"""
-Generate a list of three made-up book titles along \ 
-with their authors and genres. 
-Provide them in JSON format with the following keys: 
-book_id, title, author, genre.
-"""
-```
-
-### Tactic 3: Check whether conditions are satisfied
-- Check assumpptions required to do the task.
-- Ask to rephrase the questions as STEPS
-
-```python
-text = f"""
-Making a cup of tea is easy! First, you need to get some \ 
-water boiling. While that's happening, \ 
-grab a cup and put a tea bag in it. Once the water is \ 
-hot enough, just pour it over the tea bag. \ 
-Let it sit for a bit so the tea can steep. After a \ 
-few minutes, take out the tea bag. If you \ 
-like, you can add some sugar or milk to taste. \ 
-And that's it! You've got yourself a delicious \ 
-cup of tea to enjoy.
-"""
-prompt = f"""
-You will be provided with text delimited by triple quotes. 
-If it contains a sequence of instructions, \ 
-re-write those instructions in the following format:
-
-Step 1 - ...
-Step 2 - …
-…
-Step N - …
-
-If the text does not contain a sequence of instructions, \ 
-then simply write \"No steps provided.\"
-
-\"\"\"{text}\"\"\"
-"""
-```
-
-###  Tactic 4: Few-shot prompting
-- Give succescul examples of completing tasks. Then ask the model to
-  perform the task
-- Work like a mini training.
-- E.g., start a discussion between an expert and a beginner
-to provide context on the way we want the LLM to answer
-
-```python
-prompt = f"""
-Your task is to answer in a consistent style.
-
-<child>: Teach me about patience.
-
-<grandparent>: The river that carves the deepest \ 
-valley flows from a modest spring; the \ 
-grandest symphony originates from a single note; \ 
-the most intricate tapestry begins with a solitary thread.
-
-<child>: Teach me about resilience.
-"""
-response = get_completion(prompt)
-print(response)
-```
-
-### Principle 2:  Give the model time to think
+## Principle 2:  Give the model time to think
 
 #### Tactic 1: Provide the steps for task completion
 

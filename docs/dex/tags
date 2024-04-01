@@ -1,24 +1,24 @@
-embedding 60
-zet 1
+llm 62
+note-taking 52 54 55
+markdown 19 40 41 42 43 44
+hardware 47 58
 breadmaking 15
 clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46
-cli 48
-statistical-association 2 3 4 16 61 66
-rag 49 65 64 63 67 69
 vim 55
-llm 62
-prompte-engineering 73
-hub 5 40
-note-taking 52 54 55
-semantic-search 66
-markdown 19 40 41 42 43 44
+cli 48
 secrets 53
 ocr 48
+vizualisation 68
+zet 1
+rag 49 65 64 63 67 69
+hub 5 40
+semantic-search 66
 evergreen-notes 49
-prompt-engineering 70  72
+prompt-engineering 70  72 74
 debugging 47
 music 56
+embedding 60
+statistical-association 2 3 4 16 61 66
+prompte-engineering 73
 bookmarks 8 11 12 13 14 57 59
-hardware 47 58
-vizualisation 68
 zettlekasten 1 50 51
