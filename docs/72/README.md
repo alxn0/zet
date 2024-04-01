@@ -1,4 +1,4 @@
-# Prompt engineering tactic: use delimiters
+# Prompt engineering: use delimiters
 
 The idea is to pinpoint important element within the prompt
 
