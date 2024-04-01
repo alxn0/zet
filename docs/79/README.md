@@ -1,4 +1,4 @@
-# Using a String Template
+# Prompt engineering: Using a String Template
 
 Summarize multiple strategies in a single template.
 
