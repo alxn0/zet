@@ -9,7 +9,7 @@
 prompt_template = """
 I don't think this code is the best way to do it in Python, can you help me?
 
-{question}
+{code}
 
 Please explain, in detail, what you did to improve it.
 """
@@ -21,7 +21,7 @@ Please explain, in detail, what you did to improve it.
 prompt_template = """
 I don't think this code is the best way to do it in Python, can you help me?
 
-{question}
+{code}
 
 Please explore multiple ways of solving the problem, and explain each.
 """
