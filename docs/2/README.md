@@ -1,4 +1,4 @@
-# § Statistical association
+# §Statistical association
 
 Association is a loosed term to describe the *ressemblance* between a set of objects or descriptors.
 
@@ -15,6 +15,7 @@ ressemblance.
 [What about metric distnaces and metric space?](../16)
 [Clustering with semimetric distances](../17)
 [Distance metrics in high dimensions](../61)
+[Similarity in semantic search](../66)
 
 ## References
 
