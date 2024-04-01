@@ -7,7 +7,7 @@ to encourage it to write unit tests instead of just returning test cases in Engl
 prompt_template = """
 Can you please create test cases in code for this Python code?
 
-{question}
+{code}
 
 Explain in detail what these test cases are designed to achieve.
 """
