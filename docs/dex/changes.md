@@ -1,3 +1,4 @@
+* 2024-04-01 13:59:01Z [LLM coding: Write test cases](../88)
 * 2024-04-01 13:57:03Z [LLM Coding: Simplify code](../87)
 * 2024-04-01 13:53:03Z [LLM Coding: Improving existing code](../86)
 * 2024-04-01 13:52:04Z [LLM: Pair Programmning Scenarios](../85)
@@ -16,7 +17,7 @@
 * 2024-04-01 11:32:06Z [PE tactic: Provide the steps for task completion](../76)
 * 2024-04-01 11:31:22Z [PE tactic : Instuct the model to work out its own solution](../77)
 * 2024-04-01 10:59:50Z [Prompt engineering](../70)
-* 2024-04-01 13:59:01Z [LLM coding: Write test cases](../88)
+* 2024-04-01 13:59:34Z [LLM coding: Make code more efficient](../89)
 * 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 23:02:55Z [Usefull dev and analysis CLI tools](../13)
 * 2024-03-31 22:18:38Z [Trieve is a rust based all-in one infrastructure for hybrid search](../69)
