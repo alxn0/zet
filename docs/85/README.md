@@ -3,48 +3,9 @@
 Some exemple of LLM application to coding
 
 - Scenario 1: [Improve existing code](../86)
-
-## Scenario 2: Simplify code
-- Ask the LLM to perform a code review.
-- Note that adding/removing newline characters may affect the LLM completion that gets output by the LLM.
-
-```python
-# option 1
-prompt_template = """
-Can you please simplify this code for a linked list in Python?
-
-{question}
-
-Explain in detail what you did to modify it, and why.
-"""
-```
-
-```python
-# option 2
-prompt_template = """
-Can you please simplify this code for a linked list in Python? \n
-You are an expert in Pythonic code.
-
-{question}
-
-Please comment each line in detail, \n
-and explain in detail what you did to modify it, and why.
-"""
-```
-
-### Scenario 3: Write test cases
-
-- It may help to specify that you want the LLM to output "in code" to encourage it to write unit tests instead of just returning test cases in English.
-
-```python
-prompt_template = """
-Can you please create test cases in code for this Python code?
-
-{question}
-
-Explain in detail what these test cases are designed to achieve.
-"""
-```
+- Scenario 2: [Simplify code](../87)
+- Scenario 3: [Write test cases](../88)
+- Scenario 3: [Make code more efficient](../89)
 
 ### Scenario 4: Make code more efficient
 
