@@ -1,4 +1,4 @@
-# Retrieval-Augmented generation
+# What is retrieval-augmented generation
 
 ## What is it
 - Retrieve facts from an external database that is not in the training set

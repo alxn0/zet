@@ -1,4 +1,4 @@
-# Auto-merging Retrieval (aka parent document retriever)
+# Auto-merging retrieval (aka parent document retriever)
 
 ## What is it
 
