@@ -1,4 +1,4 @@
-# Expanding
+# Prompt engineering: Expanding
 
 ## Customize the automated reply to a customer email
 
