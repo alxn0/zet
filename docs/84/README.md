@@ -1,4 +1,4 @@
-# LLM: The Chat Format
+# Prompt engineering: The Chat Format
 
 The example here use OpenAI python API. It can be reproduced with other
 API using a system template and memory managment.
