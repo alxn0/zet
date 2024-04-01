@@ -89,7 +89,6 @@
 * 2024-03-31 09:43:24Z [Hubert' gamma statistic](../22)
 * 2024-03-31 09:39:20Z [External criteria for clustering validation](../20)
 * 2024-03-31 09:37:19Z [Align images with wordwrap in markdown](../19)
-* 2024-03-31 07:21:25Z [Phytotherapy ressources](../14)
 * 2024-03-31 07:17:07Z [Clustering validity based on internal criteria](../10)
 * 2024-03-31 07:13:13Z [Clustering validation](../9)
 * 2024-03-31 07:08:49Z [Traditional clustering algorithms](../7)
