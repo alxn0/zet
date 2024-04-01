@@ -58,7 +58,6 @@
 * 2024-04-01 14:04:44Z [LLM coding: Debug your code](../90)
 * 2024-04-01 14:04:29Z [LLM coding: Explain complex code](../91)
 * 2024-04-01 14:04:19Z [LLM coding: Write documentation](../92)
-* 2024-03-31 23:12:40Z [Sonic visualiser is an open source app to study music recording](../56)
 * 2024-03-31 22:14:40Z [Debugging Brother DS-740D on Ubuntu 23.10](../47)
 * 2024-03-31 15:39:22Z [Distances vs dissimilarities](../4)
 * 2024-03-31 15:37:03Z [Clustering with semimetric distances](../17)
