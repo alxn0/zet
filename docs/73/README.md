@@ -1,4 +1,4 @@
-# Prompt engineering tactic: Ask for structure output format
+# Prompt engineering: Ask for structure output format
 
 Use pre-specified output format to simplify answers, but can also be
 injected as input for other functions (e.g. HTML, JSON, ASCII Table, 
