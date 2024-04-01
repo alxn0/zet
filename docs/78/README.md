@@ -1,4 +1,4 @@
-# Iterative Prompt Development
+# Prompt engineering: Iterative development
 
 Building relevant prompt for LLM almost never work the first time,
 adopting an iterative process help find the right solution
