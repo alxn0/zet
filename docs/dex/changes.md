@@ -65,7 +65,6 @@
 * 2024-03-31 15:37:03Z [Clustering with semimetric distances](../17)
 * 2024-03-31 15:36:35Z [What about metric distances and metric space?](../16)
 * 2024-03-31 11:03:21Z [GL.Inet Slate plus as a home wifi router](../58)
-* 2024-03-31 11:01:15Z [Some nice radio station that broadcast online](../57)
 * 2024-03-31 10:48:58Z [Manage .env files with dotenv](../53)
 * 2024-03-31 10:43:18Z [Unweighted centroid clustering](../37)
 * 2024-03-31 10:34:30Z [Scanning to OCR PDF in linux from the command line](../48)
