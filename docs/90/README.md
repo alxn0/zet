@@ -1,4 +1,4 @@
-# LLM codeing: Debug your code
+# LLM coding: Debug your code
 
 ```python
 prompt_template = """
