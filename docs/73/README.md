@@ -15,6 +15,11 @@ book_id, title, author, genre.
 """
 ```
 
+```python
+response = get_completion(prompt)
+print(response)
+```
+
 ## References
 
 [deeplearning.ai Prompt Engineering short course](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng)
