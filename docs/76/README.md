@@ -1,4 +1,4 @@
-# PE tactic: Provide the steps for task completion
+# Prompt engineering: Provide the steps for task completion
 
 Explain the step that the LLM will use to provide the solution
 
