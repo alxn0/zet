@@ -11,7 +11,7 @@
 10	2024-03-31 07:17:07Z	Clustering validity based on internal criteria
 11	2024-03-31 07:17:52Z	Academic paper reading list 
 12	2024-03-31 10:45:35Z	CS/Stats useful learning materials
-13	2024-03-31 07:19:57Z	Usefull dev and analysis CLI tools
+13	2024-03-31 23:02:55Z	Usefull dev and analysis CLI tools
 14	2024-03-31 07:21:25Z	Phytotherapy ressources
 15	2024-03-31 07:23:17Z	Artisanal breadmaking steps
 16	2024-03-31 15:36:35Z	What about metric distances and metric space?
@@ -45,7 +45,7 @@
 44	2024-03-31 10:07:08Z	Markdown HTML/CSS Hacks
 45	2024-03-31 10:21:34Z	Turn a RaspBerry Pi in a music streamer
 46	2024-03-31 10:24:14Z	Adjusted Mutual Information Score VS Rand Index
-47	2024-03-31 10:43:54Z	Debugging Brother DS-740D on Ubuntu 23.10
+47	2024-03-31 22:14:40Z	Debugging Brother DS-740D on Ubuntu 23.10
 48	2024-03-31 10:34:30Z	Scanning to OCR PDF in linux from the command line
 49	2024-03-31 10:58:17Z	Andy Matushak Evergreen Notes
 50	2024-03-31 10:40:56Z	The three types of linking in Luhmann's Zettlekasten
@@ -54,7 +54,7 @@
 53	2024-03-31 10:48:58Z	Manage .env files with dotenv
 54	2024-03-31 10:51:54Z	Today I Learn
 55	2024-03-31 15:25:13Z	What could be a simple implementation of autocomplete for Keg
-56	2024-03-31 10:59:48Z	Sonic visualiser is an open source app to study music recording
+56	2024-03-31 23:12:40Z	Sonic visualiser is an open source app to study music recording
 57	2024-03-31 11:01:15Z	Some nice radio station that broadcast online
 58	2024-03-31 11:03:21Z	GL.Inet Slate plus as a home wifi router
 59	2024-03-31 11:21:56Z	Stas Berkman (stas00) GitHub page
@@ -64,5 +64,8 @@
 63	2024-03-31 15:52:55Z	Auto-merging Retrieval (aka parent document retriever)
 64	2024-03-31 15:55:58Z	Sentence Window Retrieval
 65	2024-03-31 15:57:24Z	RAG Triad of metrics
-66	2024-03-31 15:57:17Z	Similarity in semantic search
-67	2024-03-31 16:12:11Z	Retrieval-Augmented generation
+66	2024-03-31 16:12:46Z	Similarity in semantic search
+67	2024-03-31 16:13:20Z	Retrieval-Augmented generation
+68	2024-03-31 22:10:24Z	Graphic Methods for Presenting Facts by Willard Cope Brinton
+69	2024-03-31 22:18:38Z	Trieve is a rust based all-in one infrastructure for hybrid search
+70	2024-04-01 10:59:50Z	Prompt engineering
