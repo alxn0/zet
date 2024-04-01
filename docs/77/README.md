@@ -1,5 +1,5 @@
 # Prompt engineering tactic : Instuct the model to work out 
-its own solution
+# its own solution
 
 - Simple instruction: Work your own solution and report each steps
 
