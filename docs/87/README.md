@@ -8,7 +8,7 @@
 prompt_template = """
 Can you please simplify this code for a linked list in Python?
 
-{question}
+{code}
 
 Explain in detail what you did to modify it, and why.
 """
@@ -21,11 +21,12 @@ prompt_template = """
 Can you please simplify this code for a linked list in Python? \n
 You are an expert in Pythonic code.
 
-{question}
+{code}
 
 Please comment each line in detail, \n
 and explain in detail what you did to modify it, and why.
 """
 ```
 
-
+## References
+From [deeplearning.ai short course on pair programmine with LLM](https://learn.deeplearning.ai/pair-programming-llm)
