@@ -1,17 +1,7 @@
-# Clustering
-
-Cluster analysis includes a range of techniques to categorized objects. In 
-simple terms, the goal is to split multiple objects in a set of groups, where 
-objects in a same groups are as *similar* as possible. This general problem 
-encompass many specific situation, and there a panoply of technique to realize 
-clustering[^info1]. Also, there is no clear definition of what a *cluster* is, 
-meanings multiple approach looking at different *representation* of clusters.
-
-Considering the extensive number of algorithm, multiple taxonomy have
-been proposed and to my knowledge, Ezugwu and al. (2022)
-provides the most recent and complete one [^ref1].
+# §Clustering
 
 **General topics**:
+- [What is clustering analysis?](../96)
 - [The clustering process](../6)
 - [Traditional clustering algorithms](../7)
 - [Validation approach](../9)
@@ -19,6 +9,8 @@ provides the most recent and complete one [^ref1].
 **Specific topics**:
 - [Clustering on semimetric distance](../17)
 - [Hierarchical agglomerative clustering](../32)
+- [References](../97)
+
 
 ## References
 

@@ -1,6 +1,6 @@
 0	2024-03-22 14:00:39Z	Sorry, planned but not yet available
 1	2024-03-31 10:40:52Z	What is the Zettlekasten method
-2	2024-03-31 15:39:15Z	(Statistical) association
+2	2024-04-01 16:35:58Z	§ Statistical association
 3	2024-03-31 06:45:43Z	Similarity and distance
 4	2024-03-31 15:39:22Z	Distances vs dissimilarities
 5	2024-03-31 07:02:47Z	Clustering
@@ -16,7 +16,7 @@
 15	2024-04-01 14:43:16Z	Dependance or correlation 
 16	2024-03-31 15:36:35Z	What about metric distances and metric space?
 17	2024-03-31 15:37:03Z	Clustering with semimetric distances
-18	2024-03-31 09:31:28Z	GL.Inet Slate plus as a home wifi router
+18	2024-04-01 16:34:54Z	GL.Inet Slate plus as a home wifi router
 19	2024-03-31 09:37:19Z	Align images with wordwrap in markdown
 20	2024-03-31 09:39:20Z	External criteria for clustering validation
 21	2024-04-01 14:35:25Z	Simple and adjusted Rand indices
@@ -94,3 +94,4 @@
 93	2024-04-01 14:44:59Z	Multimodal embedding
 94	2024-04-01 14:31:11Z	Advanced RAG
 95	2024-04-01 16:34:07Z	§Note-taking
+96	2024-04-01 16:40:06Z	What is clustering analysis?
