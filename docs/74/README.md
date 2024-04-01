@@ -16,6 +16,9 @@ like, you can add some sugar or milk to taste. \
 And that's it! You've got yourself a delicious \ 
 cup of tea to enjoy.
 """
+```
+
+```python
 prompt = f"""
 You will be provided with text delimited by triple quotes. 
 If it contains a sequence of instructions, \ 
