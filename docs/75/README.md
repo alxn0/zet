@@ -20,6 +20,9 @@ the most intricate tapestry begins with a solitary thread.
 
 <child>: Teach me about resilience.
 """
+```
+
+```python
 response = get_completion(prompt)
 print(response)
 ```
