@@ -26,7 +26,7 @@ where $M_{11}$ is the number of items that are in both $A$ and $B$, $M_{01}$
 is the number of items that are in $A$ but not in $B$, and $M_{10}$ is the
 number of items that are in $B$ but not in $A$.
 
-[!binary matrix](binary_matrix.png)
+![binary matrix](binary_matrix.png)
 
 ## Relations to simple matching coefficient
 

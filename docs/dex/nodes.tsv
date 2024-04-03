@@ -37,9 +37,9 @@
 38	2024-03-31 10:05:10Z	Weighted centroid clustering
 39	2024-03-31 10:04:52Z	Ward's minimum variance clustering
 40	2024-04-01 16:42:50Z	§Markdown markup language
-41	2024-03-31 10:06:37Z	Basic markdown and CommonMark
+41	2024-04-03 12:04:21Z	Basic markdown and CommonMark
 42	2024-03-31 10:06:55Z	Some differences between Gruber's markdown and CommonMark 
-43	2024-03-31 10:07:03Z	GitHub Flavored markdown and advanced formating
+43	2024-04-03 12:04:02Z	GitHub Flavored markdown and advanced formating
 44	2024-03-31 10:07:08Z	Markdown HTML/CSS Hacks
 46	2024-03-31 10:24:14Z	Adjusted Mutual Information Score VS Rand Index
 47	2024-03-31 22:14:40Z	Debugging Brother DS-740D on Ubuntu 23.10
@@ -95,5 +95,5 @@
 100	2024-04-02 10:24:07Z	Vim macros
 101	2024-04-02 13:54:39Z	Vim: !COMMAND 
 102	2024-04-02 13:59:48Z	VIM: Execute shell commands
-103	2024-04-03 11:58:42Z	Jaccard index
+103	2024-04-03 12:04:31Z	Jaccard index
 104	2024-04-03 12:01:09Z	Simple matching coefficient
