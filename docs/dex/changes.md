@@ -1,3 +1,8 @@
+* 2024-04-03 11:58:42Z [Jaccard index](../103)
+* 2024-04-03 12:01:09Z [Simple matching coefficient](../104)
+* 2024-04-02 13:59:48Z [VIM: Execute shell commands](../102)
+* 2024-04-02 13:54:39Z [Vim: !COMMAND ](../101)
+* 2024-04-02 10:24:07Z [Vim macros](../100)
 * 2024-04-01 21:54:06Z [Academic paper reading list ](../11)
 * 2024-04-01 21:54:03Z [CS/Stats useful learning materials](../12)
 * 2024-04-01 21:53:57Z [Usefull dev and analysis CLI tools](../13)

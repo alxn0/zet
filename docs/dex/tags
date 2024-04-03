@@ -1,18 +1,17 @@
-markdown 19 40 41 42 43 44
-cli 48
-debugging 47
-llm 62
-hardware 47 58
-statistical-association 2 3 4 16 61 66 15
-vizualisation 68
-bookmarks 11 12 13
-clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46 96
 env-secrets 53
-ocr 48
-vim 55
-prompt-engineering 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+statistical-association 2 3 4 16 61 66 15
+markdown 19 40 41 42 43 44
+vim 55 100 101
 rag 65 64 63 67 69
-semantic-search 66
+llm 62
+bookmarks 11 12 13
 embedding 60 93
-music 56
+prompt-engineering 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+hardware 47 58
+cli 48
+clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46 96
+vizualisation 68
 note-taking 1 49 50 51 52 54 55
+semantic-search 66
+debugging 47
+ocr 48
