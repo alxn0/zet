@@ -12,7 +12,7 @@ where
 
 The SMC ranges from 0 to 1, where 0 indicates no similarity between two sets of data and 1 indicates perfect similarity between two sets of data.
 
-[!binary-smc-matrix](binary-smc-matrix.png)
+![binary-smc-matrix](binary-smc-matrix.png)
 
 ## References
 
