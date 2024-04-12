@@ -9,7 +9,7 @@ omnicomp[^1]
 
 ## Options
 
-1. Create a new index files with alread created links, such as
+1. Create a new index files with already created links, such as
    `[NAME](../1)`
     - *Problem*: we will see all `[]` and `(../number)` when searching
     - *facilities*: `changes.md` already have this information

@@ -1,3 +1,4 @@
+* 2024-04-12 15:34:30Z [What could be a simple implementation of autocomplete for Keg](../55)
 * 2024-04-03 21:55:53Z [§Markdown markup language](../40)
 * 2024-04-03 12:05:21Z [Align images with wordwrap in markdown](../19)
 * 2024-04-03 12:04:39Z [Simple matching coefficient](../104)
@@ -13,7 +14,6 @@
 * 2024-04-01 21:46:38Z [Adjusting creativity/randomness in LLMs](../62)
 * 2024-04-01 17:31:08Z [§Note-taking](../95)
 * 2024-04-01 17:30:59Z [Joel Chan's knowledge synthesis](../99)
-* 2024-04-01 17:19:49Z [What could be a simple implementation of autocomplete for Keg](../55)
 * 2024-04-01 17:18:01Z [Today I Learn](../54)
 * 2024-04-01 17:17:33Z [The collector fallacy](../52)
 * 2024-04-01 17:17:06Z [The two Luhmann's Zettels on the Zettelkasten](../51)
