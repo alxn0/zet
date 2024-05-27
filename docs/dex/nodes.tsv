@@ -3,7 +3,7 @@
 2	2024-04-01 17:15:11Z	§Statistical association
 3	2024-03-31 06:45:43Z	Similarity and distance
 4	2024-03-31 15:39:22Z	Distances vs dissimilarities
-5	2024-04-01 16:42:27Z	§Clustering
+5	2024-05-27 10:55:57Z	§Clustering
 6	2024-03-31 07:04:30Z	Clustering process
 7	2024-03-31 07:08:49Z	Traditional clustering algorithms
 9	2024-03-31 07:13:13Z	Clustering validation
@@ -14,7 +14,7 @@
 15	2024-04-01 14:43:16Z	Dependance or correlation 
 16	2024-03-31 15:36:35Z	What about metric distances and metric space?
 17	2024-03-31 15:37:03Z	Clustering with semimetric distances
-18	2024-04-01 16:34:54Z	GL.Inet Slate plus as a home wifi router
+18	2024-04-28 17:29:57Z	GL.Inet Slate plus as a home wifi router
 19	2024-04-03 12:05:21Z	Align images with wordwrap in markdown
 20	2024-03-31 09:39:20Z	External criteria for clustering validation
 21	2024-04-01 14:35:25Z	Simple and adjusted Rand indices
@@ -50,7 +50,7 @@
 52	2024-04-01 17:17:33Z	The collector fallacy
 53	2024-03-31 10:48:58Z	Manage .env files with dotenv
 54	2024-04-01 17:18:01Z	Today I Learn
-55	2024-04-12 15:34:30Z	What could be a simple implementation of autocomplete for Keg
+55	2024-04-12 15:58:31Z	What could be a simple implementation of autocomplete for Keg
 58	2024-03-31 11:03:21Z	GL.Inet Slate plus as a home wifi router
 60	2024-04-01 14:27:55Z	Text embedding
 61	2024-04-01 16:43:57Z	Distance metrics in high dimensions
@@ -88,7 +88,7 @@
 93	2024-04-01 14:44:59Z	Multimodal embedding
 94	2024-04-01 14:31:11Z	Advanced RAG
 95	2024-04-01 17:31:08Z	§Note-taking
-96	2024-04-01 16:40:06Z	What is clustering analysis?
+96	2024-05-27 11:42:20Z	What is clustering analysis?
 97	2024-04-01 16:41:46Z	Clustering analysis references
 98	2024-04-01 17:07:59Z	§Retrival-augmented generation
 99	2024-04-01 17:30:59Z	Joel Chan's knowledge synthesis
@@ -97,3 +97,6 @@
 102	2024-04-02 13:59:48Z	VIM: Execute shell commands
 103	2024-04-03 12:04:31Z	Jaccard index
 104	2024-04-03 12:04:39Z	Simple matching coefficient
+105	2024-04-18 11:43:43Z	Python pass vs continue
+106	2024-04-18 12:26:32Z	__init__.py
+107	2024-05-27 11:44:09Z	Dimensionality reduction

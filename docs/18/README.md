@@ -17,6 +17,5 @@ The GL.Inet Slate plus seems interesting.
 
 <https://www.gl-inet.com/products/gl-a1300/>
 
-
 [^1]: <https://openwrt.org/toh/gl.inet/gl-a1300>
 [^2]: <https://openwrt.org/toh/recommended_routers>
