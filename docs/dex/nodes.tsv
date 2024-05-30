@@ -99,4 +99,7 @@
 104	2024-04-03 12:04:39Z	Simple matching coefficient
 105	2024-04-18 11:43:43Z	Python pass vs continue
 106	2024-04-18 12:26:32Z	__init__.py
-107	2024-05-27 11:44:09Z	Dimensionality reduction
+107	2024-05-30 11:15:29Z	Dimensionality reduction
+108	2024-05-30 11:14:22Z	Loss function
+109	2024-05-30 15:04:28Z	non Metric multidimensional scaling
+110	2024-05-30 15:01:50Z	Minkowski distance
