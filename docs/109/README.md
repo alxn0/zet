@@ -48,6 +48,8 @@ $$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}_{ij})^2}{\sum_{i, j} (d_{ij} - 
 
 ## Algorithm
 
+### Detailed
+
 1. Take an arbitrary dissimilarity matrix $D$ with $n$ objects
 2. Specify the number of $m$ dimensions
 3. Initialize a random configuration of $n$ points in an Euclidean space of *m* dimensions
@@ -69,6 +71,8 @@ $$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}_{ij})^2}{\sum_{i, j} (d_{ij} - 
 
 See Legendre and Legendre (2012; section 9.4) for a detailed description of the
 algorithm.
+
+### Compact
 
 A more compact form of this algorithm is (Wikipedia) :
 -  Initialize $x_i$ randomly, e. g. by sampling from a normal distribution. 
