@@ -77,7 +77,7 @@ algorithm.
 A more compact form of this algorithm is (Wikipedia) :
 -  Initialize $x_i$ randomly, e. g. by sampling from a normal distribution. 
 -  Do until a stopping criterion (for example, $S\epsilon$)
-    - Solve for $f = argmin_f S(x_1, ..., x_n ; f)$ by [[isotonic regression]]. 
+    - Solve for $f = argmin_f S(x_1, ..., x_n ; f)$ 
     - Solve for $x_1, ..., x_n = argmin_{x_1, ..., x_n}  S(x_1, ..., x_n ; f)$. 
 - Return $x_i$ and $f$ 
 
