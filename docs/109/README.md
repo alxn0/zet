@@ -39,6 +39,8 @@ The differences between $d_{ij}$ and $\delta_{ij}$ are squared to avoid negative
 The denominator is used to normalize the stress value, so it can be compared across
 different datasets.
 
+It ranges between 0 and 1, 0 indicates complete accordance between all rank order distances in the input data and the final ordination
+
 ## Stress 2
 
 An alternative to previous stress definition is to change the scaling
