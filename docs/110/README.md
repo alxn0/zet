@@ -12,6 +12,7 @@ For $p > 2$ it gives more weight to large differences between values, while for 
 
 ## References
 
-<https://en.wikipedia.org/wiki/Minkowski_distance)>
+<https://en.wikipedia.org/wiki/Minkowski_distance>
+
 Legendre, P., & Legendre, L. (2012). Numerical ecology (3rd ed., Vol. 24). Elsevier. Equation 7.43.
 
