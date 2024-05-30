@@ -30,7 +30,7 @@ be minimized. Stress is a measure of the discrepancy between the
 distances in the original and the lower dimensional spaces. The stress
 function is defined as:
 
-$$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}_{ij})^2}{\sum_{i, j} d_{ij}^2}} $$
+$$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}\_{ij})^2}{\sum_{i, j} d_{ij}^2}} $$
 
 where $d_{ij}$ is the distance between points $i$ and $j$ in the original matrix
 and $\delta_{ij}$ is the distance between the same points in the lower dimensional.
@@ -44,7 +44,7 @@ different datasets.
 An alternative to previous stress definition is to change the scaling
 factor (i.e., denominator) as follows:
 
-$$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}_{ij})^2}{\sum_{i, j} (d_{ij} - \bar{d})^2}} $$
+$$ S = \sqrt{\frac{\sum_{i, j} (d_{ij} - \hat{d}\_{ij})^2}{\sum_{i, j} (d_{ij} - \bar{d})^2}} $$
 
 ## Algorithm
 
