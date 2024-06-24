@@ -39,7 +39,12 @@ The differences between $d_{ij}$ and $\delta_{ij}$ are squared to avoid negative
 The denominator is used to normalize the stress value, so it can be compared across
 different datasets.
 
-It ranges between 0 and 1, 0 indicates complete accordance between all rank order distances in the input data and the final ordination
+A value of 0 indicates complete accordance between all rank order distances 
+in the input data and the final ordination.
+
+Although it can be calculated between 0 and 1, the maximum value for 2D
+is 0.58, and this value decrease with increasing number of dimensions
+(De Leeuw and Stoop 1984).
 
 ## Stress 2
 
@@ -84,7 +89,22 @@ A more compact form of this algorithm is (Wikipedia) :
 - Return $x_i$ and $f$ 
 
 
-## Limit of stress
+## Interpretation of stress
+
+A general rule of thumb to assess the quality of the ordination is that:
+
+- $S < 0.05 $ provides an excellent representation
+- $S < 0.1 $ is a good representation
+- $S < 0.2 $ is a fair representation
+- $S > 0.2 $ is a poor representation and should not be interpreted
+
+
+Although stress is discuss as a goodness-of-fit measures, it does
+not represent suh measure in a conventional sense, but more like
+an AIC or BIC, as it is used to optimized the ordination.
+
+Still most papers in ecology use stress to assess the quality of the
+ordination, and no other approach (Dexter et al., 2018)
 
 ## Considerations
 
@@ -96,6 +116,8 @@ A more compact form of this algorithm is (Wikipedia) :
 ## References
 
 De Leeuw, J., and I. Stoop. 1984. Upper bounds for Kruskal’s stress. Psychometrika 49: 391–402. doi:10.1007/ BF02306028
+
+Dexter, E., Rollwagen‐Bollens, G., & Bollens, S. M. (2018). The trouble with stress: A flexible method for the evaluation of nonmetric multidimensional scaling. Limnology and Oceanography: Methods, 16(7), 434–443. https://doi.org/10.1002/lom3.10257
 
 Kruskal, J. B. 1964a. Multidimensional scaling by optimizing goodness of fit to a nonmetric hypothesis. Psychometrika 29: 1–27. doi:10.1007/BF02289565 
 

@@ -1,5 +1,17 @@
-# Dimensionality reduction
+# §D imensionality reduction
 
+## General
+ - [What is dimensionnality reduction]()
+ - [Different forms]()
+
+## Methods
+ - [PCA]()
+ - [PCoA]()
+ - [MDS and nMDS]()
+ - [t-SNE]()
+ - [Isomap]()
+ - [Spectral]()
+ - [UMAP]()
 
 ## Reading list
 <https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1006907>
