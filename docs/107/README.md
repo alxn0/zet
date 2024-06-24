@@ -1,12 +1,16 @@
 # § Dimensionality reduction
 
-## General
+## Topics
  - [What is dimensionnality reduction](../111/README.md)
  - [Terminology](../112/README.md)
  - [Feature selection and extraction](../113/README.md)
  - [Feature extraction dimensionality reduction classification](../114/README.md)
+ - [Manifold hypothesis](../115/README.md)
 
-## Feature extractions methods classifications
+## General approaches
+ - [Spectral methods](../116/README.md)
+ - [Probabilistic methods](../117/README.md)
+ - [Neural networks](../118/README.md)
 
 ## Methods
  - [PCA]()
