@@ -11,6 +11,7 @@
  - [Random projection and manifold based](../116/README.md)
  - [Spectral methods](../117/README.md)
  - [Neural network based](../118/README.md)
+ - [Taxonomy](.../119/README.md)
 
 ## Methods
  - [PCA]()
