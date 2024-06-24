@@ -1,4 +1,5 @@
 * 2024-06-24 09:53:13Z [§D imensionality reduction](../107)
+* 2024-06-24 10:49:52Z [What is dimensionnality reduction](../111)
 * 2024-06-18 14:54:39Z [GL.Inet Slate plus as a home wifi router](../18)
 * 2024-05-30 16:07:57Z [non Metric multidimensional scaling](../109)
 * 2024-05-30 15:12:33Z [Clustering validity based on internal criteria](../10)
