@@ -55,6 +55,12 @@ optimize an objective function that does not contain any local minima,
 while the others are **non convex**, as the objective functions ontains
 
 ## References
+
+Anowar, F., Sadaoui, S., & Selim, B. (2021). Conceptual and empirical
+comparison of dimensionality reduction algorithms (PCA, KPCA, LDA, MDS,
+SVD, LLE, ISOMAP, LE, ICA, t-SNE). Computer Science Review, 40,
+100378. <https://doi.org/10.1016/j.cosrev.2021.100378>
+
 Saul, L. K., Weinberger, K. Q., Sha, F., Ham, J., & Lee, D. D. (2006). Spectral methods for dimensionality reduction.
 
 Van Der Maaten, L., Postma, E. O., van den Herik, H. J., & others. (2009). Dimensionality reduction: A comparative review. Journal of Machine Learning Research, 10(66–71), 13.

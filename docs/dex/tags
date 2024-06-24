@@ -1,20 +1,25 @@
-bookmarks 11 12 13
-dimensionality-reduction 107
-llm 62
-note-taking 1 49 50 51 52 54 55
-hardware 47 58
-semantic-search 66
-ocr 48
-statistical-association 2 3 4 16 61 66 15 110
-cli 48
-env-secrets 53
-model-fit 108
-debugging 47
-rag 65 64 63 67 69
-vizualisation 68
-clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46 96
-python 105 106
-vim 55 100 101
-prompt-engineering 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
-embedding 60 93
 markdown 19 40 41 42 43 44
+clustering 5 6 7 9 10 16 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 46 96
+bookmarks 11 12 13
+debugging 47
+114 
+dimensionality-reduction 107
+prompt-engineering 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+vim 55 100 101
+107 
+111 
+112 
+env-secrets 53
+ocr 48
+cli 48
+vizualisation 68
+rag 65 64 63 67 69
+statistical-association 2 3 4 16 61 66 15 110
+llm 62
+embedding 60 93
+hardware 47 58
+python 105 106
+model-fit 108
+semantic-search 66
+note-taking 1 49 50 51 52 54 55
+113 
