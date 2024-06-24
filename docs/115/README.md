@@ -1,4 +1,4 @@
-# Manifold hypothesis and manifold learning
+# Manifold hypothesis 
 
 ## Manifold
 
