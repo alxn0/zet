@@ -3,8 +3,9 @@
 
 ## What is it?
 Dimensionality reduction is the process of reducing the number of random
-variables (i.e., dimensions) by obtaining a set of principal variables
-that are expected to explain most of the variance in the data. It is a
+variables (i.e., dimensions) by obtaining a set of variables [(a.k.a
+dimension, factors, components)](../112/README.md)
+that are expected to explain most of the properties the data. It is a
 key process in data exploration and preprocessing, but also in 
 analysis when to goal is to understand the underlying structure of the data.
 
