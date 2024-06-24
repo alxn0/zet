@@ -3,15 +3,10 @@
 ## General
  - [What is dimensionnality reduction](../111/README.md)
  - [Terminology](../112/README.md)
+ - [Feature selection and extraction](../113/README.md)
+ - [Feature extraction dimensionality reduction classification](../114/README.md)
 
-## Categorization
- - [Feature selection and feature extraction](../113/README.md)
- - [Linear and non linear methods](../114/README.md)
- - [Supervised and unsupervised](../115/README.md)
- - [Random projection and manifold based](../116/README.md)
- - [Spectral methods](../117/README.md)
- - [Neural network based](../118/README.md)
- - [Taxonomy](.../119/README.md)
+## Feature extractions methods classifications
 
 ## Methods
  - [PCA]()
