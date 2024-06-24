@@ -41,7 +41,8 @@ linear dimensionality reduction techniques (see page 4 in Ghojogh and al., 2023)
 
 <https://en.wikipedia.org/wiki/Manifold>
 
-Meilă, M., & Zhang, H. (2023). Manifold learning: What, how, and why.
+Meilă, M., & Zhang, H. (2023). Manifold learning: What, how, and
+why. <https://arxiv.org/abs/2311.03757>
 
 Ghojogh, B., Crowley, M., Karray, F., & Ghodsi, A. (2023). Elements of dimensionality reduction and manifold learning. Springer Nature. 
 
