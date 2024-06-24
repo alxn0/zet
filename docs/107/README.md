@@ -1,15 +1,16 @@
-# §D imensionality reduction
+# § Dimensionality reduction
 
 ## General
  - [What is dimensionnality reduction](../111/README.md)
- - [Overview of approaches to dimensionality reduction](../112/README.md)
- - [Linear and non linear methods](../113/README.md)
- - [Feature selection and feature extraction](../114/README.md)
+ - [Terminology](../112/README.md)
 
-## Approaches
- - [Ordination]()
- - [Factor analysis]()
- - [Manifold learning]()
+## Categorization
+ - [Feature selection and feature extraction](../113/README.md)
+ - [Linear and non linear methods](../114/README.md)
+ - [Supervised and unsupervised](../115/README.md)
+ - [Random projection and manifold based](../116/README.md)
+ - [Spectral methods](../117/README.md)
+ - [Neural network based](../118/README.md)
 
 ## Methods
  - [PCA]()
