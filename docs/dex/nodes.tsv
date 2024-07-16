@@ -4,7 +4,6 @@
 3	2024-03-31 06:45:43Z	Similarity and distance
 4	2024-03-31 15:39:22Z	Distances vs dissimilarities
 5	2024-05-27 10:55:57Z	§Clustering
-6	2024-03-31 07:04:30Z	Clustering process
 7	2024-03-31 07:08:49Z	Traditional clustering algorithms
 9	2024-03-31 07:13:13Z	Clustering validation
 10	2024-05-30 15:12:33Z	Clustering validity based on internal criteria
@@ -14,10 +13,10 @@
 15	2024-04-01 14:43:16Z	Dependance or correlation 
 16	2024-03-31 15:36:35Z	What about metric distances and metric space?
 17	2024-03-31 15:37:03Z	Clustering with semimetric distances
-18	2024-06-18 14:54:39Z	GL.Inet Slate plus as a home wifi router
+18	2024-07-16 10:53:11Z	GL.Inet Slate plus as a home wifi router
 19	2024-04-03 12:05:21Z	Align images with wordwrap in markdown
 20	2024-03-31 09:39:20Z	External criteria for clustering validation
-21	2024-04-01 14:35:25Z	Simple and adjusted Rand indices
+21	2024-07-11 16:37:55Z	Simple and adjusted Rand indices
 22	2024-03-31 09:43:24Z	Hubert' gamma statistic
 23	2024-04-01 14:34:33Z	Cophenetic distances and correlations
 24	2024-03-31 09:50:26Z	Calinski Harabasz index
@@ -41,7 +40,7 @@
 42	2024-03-31 10:06:55Z	Some differences between Gruber's markdown and CommonMark 
 43	2024-04-03 12:04:02Z	GitHub Flavored markdown and advanced formating
 44	2024-03-31 10:07:08Z	Markdown HTML/CSS Hacks
-46	2024-03-31 10:24:14Z	Adjusted Mutual Information Score VS Rand Index
+46	2024-07-11 16:44:58Z	Adjusted Mutual Information Score VS Rand Index
 47	2024-03-31 22:14:40Z	Debugging Brother DS-740D on Ubuntu 23.10
 48	2024-03-31 10:34:30Z	Scanning to OCR PDF in linux from the command line
 49	2024-04-01 17:16:44Z	Andy Matushak Evergreen Notes
@@ -99,12 +98,17 @@
 104	2024-04-03 12:04:39Z	Simple matching coefficient
 105	2024-04-18 11:43:43Z	Python pass vs continue
 106	2024-04-18 12:26:32Z	__init__.py
-107	2024-06-24 16:21:15Z	§ Dimensionality reduction
+107	2024-07-16 11:39:54Z	§ Dimensionality reduction
 108	2024-06-24 14:47:35Z	Loss function
 109	2024-05-30 16:07:57Z	non Metric multidimensional scaling
 110	2024-05-30 15:07:04Z	Minkowski distance
-111	2024-06-24 13:14:35Z	What is dimensionnality reduction
-112	2024-06-24 12:56:28Z	Dimensionality reduction terminology
-113	2024-06-24 14:39:57Z	Feature selection and extraction (Jia and al., 2022)
-114	2024-06-24 15:11:18Z	Feature extraction dimensionality reduction classification
+111	2024-07-16 11:40:26Z	What is dimensionnality reduction
+112	2024-07-16 11:41:07Z	Dimensionality reduction terminology
+113	2024-07-16 11:41:28Z	Feature selection and extraction (Jia and al., 2022)
+114	2024-07-16 11:41:46Z	Feature extraction dimensionality reduction classification
 115	2024-06-24 15:40:18Z	Manifold hypothesis 
+116	2024-07-16 11:36:42Z	Pinguin sell cheap auth keys for various software
+117	2024-07-16 11:38:23Z	Retaining the benefits of luhmans numbering in obsidian 
+118	2024-07-16 11:39:01Z	Ergoton HX monitor arm
+119	2024-07-16 11:44:01Z	Some videos on mushroom growing
+120	2024-07-16 11:47:47Z	Allopecia and phytotherapy
