@@ -18,7 +18,4 @@ scanimage --format=png --resolution=300 | tesseract -l fra --dpi 300 pdf > scan.
 > --resolution and --mode and not scanimage parameters, but ones for the
 > scanner backend. May change with different backend.
 
-
-
-
 [^1]: https://tesseract-ocr.github.io/
