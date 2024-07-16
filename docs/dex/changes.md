@@ -121,5 +121,6 @@
 * 2024-03-31 09:39:20Z [External criteria for clustering validation](../20)
 * 2024-03-31 07:13:13Z [Clustering validation](../9)
 * 2024-03-31 07:08:49Z [Traditional clustering algorithms](../7)
+* 2024-03-31 07:04:30Z [Clustering process](../6)
 * 2024-03-31 06:45:43Z [Similarity and distance](../3)
 * 2024-03-22 14:00:39Z [Sorry, planned but not yet available](../0)
