@@ -34,7 +34,57 @@ over the internet.
     - *Authorization* is also handled through the HTTP headers with 
     tokens or API keys.
 
-## Example 
+## Parameters
+
+- **Header**: Metadata about the request, such as the format of the
+  response, or the authorization token.
+- **Path**: The path to the ressource, which is used to identify the
+  ressource (e.g., `/users/123`).
+- **Query**: Additional parameters to filter the ressource embeded
+  in the URL in the form of [query string](../138/README.md)(e.g.,
+  `/users?role=admin`).
+
+## Simple Example
+
+When entering the following URL in `firefox` 
+<https://api.restful-api.dev/objects?id=3&id=5&id=10>, we asked the
+server to connect to the *objects* ressources, and filter those
+with id=[3, 5, 10]. The server will respond with the following JSON.
+
+```json
+[
+  {
+    "id": "3",
+    "name": "Apple iPhone 12 Pro Max",
+    "data": {
+      "color": "Cloudy White",
+      "capacity GB": 512
+    }
+  },
+  {
+    "id": "5",
+    "name": "Samsung Galaxy Z Fold2",
+    "data": {
+      "price": 689.99,
+      "color": "Brown"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Apple iPad Mini 5th Gen",
+    "data": {
+      "Capacity": "64 GB",
+      "Screen size": 7.9
+    }
+  }
+]
+```
+
+## More complex example with CURL
 
 
+
+---
+<https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/>
+<https://restful-api.dev/rest-fundamentals#rest>
 
