@@ -1,4 +1,4 @@
-# Web server 
+# HTTP server (web server) 
 
 A web server is a software designed to serve HTTP content. It listens on a port
 for incoming requests and sends back responses. Common web servers are
@@ -18,6 +18,21 @@ architecture, which is the most common approach to build web-based APIs
 for backend services.
 
 Web server relies on [TCP/IP protocol](../135/README.md) to communicate with clients.
+The server listens on a port for incoming requests and sends back
+responses.
+
+[Application server](../136/README.md) can also be used in conjunction with web server
+to run server-side code and generate dynamic content. The web server
+receives the request from the clients and forwards it to the 
+application server. The application server processes the request and
+sends back the response to the web server, which in turn sends it back
+to the client. In this framework, web server can also be used only as
+[reverse proxy](../137/README.md), a gateway that forward requests 
+to multiple application servers.
+
+
+
+---
 
 
 
