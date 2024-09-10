@@ -48,6 +48,9 @@ The overall architecture of an HTTP response is as follows:
 The following example is from the [mozilla developer
 network's](../133/http_response.svg)
 
+They can also includes [query string](../138/README.md) to pass
+parameters to the server.
+
 ## Example using netcast
 
 Using `netcast` utility, it is possible to send raw HTTP request
