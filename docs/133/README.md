@@ -1,4 +1,4 @@
-# Architecture of HTTP messages
+# Hyper Text Transfer Protocol (HTTP)
 
 HTTP is a protocol for fetching ressources. It is the
 foundation of data exchange on the web and is based on a
