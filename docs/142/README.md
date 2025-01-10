@@ -9,9 +9,12 @@ does not work as oauth2.dance domain as expired (see
 - [pizauth](https://github.com/ltratt/pizauth) need to be build with
   rust
 
-- [oama](https://github.com/pdobsan/oama) seems more straithforward
+- [oama](https://github.com/pdobsan/oama) need to be build with haskell
 
 
-## Let's try with oama if I can authorize and renew a token
+## Let's try with pizauth as there is information for (neo)mutt and age
+integration
+
+
 
 
