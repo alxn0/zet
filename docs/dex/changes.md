@@ -1,3 +1,4 @@
+* 2025-01-17 11:02:41Z [Gnome keyrings](../143)
 * 2025-01-10 12:56:29Z [Access Gmail through CLI with oauth2](../142)
 * 2024-12-03 11:27:06Z [Gnucash reports stopped working](../141)
 * 2024-11-04 23:15:53Z [Relative criteria for clustering internal validation](../27)
